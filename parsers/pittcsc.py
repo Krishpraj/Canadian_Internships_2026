@@ -4,15 +4,14 @@ from datetime import date, timedelta
 from parsers.base import BaseParser, Internship
 
 
-class SimplifyJobsParser(BaseParser):
+class PittCSCParser(BaseParser):
     """
-    Parses SimplifyJobs/Summer2026-Internships README-Off-Season.md
+    Parses pittcsc/Summer2026-Internships README.md
 
-    Uses HTML <table> with <tr> rows. Each row has:
+    Uses HTML <table> with <tr> rows. Each data row has:
     <td><strong><a href="...">Company</a></strong></td>
     <td>Role</td>
     <td>Location</td>
-    <td>Terms</td>
     <td><div align="center"><a href="APPLY_URL">...</a> <a href="SIMPLIFY_URL">...</a></div></td>
     <td>2d</td>
     """
@@ -40,25 +39,21 @@ class SimplifyJobsParser(BaseParser):
             company_cell = tds[0]
             role_cell = tds[1]
             location_cell = tds[2]
-            if len(tds) >= 6:
-                apply_cell = tds[4]
-                age_cell = tds[5]
-            else:
-                apply_cell = tds[3]
-                age_cell = tds[4]
+            apply_cell = tds[3]
+            age_cell = tds[4]
 
             # Skip closed positions
-            if "\U0001f512" in tr_html:  # 🔒
+            if "\U0001f512" in tr_html:
                 continue
 
-            # Company name
+            # Company name, handling continuation rows marked with arrows.
             company_match = self._COMPANY_RE.search(company_cell)
             if company_match:
                 company = company_match.group(1).strip()
                 current_company = company
             else:
                 company_text = self._strip_html(company_cell)
-                if company_text in {"↳", "â†³", ""} and current_company:
+                if company_text in {"", "\u21b3", "\u00e2\u2020\u00b3"} and current_company:
                     company = current_company
                 elif company_text:
                     company = company_text
@@ -69,13 +64,11 @@ class SimplifyJobsParser(BaseParser):
             role = self._strip_html(role_cell)
             location = self._strip_html(location_cell)
 
-            # Apply URL - take the FIRST <a href> (direct link, not Simplify)
             apply_match = self._APPLY_RE.search(apply_cell)
             if not apply_match:
                 continue
             apply_url = apply_match.group(1)
 
-            # Age
             age_match = self._AGE_RE.search(age_cell)
             if not age_match:
                 continue
@@ -84,7 +77,7 @@ class SimplifyJobsParser(BaseParser):
             days_ago = amount if unit == "d" else amount * 30
             date_posted = today - timedelta(days=days_ago)
 
-            uid = Internship.make_uid("simplifyjobs", company, role, apply_url)
+            uid = Internship.make_uid("pittcsc", company, role, apply_url)
             results.append(
                 Internship(
                     uid=uid,
@@ -93,7 +86,7 @@ class SimplifyJobsParser(BaseParser):
                     location=location,
                     apply_url=apply_url,
                     date_posted=date_posted,
-                    source="simplifyjobs",
+                    source="pittcsc",
                     is_closed=False,
                 )
             )

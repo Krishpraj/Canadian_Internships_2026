@@ -40,4 +40,9 @@ SOURCES = [
         url="https://raw.githubusercontent.com/negarprh/Canadian-Tech-Internships-2026/main/README.md",
         parser="canadian",
     ),
+    RepoSource(
+        name="pittcsc",
+        url="https://raw.githubusercontent.com/pittcsc/Summer2026-Internships/master/README.md",
+        parser="pittcsc",
+    ),
 ]

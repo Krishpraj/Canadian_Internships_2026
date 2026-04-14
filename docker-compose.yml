@@ -1,7 +1,10 @@
 services:
   bot:
+    image: internship-bot:latest
     build: .
     env_file: .env
+    environment:
+      DB_PATH: /data/seen.db
     volumes:
       - bot-data:/data
     restart: unless-stopped

@@ -1,9 +1,10 @@
 # Internships
 
-_Last updated: 2026-04-20 11:00 UTC — 163 open roles_
+_Last updated: 2026-04-20 12:43 UTC — 164 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Royal Bank of Canada | Wealth Management – Distribution Product Management Intern | Vancouver, BC, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Wealth Management Data Analyst Co-op | Toronto, ON, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Fall-Data-Analyst--4-16-months-_R-0000168559?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Insurance Business and Data Analyst Intern | Mississauga, ON, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Business-and-Data-Analyst--4-16-months-_R-0000168616?utm_source=Simplify&ref=Simplify) |
 | TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |

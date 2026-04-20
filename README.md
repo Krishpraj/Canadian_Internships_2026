@@ -1,13 +1,15 @@
 # Internships
 
-_Last updated: 2026-04-20 14:27 UTC — 164 open roles_
+_Last updated: 2026-04-20 15:51 UTC — 166 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Royal Bank of Canada | Wealth Management – Distribution Product Management Intern | Vancouver, BC, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Wealth Management Data Analyst Co-op | Toronto, ON, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Fall-Data-Analyst--4-16-months-_R-0000168559?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Insurance Business and Data Analyst Intern | Mississauga, ON, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Business-and-Data-Analyst--4-16-months-_R-0000168616?utm_source=Simplify&ref=Simplify) |
-| TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |
+| Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150?utm_source=Simplify&ref=Simplify) |
+| Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada | Apr 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-1?utm_source=Simplify&ref=Simplify) |
+| TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Co-op | Kitchener, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117?utm_source=Simplify&ref=Simplify) |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894?utm_source=Simplify&ref=Simplify) |
 | Stryker | Systems R&D Engineer Co-op | Burnaby, BC | Apr 17, 2026 | Canadian Tech | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Burnaby-Canada/Systems-R-D-Engineer-Co-Op_R562620) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-04-20 09:22 UTC — 163 open roles_
+_Last updated: 2026-04-20 11:00 UTC — 163 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ _Last updated: 2026-04-20 09:22 UTC — 163 open roles_
 | Autodesk | Machine Learning Developer | Montreal, QC | Mar 24, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Quebec---Montreal---10-Rue-Duke/Intern--Machine-Learning-Developer_25WD92312) |
 | Autodesk | Intern AI Developer | Montreal, QC | Mar 24, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93809-2) |
 | General Motors | Chassis Controls Software Developer, Co-op | Markham, ON | Mar 23, 2026 | Canadian Tech | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Chassis-Controls-Software-Developer--Co-op-_JR-202606122) |
-| Hitachi | Site Deployment Intern | Ottawa, ON, Canada | Mar 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993?utm_source=Simplify&ref=Simplify) |
+| Hitachi | Site Deployment Intern | Ottawa, ON, Canada | Mar 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993?utm_source=Simplify&ref=Simplify) |
 | Solink | Software Engineer Co-op, AI/ML | Ottawa, ON | Mar 19, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/4460f7ac-b697-4c9c-946d-16196a8ef58b/) |
 | Assent | AI Research Intern | Ottawa, ON | Mar 18, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Assent/744000109933874) |
 | Kinaxis | Intern Engineer, Data and Analytics | Ottawa, ON | Mar 16, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34446/job?mobile=true&needsRedirect=false) |

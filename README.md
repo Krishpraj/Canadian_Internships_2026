@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-04-23 22:32 UTC — 142 open roles_
+_Last updated: 2026-04-23 23:34 UTC — 141 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,6 @@ _Last updated: 2026-04-23 22:32 UTC — 142 open roles_
 | RBC | Data Analyst, Commercial Banking | Toronto, ON | Apr 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978) |
 | Bank of Montreal | Quantitative Analyst – Co-op/Intern - 4 Months 🎓 | Toronto, ON, Canada | Apr 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627-1?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Quantitative Analyst – Co-op/Intern - 4 Months 🎓 | Toronto, ON, Canada | Apr 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627?utm_source=Simplify&ref=Simplify) |
-| RTX | Customer Master Data Analysis Intern 🎓 | Longueuil, QC, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage-d-automne--Gestion-et-analyse-de-donnees-clients---Internship--Fall---Customer-Master-Data-Analysis-and-Management_01837077?utm_source=Simplify&ref=Simplify) |
 | RTX | Customer Master Data Analysis Intern | Longueuil, QC | Apr 21, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage-d-automne--Gestion-et-analyse-de-donnees-clients---Internship--Fall---Customer-Master-Data-Analysis-and-Management_01837077) |
 | Royal Bank of Canada | Global Risk Analytics Intern - Grm - 4 Months | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-2?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Global Risk Analytics Intern | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-1?utm_source=Simplify&ref=Simplify) |

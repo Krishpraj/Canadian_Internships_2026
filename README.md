@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-04-29 17:14 UTC — 170 open roles_
+_Last updated: 2026-04-29 18:53 UTC — 169 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -98,7 +98,6 @@ _Last updated: 2026-04-29 17:14 UTC — 170 open roles_
 | TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Fall 2026 Co-op, Automation Developer | Waterloo, ON | Apr 17, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117) |
 | Primetals Technologies | Software Development & Data Science Analyst Intern | Boisbriand, QC | Apr 16, 2026 | Canadian Tech | [Apply](https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract) |
-| Pinterest | Software Engineer Intern | Toronto, ON, Canada | Apr 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7258004&utm_source=Simplify&ref=Simplify) |
 | Medtronic | Strategic Insights & Analytics Intern | Brampton, ON | Apr 16, 2026 | Canadian Tech | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Brampton-Ontario-Canada/Strategic-Insights---Analytics-Intern_R64431) |
 | Calix | Test and Manufacturing Intern | Remote, Canada | Apr 16, 2026 | Canadian Tech | [Apply](https://calix.wd1.myworkdayjobs.com/External/job/Remote---USA/Test-and-Manufacturing-Intern_R-11632) |
 | RTX | Student Intern, Engineering | Midland, ON | Apr 15, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--450-BLDG/Summer-Student---Engineering_01837374-1) |

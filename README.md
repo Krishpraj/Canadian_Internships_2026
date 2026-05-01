@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-01 07:57 UTC — 190 open roles_
+_Last updated: 2026-05-01 09:28 UTC — 189 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,6 @@ _Last updated: 2026-05-01 07:57 UTC — 190 open roles_
 | Capital One | Backend Software Engineer Intern - Team Customer Acquisitions | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Customer-Acquisitions---Fall-2026_R241119?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Wealth Gen AI Product & Enablement Intern/Co-op | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth---Gen-AI-Product---Enablement-Intern-Co-op--Fall-2026-_R_1486064?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Business Insights & Analytics Co-op/Intern | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights---Analytics-Co-op-Intern-Fall-2026_R_1482668?utm_source=Simplify&ref=Simplify) |
-| Shopify | Data and Engineering Intern | 5 locations Montreal, QC, Canada Toronto, ON, Canada NYC Bellevue, WA Ottawa, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Enterprise Data Management Solutions Intern - Data Analyst | Nova Scotia, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Enterprise Data Management Solutions Intern | Nova Scotia, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788-1?utm_source=Simplify&ref=Simplify) |
 | CIBC | Capital Markets – Alternate Solutions Group Analyst Intern | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Capital-Markets--Alternate-Solutions-Group-Fall-2026-Analyst--Spanish-Proficiency-Required----8-months_2609608?utm_source=Simplify&ref=Simplify) |

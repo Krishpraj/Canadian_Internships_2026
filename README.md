@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-01 01:48 UTC — 188 open roles_
+_Last updated: 2026-05-01 05:32 UTC — 186 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -89,7 +89,6 @@ _Last updated: 2026-05-01 01:48 UTC — 188 open roles_
 | RBC | GRM, Data Scientist Intern | Toronto, ON | Apr 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Scientist-Intern--4-Months-_R-0000168335) |
 | RBC | Data Analyst, Personal Banking | Toronto, ON | Apr 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking_R-0000168782) |
 | RBC | Data Analyst, Commercial Banking | Toronto, ON | Apr 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978) |
-| Manulife Financial | Co-op - Data Engineer | Toronto, ON, Canada | Apr 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Data-Engineer_JR26041397?utm_source=Simplify&ref=Simplify) |
 | RTX | Stage – Projet d’évolution de l’IA / Internship - Multiple Teams | Longueuil, QC, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analytique-avance--projet-d-volution-de-l-IA---Internship---Fall-2026---Advanced-Analytics--AI-Evolution-Project_01838085?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Wealth Management – Distribution Product Management Intern | Vancouver, BC, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Wealth Management Data Analyst Co-op | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Fall-Data-Analyst--4-16-months-_R-0000168559?utm_source=Simplify&ref=Simplify) |
@@ -129,7 +128,6 @@ _Last updated: 2026-05-01 01:48 UTC — 188 open roles_
 | TD Bank | Portfolio Analytics Developer Intern/Co-Op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Fall-2026-_R_1482934?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Mobile Software Engineer Intern/Co-op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op--Fall-2026-_R_1481070?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Distribution & Geospatial Intelligence Intern/Co-op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Distribution---Geospatial-Intelligence-Intern-Co-op--FALL-2026-_R_1482578?utm_source=Simplify&ref=Simplify) |
-| TD Bank | Direct Investing Journey Intern/Co-Op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Fall-2026-_R_1483970-1?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Data Engineer Intern/Co-op - Fall 2026 | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Data Analytics & Insights Intern/Co-op | Montreal, QC, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--FALL-2026-_R_1480700?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Data Analyst Intern/Co-op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Intern-Co-op--Fall-2026-_R_1481063?utm_source=Simplify&ref=Simplify) |

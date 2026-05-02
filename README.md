@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-02 11:35 UTC — 217 open roles_
+_Last updated: 2026-05-02 12:41 UTC — 218 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -126,6 +126,7 @@ _Last updated: 2026-05-02 11:35 UTC — 217 open roles_
 | La Caisse | Stagiaire, Plateforme Infranuagique AWS | Montreal, QC | Apr 23, 2026 | Canadian Tech | [Apply](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Stagiaire--Plateforme-Infranuagique-AWS--ds-septembre-2026-_R04829) |
 | La Caisse | Stagiaire, Développeur(euse), Solutions numériques et analytiques | Montreal, QC | Apr 23, 2026 | Canadian Tech | [Apply](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Stagiaire--Dveloppeur--euse----Solutions-numriques-et-analytiques--ds-septembre-2026-_R04835-12) |
 | Bank of Montreal | Quantitative Analyst – Co-op/Intern - 4 Months 🎓 | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627-1?utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | Quantitative Analyst – Co-op/Intern - 4 Months 🎓 | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627?utm_source=Simplify&ref=Simplify) |
 | Achievers | Product Marketing Co-op | Toronto, ON | Apr 23, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/achievers/7e6b281a-e703-448f-ab21-2b21c515236e/) |
 | ABB | Software Intern, Quality Engineering | Dorval, QC | Apr 23, 2026 | Canadian Tech | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/Software-Intern---QA-Engineering---Summer-2026_JR00032762) |
 | RTX | Internship Fall 2026, Analyst Business Systems & Transformation | Longueuil, QC | Apr 22, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-systmes-d-affaires-et-transformation---Internship-Fall-2026---Analyst-Business-Systems---Transformation_01837757) |

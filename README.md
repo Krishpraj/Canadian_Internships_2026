@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-02 10:40 UTC — 218 open roles_
+_Last updated: 2026-05-02 11:35 UTC — 217 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,6 @@ _Last updated: 2026-05-02 10:40 UTC — 218 open roles_
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, ON | May 01, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455) |
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, ON, Canada | May 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455?utm_source=Simplify&ref=Simplify) |
 | Lumentum | Calibration and Test Software Engineer Co-op | Ottawa, ON | May 01, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2026523) |
-| Lumentum | Calibration and Test Software Engineer Co-op | Ottawa, ON, Canada | May 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2026523?utm_source=Simplify&ref=Simplify) |
 | Intelcom \ | GHG Data Analyst Intern | Montreal, QC | May 01, 2026 | Canadian Tech | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR110778) |
 | Intelcom \ | Data Analyst Internm Returns | Montreal, QC | May 01, 2026 | Canadian Tech | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR110780) |
 | RTX | Digital Service for Engines, Ground Systems Engineer, Internship Fall 2026 | Longueuil, QC | Apr 30, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage-Automne-2026---Service-numrique-pour-les-moteurs--Ingnieur-systme-sol---Internship-Fall-2026---Digital-Service-for-Engines--Ground-Systems-Engineer_01842324) |

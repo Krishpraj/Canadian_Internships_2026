@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-04 20:44 UTC — 267 open roles_
+_Last updated: 2026-05-04 21:51 UTC — 266 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -228,7 +228,6 @@ _Last updated: 2026-05-04 20:44 UTC — 267 open roles_
 | Anthropic | Anthropic Fellows Program, ML Systems & Performance | Ontario, Canada / Remote, Canada | Apr 10, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
 | Anthropic | Anthropic Fellows Program, AI Safety | Ontario, Canada / Remote, Canada | Apr 10, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
 | RTX | MBDMI Analyst, Internship Fall 2026 | Longueuil, QC | Apr 09, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-MBDMI--Gestion-des-donnes-base-sur-le-modle-et-inspection----Internship-Fall-2026---MBDMI-Analyst--Model-Based-Design--Manufacturing-and-Inspection-_01836934) |
-| RTX | Intern – DPHM Analytics Intern - DPHM Analytics | Mississauga, ON, Canada | Apr 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458?utm_source=Simplify&ref=Simplify) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | Apr 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
 | Amazon | Software Development Engineer Intern | Vancouver, BC | Apr 09, 2026 | Canadian Tech | [Apply](https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada) |
 | RTX | DPHM Analytics Intern, Fall 2026 | Mississauga, ON | Apr 08, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458) |

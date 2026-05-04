@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-04 09:36 UTC — 259 open roles_
+_Last updated: 2026-05-04 11:30 UTC — 260 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ _Last updated: 2026-05-04 09:36 UTC — 259 open roles_
 | Loblaw Companies | Assistant Co-op Student - Product Development | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Assistant--Product-Development---Co-op-Student_R2000660129?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Analyst Co-op Student - Finance Insights and Technology Engagement | Brampton, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658454?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Analyst Co-op - Finance Insights and Technology Engagement | Brampton, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658455-1?utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-3?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Junior Software Developer Co-op/Intern | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Cloud Business & Strategy Analytics Analyst Co-op/Internship | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662?utm_source=Simplify&ref=Simplify) |

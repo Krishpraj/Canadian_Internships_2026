@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-05 10:57 UTC — 289 open roles_
+_Last updated: 2026-05-05 11:56 UTC — 290 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -39,6 +39,7 @@ _Last updated: 2026-05-05 10:57 UTC — 289 open roles_
 | Ontario Teachers' Pension Plan | Portfolio Engineering Intern - Capital Markets - Cmia | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--September-2026---8-months-_6986?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Technical Design Co-op | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Technical-Design---Co-op-Student_R2000659966?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Software Development Co-op | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000659145?utm_source=Simplify&ref=Simplify) |
+| Loblaw Companies | Market Analytics Co-op | Brampton, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Market-Analytics---Co-op-Student_R2000661268?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Loyalty Portfolio Co-op | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Loyalty-Portfolio---Co-op-Student_R2000662029?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Associate Product Manager Co-op | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000660979?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Assistant Co-op Student - Product Development | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Assistant--Product-Development---Co-op-Student_R2000660129?utm_source=Simplify&ref=Simplify) |

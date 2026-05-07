@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-07 17:13 UTC — 364 open roles_
+_Last updated: 2026-05-07 19:10 UTC — 363 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -165,7 +165,6 @@ _Last updated: 2026-05-07 17:13 UTC — 364 open roles_
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | Apr 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611?utm_source=Simplify&ref=Simplify) |
 | Nokia | Tools and Automation SW Dev Intern/Co-op | Ottawa, ON, Canada | Apr 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606?utm_source=Simplify&ref=Simplify) |
 | Nokia | Test Engineer Co-op/Intern | Ottawa, ON | Apr 30, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35512) |
-| Nokia | Software Tools Development Co-op/Intern | Remote in Canada | Apr 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34113?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Support Co-op/Intern | Ottawa, ON, Canada | Apr 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34603?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Developer Co-op/Intern | Ottawa, ON, Canada | Apr 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Designer Co-op/Intern | Ottawa, ON, Canada | Apr 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982?utm_source=Simplify&ref=Simplify) |

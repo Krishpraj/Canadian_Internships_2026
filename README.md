@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-08 09:59 UTC — 366 open roles_
+_Last updated: 2026-05-08 11:15 UTC — 367 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ _Last updated: 2026-05-08 09:59 UTC — 366 open roles_
 | Magnet Forensics | Software Development Engineer in Test Co-op | Halifax Regional Municipality, NS, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809/apply?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Canada Ottawa, ON, Canada Kitchener, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply?utm_source=Simplify&ref=Simplify) |
+| Kinaxis | Software Developer Co-op/Intern - Core Algorithms - Life Sciences | Ottawa, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Co-op/Intern - Core Algorithms | Ottawa, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34701/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Engineering Developer Co-op | Calgary, AB, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124931443?utm_source=Simplify&ref=Simplify) |
 | D2L | Software Developer Co-op | Kitchener, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.d2l.com/careers/jobs/?job_id=7890294&gh_jid=7890294&utm_source=Simplify&ref=Simplify) |

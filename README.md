@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-09 10:00 UTC — 346 open roles_
+_Last updated: 2026-05-09 11:15 UTC — 346 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,6 @@ _Last updated: 2026-05-09 10:00 UTC — 346 open roles_
 | Magnet Forensics | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Canada Ottawa, ON, Canada Kitchener, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Co-op/Intern - Core Algorithms - Life Sciences | Ottawa, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| Kinaxis | Software Developer Co-op/Intern - Core Algorithms | Ottawa, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34701/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Systems Integration Engineer Co-op | Calgary, AB | May 07, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125181520) |
 | General Dynamics UK | Software Engineering Developer Co-op | Calgary, AB, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124931443?utm_source=Simplify&ref=Simplify) |
 | D2L | Software Developer Co-op | Kitchener, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.d2l.com/careers/jobs/?job_id=7890294&gh_jid=7890294&utm_source=Simplify&ref=Simplify) |
@@ -128,6 +127,7 @@ _Last updated: 2026-05-09 10:00 UTC — 346 open roles_
 | Bank of Montreal | Junior Software Developer Co-op/Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614) |
 | Bank of Montreal | Cloud Business & Strategy Analytics Analyst Co-op/Internship | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662) |
 | Bank of Montreal | Cloud Business & Strategy Analytics Analyst Co-op/Internship | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662?utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | Analyst Co-op/Intern - Months | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Analyst Co-op/Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681) |
 | Arc'teryx Equipment | Application Engineer Co-op | Vancouver, BC | May 04, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/arcteryx.com/d8c59871-eabf-4505-aa6f-9ca34aa9154c/) |
 | Royal Bank of Canada | Data Analyst Intern - Private Banking | Toronto, ON, Canada | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Canadian-Private-Banking--Fall-Data-Analyst--8-months-_R-0000170513?utm_source=Simplify&ref=Simplify) |

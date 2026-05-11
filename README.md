@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-11 17:07 UTC — 406 open roles_
+_Last updated: 2026-05-11 19:15 UTC — 405 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -368,7 +368,6 @@ _Last updated: 2026-05-11 17:07 UTC — 406 open roles_
 | TD Bank | AI2 Applied Machine Learning Scientist Intern/Co-op | Toronto, ON | Apr 13, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op-Intern_R_1482685) |
 | Zip | Software Engineer Intern | Toronto, ON, Canada | Apr 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application?utm_source=Simplify&ref=Simplify) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | Apr 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
-| Mackenzie Investments | Intern - Product Innovation and Development | Toronto, ON, Canada | Apr 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5866/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | ABB | Discovery Program, Product Management Specialist | Iberville, QC | Apr 11, 2026 | Canadian Tech | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Iberville-Quebec-Canada/Discovery-program---Marketing-Specialist_JR00013553) |
 | Hootsuite | Intern/Co-op - Internal AI Operations | Vancouver, BC | Apr 10, 2026 | Canadian Tech | [Apply](https://careers.hootsuite.com/job/?gh_jid=7808288) |
 | Hootsuite | Data Engineer - Data Engineering | Toronto, ON | Apr 10, 2026 | Canadian Tech | [Apply](https://careers.hootsuite.com/job/?gh_jid=7807780) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-11 20:58 UTC — 405 open roles_
+_Last updated: 2026-05-11 22:02 UTC — 403 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -148,7 +148,6 @@ _Last updated: 2026-05-11 20:58 UTC — 405 open roles_
 | Geotab | Support Engineer Intern | Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185232008) |
 | Geotab | Software Developer Intern, Prism | Toronto, ON / Waterloo, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) |
 | Geotab | Software Developer Intern, Altitude | Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153898008) |
-| Geotab | Software Developer Intern - Altitude - Months | Oakville, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153898008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern | Toronto, ON / Waterloo, ON / Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) |
 | Geotab | Product Marketing Intern | Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008) |
 | Geotab | Mobile Developer Intern | Oakville, ON / Waterloo, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5179078008) |
@@ -177,7 +176,6 @@ _Last updated: 2026-05-11 20:58 UTC — 405 open roles_
 | Royal Bank of Canada | Insurance Product Analyst Co-op | Mississauga, ON, Canada | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Product-Analyst-Co-op--8-months-_R-0000170526?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Analyst Intern - Private Banking | Toronto, ON, Canada | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Canadian-Private-Banking--Fall-Data-Analyst--8-months-_R-0000170513?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124175808?utm_source=Simplify&ref=Simplify) |
-| General Dynamics UK | Software Co-op | Ottawa, ON, Canada | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124175589?utm_source=Simplify&ref=Simplify) |
 | Cohere | Software Engineer Intern | Toronto, ON, Canada SF NYC | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application?utm_source=Simplify&ref=Simplify) |
 | Cohere | Research Internship 🎓 | 4 locations Montreal, QC, Canada London, UK Toronto, ON, Canada SF | May 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application?utm_source=Simplify&ref=Simplify) |
 | RTX | Internship, Fall 2026, Data Science | Longueuil, QC | May 01, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595) |

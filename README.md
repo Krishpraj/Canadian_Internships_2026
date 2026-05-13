@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-13 11:07 UTC — 413 open roles_
+_Last updated: 2026-05-13 13:33 UTC — 410 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -14,9 +14,7 @@ _Last updated: 2026-05-13 11:07 UTC — 413 open roles_
 | Super | Data Analytics Intern - Risk & Fraud | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8355a2fc-34bc-45b0-b8d6-39e558940cef/application?utm_source=Simplify&ref=Simplify) |
 | Super | Data Analytics Intern | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/1fdfd963-c5cb-49a0-be9a-76826aabf922/application?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student – Associate Business & Systems Analyst Intern | Toronto, ON, Canada Kitchener, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Associate-Business---Systems-Analyst--Fall-2026-_JR00123875?utm_source=Simplify&ref=Simplify) |
-| SOTI | Software Developer Intern | Mississauga, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Insurance AI Engineering Co-op | Mississauga, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-AI-Engineering-Co-Op_R-0000171295?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Business Intelligence Developer/Engineer Intern - Ecco | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015?utm_source=Simplify&ref=Simplify) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Data Strategy and Enablement Co-op - Data Strategy and Enablement | Kitchener, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Data-Strategy-and-Enablement_JR26050734?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Scarborough, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--4-months-_R1012573?utm_source=Simplify&ref=Simplify) |
@@ -250,7 +248,6 @@ _Last updated: 2026-05-13 11:07 UTC — 413 open roles_
 | Hitachi | Software Analyst Intern | Toronto, ON | Apr 30, 2026 | Canadian Tech | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern_R1012380) |
 | Visier Solutions | Software Developer Co-op | Vancouver, BC | Apr 29, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006) |
 | Visier Solutions | Data Science Intern | Vancouver, BC | Apr 29, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006) |
-| SOTI | Software Developer Intern | Mississauga, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Credit Modeling & Methodology Intern - Credit Data Analyst | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Credit Modeling & Methodology Intern | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102-1?utm_source=Simplify&ref=Simplify) |
 | RBC | Capital Markets QTS, Fall Developer | Montreal, QC | Apr 29, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Capital-Markets-QTS--Fall-Developer--Montreal---4-Months_R-0000170245-1) |

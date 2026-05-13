@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-13 20:15 UTC — 408 open roles_
+_Last updated: 2026-05-13 21:49 UTC — 409 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -353,6 +353,7 @@ _Last updated: 2026-05-13 20:15 UTC — 408 open roles_
 | RBC | CFO, Fall Data Analyst, Capital and Liquidity Measurement and Reporting | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital-and-Liquidity-Measurement-and-Reporting--8-Months-_R-0000168812) |
 | RBC | CFO, Data Scientist Intern | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Scientist---8-months-_R-0000168813) |
 | RBC | CDO, Data Engineer Intern | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150) |
+| Manulife Financial | Co-op | Kitchener, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Fall 2026 Co-op, Automation Developer | Waterloo, ON | Apr 17, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117) |
 | Primetals Technologies | Software Development & Data Science Analyst Intern | Boisbriand, QC | Apr 16, 2026 | Canadian Tech | [Apply](https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract) |
 | Medtronic | Strategic Insights & Analytics Intern | Brampton, ON | Apr 16, 2026 | Canadian Tech | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Brampton-Ontario-Canada/Strategic-Insights---Analytics-Intern_R64431) |

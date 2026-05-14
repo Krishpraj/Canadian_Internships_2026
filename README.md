@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-14 19:14 UTC — 443 open roles_
+_Last updated: 2026-05-14 20:49 UTC — 443 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |

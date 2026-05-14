@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-14 17:17 UTC — 444 open roles_
+_Last updated: 2026-05-14 19:14 UTC — 443 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -197,7 +197,6 @@ _Last updated: 2026-05-14 17:17 UTC — 444 open roles_
 | Geotab | DataOps Developer Intern - Months | Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008) |
 | Geotab | Data Analyst Intern, Customer Success Operations | Toronto, ON / Burnaby, BC / Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185496008) |
 | Geotab | Data Analyst Intern - Data & AI Enablement | Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5181387008) |
-| Geotab | Data Analyst Intern - Data & AI Enablement | Oakville, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5181387008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Data Analyst Intern - Customer Success Operations | Toronto, ON, Canada Burnaby, BC, Canada Oakville, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185496008?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software/Systems Engineering | Nepean, ON | May 04, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124513451) |
 | Ciena | Wavelogic Modem HW Engineering Co-op | Ottawa, ON | May 04, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Co-op--Fall-2026---4-month-_R030798) |

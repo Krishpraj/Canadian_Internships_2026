@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-14 10:39 UTC — 438 open roles_
+_Last updated: 2026-05-14 12:21 UTC — 439 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ _Last updated: 2026-05-14 10:39 UTC — 438 open roles_
 | British Columbia Investment | Risk Reporting & Data Co-op/Internship | Victoria, BC, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Reporting---Data-Co-op-Internship--Fall-2026---Winter-2027-_JR101493?utm_source=Simplify&ref=Simplify) |
 | British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Analytics-Solutions-Co-op-Internship--Fall-2026---Winter-2027-_JR101491?utm_source=Simplify&ref=Simplify) |
 | British Columbia Investment | Enterprise Solutions Software Engineer Co-op/Internship | Victoria, BC, Canada Vancouver, BC, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Fall-2026-_JR101472?utm_source=Simplify&ref=Simplify) |
+| British Columbia Investment | Data & Analytics Engineer Co-op/Intern | Victoria, BC, Canada Vancouver, BC, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Data---Analytics-Engineer-Co-op--Internship--Fall-2026-and-or-Winter-2027-_JR101481?utm_source=Simplify&ref=Simplify) |
 | SOTI | Software Developer in Test Intern | Mississauga, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064?utm_source=Simplify&ref=Simplify) |
 | SOTI | Data Scientist Intern | Mississauga, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Software Engineering Co-op - Software Engineer | Toronto, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Software-Engineer--4-months-_JR26050846?utm_source=Simplify&ref=Simplify) |

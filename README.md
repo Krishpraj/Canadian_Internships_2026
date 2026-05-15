@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-15 15:33 UTC — 485 open roles_
+_Last updated: 2026-05-15 17:18 UTC — 485 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ _Last updated: 2026-05-15 15:33 UTC — 485 open roles_
 | Manulife Financial | Software Engineer Co-op | Waterloo, ON | May 14, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--8-months-_JR26050849) |
 | Manulife Financial | Artificial Intelligence Co-op, Artificial Intelligence | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Artificial-Intelligence--AI-_JR26050852) |
 | Kinaxis | Software Developer Co-op/Intern - Developer Framework | Ottawa, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34763/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| Hitachi | Software Analyst Intern | Toronto, ON, Canada | May 14, 2026 | Canadian Tech | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--4-8-months-_R1012731) |
+| Hitachi | Software Analyst Intern | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--4-8-months-_R1012731) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--4-8-months-_R1012731?utm_source=Simplify&ref=Simplify) |
 | Cohere | Machine Learning Intern/Co-op | Canada United Kingdom United States | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Design Co-op | Ottawa, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2026---4-months-_R030886?utm_source=Simplify&ref=Simplify) |

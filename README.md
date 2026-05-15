@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-15 01:53 UTC — 453 open roles_
+_Last updated: 2026-05-15 05:44 UTC — 450 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -37,8 +37,6 @@ _Last updated: 2026-05-15 01:53 UTC — 453 open roles_
 | Geotab | Software Developer Intern - Multiple Teams | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op - Machine Learning Computer Vision | Ottawa, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126160269?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Design and Verification Intern - Pcba | Ottawa, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Technology Research Associate Co-op/Intern | Toronto, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Technology-Research-Associate--Fall-2026--Co-op-Internship---4-Months_R260014440?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Technology Research Associate Co-op/Intern | Toronto, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Technology-Research-Associate--Fall-2026--Co-op-Internship---4-Months_R260014440-1?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Technology Research Associate Co-op/Intern | Toronto, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Fall-2026--Co-op-Internship---4-Months_R260014440-3?utm_source=Simplify&ref=Simplify) |
 | A Thinking Ape | Software Development Engineer Co-op | Remote in Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/athinkingape/jobs/7918788?utm_source=Simplify&ref=Simplify) |
 | Super | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application?utm_source=Simplify&ref=Simplify) |
@@ -404,7 +402,6 @@ _Last updated: 2026-05-15 01:53 UTC — 453 open roles_
 | Calix | Test and Manufacturing Intern | Remote, Canada | Apr 16, 2026 | Canadian Tech | [Apply](https://calix.wd1.myworkdayjobs.com/External/job/Remote---USA/Test-and-Manufacturing-Intern_R-11632) |
 | Zip | Software Engineer Intern | Toronto, ON, Canada | Apr 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Software Engineer Intern/Co-op | Toronto, ON, Canada | Apr 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069?utm_source=Simplify&ref=Simplify) |
-| TD Bank | Portfolio Analytics Developer Intern/Co-Op | Toronto, ON, Canada | Apr 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Fall-2026-_R_1482934?utm_source=Simplify&ref=Simplify) |
 | RTX | Student Intern, Engineering | Midland, ON | Apr 15, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--450-BLDG/Summer-Student---Engineering_01837374-1) |
 | Pinterest | Software Engineer Intern | Toronto, ON | Apr 15, 2026 | Canadian Tech | [Apply](https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | Apr 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |

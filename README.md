@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-16 01:46 UTC — 501 open roles_
+_Last updated: 2026-05-16 05:17 UTC — 499 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -90,7 +90,6 @@ _Last updated: 2026-05-16 01:46 UTC — 501 open roles_
 | General Dynamics UK | Software Developer Co-op, Machine Learning Computer Vision | Nepean, ON | May 12, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126160269) |
 | General Dynamics UK | Embedded Software Developer Co-op - Rapid Prototypes - Embedded Software Developer | Ottawa, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125919019?utm_source=Simplify&ref=Simplify) |
 | Desjardins Group | Development Intern - IT sector | Montreal, QC, Canada Quebec City, QC, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1?utm_source=Simplify&ref=Simplify) |
-| Desjardins Group | Data Intern | Montreal, QC, Canada Quebec City, QC, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663-1?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-1?utm_source=Simplify&ref=Simplify) |
@@ -362,7 +361,6 @@ _Last updated: 2026-05-16 01:46 UTC — 501 open roles_
 | Johnson & Johnson | Data Science Intern | Toronto, ON | Apr 29, 2026 | Canadian Tech | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Data-Science-Intern_R-071492) |
 | Capital One | Full Stack Software Engineer Intern - Team Tachyon One | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Tachyon-One---Fall-2026_R241105?utm_source=Simplify&ref=Simplify) |
 | Capital One | Full Stack Software Engineer Intern - Team Sprout | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Fall-2026_R240974?utm_source=Simplify&ref=Simplify) |
-| Capital One | Full Stack Software Engineer Intern - Team Integrated Storefront | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Storefront---Fall-2026_R241117?utm_source=Simplify&ref=Simplify) |
 | Capital One | Backend Software Engineer Intern - Team Customer Acquisitions | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Customer-Acquisitions---Fall-2026_R241119?utm_source=Simplify&ref=Simplify) |
 | SOTI | Software Developer Intern | Mississauga, ON | Apr 28, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971) |
 | Royal Bank of Canada | Enterprise Data Management Solutions Intern - Data Analyst | Nova Scotia, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788?utm_source=Simplify&ref=Simplify) |

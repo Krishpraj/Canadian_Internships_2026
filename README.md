@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-16 20:36 UTC — 484 open roles_
+_Last updated: 2026-05-16 21:37 UTC — 485 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -135,6 +135,7 @@ _Last updated: 2026-05-16 20:36 UTC — 484 open roles_
 | Sun Life | Student Full Stack Developer Intern | Toronto, ON / Waterloo, ON | May 07, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Full-Stack-Developer--Fall-2026-_JR00123310) |
 | Sun Life | Student Data Analyst Intern | Montreal, QC / Toronto, ON / Waterloo, ON | May 07, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Data-Analyst--Fall-2026-_JR00122497) |
 | Squarepoint Capital | Software Developer Intern | Montreal, QC | May 07, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/embed/job_app?token=7905463) |
+| Occidental Petroleum | Process Systems Engineering Co-op - Automation & Data Integration | Squamish, BC, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR108371?utm_source=Simplify&ref=Simplify) |
 | Nokia | Incubation Developer Co-op/Intern | Ottawa, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34239?utm_source=Simplify&ref=Simplify) |
 | Nasdaq | Verafin, Software Development Student Intern | Toronto, ON /  St. John's, NF | May 07, 2026 | Canadian Tech | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--September-2026-_R0026054) |
 | Magnet Forensics | Software Development Engineer in Test Co-op | Halifax Regional Municipality, NS, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809/apply?utm_source=Simplify&ref=Simplify) |

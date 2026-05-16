@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-16 18:45 UTC — 480 open roles_
+_Last updated: 2026-05-16 19:54 UTC — 481 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -404,6 +404,7 @@ _Last updated: 2026-05-16 18:45 UTC — 480 open roles_
 | RTX | Stage – Projet d’évolution de l’IA / Internship - Multiple Teams | Longueuil, QC, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analytique-avance--projet-d-volution-de-l-IA---Internship---Fall-2026---Advanced-Analytics--AI-Evolution-Project_01838085?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Student Intern - Data Analyst - Commercial Banking | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Global Risk Analytics Intern - Grm - 4 Months | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-2?utm_source=Simplify&ref=Simplify) |
+| Royal Bank of Canada | Global Risk Analytics Intern | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-1?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Scientist Intern 🎓 | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Scientist-Intern--4-Months-_R-0000168335?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Scientist Intern 🎓 | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Scientist-Intern--4-Months-_R-0000168335-1?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | CFO Data Analyst Intern | Toronto, ON, Canada | Apr 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital-and-Liquidity-Measurement-and-Reporting--8-Months-_R-0000168812?utm_source=Simplify&ref=Simplify) |

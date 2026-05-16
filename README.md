@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-16 22:34 UTC — 487 open roles_
+_Last updated: 2026-05-16 23:39 UTC — 488 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -135,6 +135,7 @@ _Last updated: 2026-05-16 22:34 UTC — 487 open roles_
 | Squarepoint Capital | Software Developer Intern | Montreal, QC | May 07, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/embed/job_app?token=7905463) |
 | Squarepoint Capital | Software Developer Intern | Montreal, QC, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/embed/job_app?token=7905463&utm_source=Simplify&ref=Simplify) |
 | Nasdaq | Verafin, Software Development Student Intern | Toronto, ON /  St. John's, NF | May 07, 2026 | Canadian Tech | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--September-2026-_R0026054) |
+| Lumentum | Liquid Crystal on Silicon Research Co-op/Intern | Ottawa, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Liquid-Crystal-on-Silicon-Research-Co-op-Intern_2026625?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Systems Integration Engineer Co-op - System Integration Engineering | Calgary, AB, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125181520?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Systems Integration Engineer Co-op | Calgary, AB | May 07, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125181520) |
 | Varian | Software Developer Co-op | Canada | May 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-Op_R-28476?utm_source=Simplify&ref=Simplify) |
@@ -352,7 +353,6 @@ _Last updated: 2026-05-16 22:34 UTC — 487 open roles_
 | Johnson & Johnson | Data Science Intern | Toronto, ON | Apr 29, 2026 | Canadian Tech | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Data-Science-Intern_R-071492) |
 | SOTI | Software Developer Intern | Mississauga, ON | Apr 28, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Enterprise Data Management Solutions Intern - Data Analyst | Nova Scotia, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Credit Modeling & Methodology Intern - Credit Data Analyst | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Credit Modeling & Methodology Intern | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102-1?utm_source=Simplify&ref=Simplify) |
 | RBC | GRM, Credit Data Analyst, Credit Modeling & Methodology Intern | Toronto, ON | Apr 28, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102) |
@@ -365,6 +365,7 @@ _Last updated: 2026-05-16 22:34 UTC — 487 open roles_
 | TD Bank | Business Insights & Analytics Co-op/Intern | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights---Analytics-Co-op-Intern-Fall-2026_R_1482668) |
 | Shopify | Data and Engineering Intern | Montreal, QC / Ottawa, ON / Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065) |
 | RTX | Program Management Intern | Longueuil, QC | Apr 27, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Gestion-des-Programmes_01840726) |
+| Royal Bank of Canada | Enterprise Data Management Solutions Intern - Data Analyst | Nova Scotia, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Enterprise Data Management Solutions Intern | Nova Scotia, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788-1?utm_source=Simplify&ref=Simplify) |
 | RBC | CDO, Data Analyst, Enterprise Data Management Solutions Intern | Halifax, NS | Apr 27, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788) |
 | EQ Bank | Credit Risk Intern | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/af9f250b-8639-42ba-8830-eb5a146452c6/) |

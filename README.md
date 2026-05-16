@@ -2,6 +2,8 @@
 
 _Last updated: 2026-05-16 07:29 UTC — 482 open roles_
 
+Related resource: [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free, daily-updated Canadian student job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences.
+
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Dynamics UK | Embedded Software Developer / Modeler Co-op | Ottawa, ON, Canada | May 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126746122?utm_source=Simplify&ref=Simplify) |

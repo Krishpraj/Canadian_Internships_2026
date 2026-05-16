@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-16 16:42 UTC — 476 open roles_
+_Last updated: 2026-05-16 17:44 UTC — 479 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ _Last updated: 2026-05-16 16:42 UTC — 476 open roles_
 | RBC | Data Analyst Intern | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016) |
 | RBC | CFO, Fall/Winter Liquidity Management and Parameters Co-op | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Winter-Liquidity-Management-and-Parameters-Co-op--8-months-_R-0000172603) |
 | Manulife Financial | Software Engineering Co-op, Software Engineer | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Software-Engineer--4-months-_JR26050846) |
+| Manulife Financial | Software Engineering Co-op - Software Engineering | Kitchener, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--4-Months-_JR26050843?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Software Engineering Co-op | Waterloo, ON | May 14, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--4-Months-_JR26050843) |
 | Manulife Financial | Software Engineer Co-op, Software Engineer | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Software-Engineer--12-months-_JR26050847) |
 | Manulife Financial | Software Engineer Co-op | Waterloo, ON | May 14, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--8-months-_JR26050849) |
@@ -103,6 +104,7 @@ _Last updated: 2026-05-16 16:42 UTC — 476 open roles_
 | Desjardins Group | Internship, IT sector | Montreal, QC | May 11, 2026 | Canadian Tech | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1) |
 | Desjardins Group | Development Intern - IT sector | Montreal, QC, Canada Quebec City, QC, Canada | May 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1?utm_source=Simplify&ref=Simplify) |
 | Desjardins Group | Data Internship | Montreal, QC | May 11, 2026 | Canadian Tech | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2) |
+| Desjardins Group | Data Intern | Montreal, QC, Canada Quebec City, QC, Canada | May 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON | May 11, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON | May 11, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663-2) |
 | Bank of Montreal | Software Developer Co-op/Intern | Toronto, ON, Canada | May 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615?utm_source=Simplify&ref=Simplify) |
@@ -383,6 +385,7 @@ _Last updated: 2026-05-16 16:42 UTC — 476 open roles_
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | Apr 24, 2026 | Canadian Tech | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210840) |
 | Cerebras | AI Engineering Intern, Growth Team | Toronto, ON | Apr 24, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/embed/job_app?token=7713841003) |
 | Anthropic | Anthropic Fellows Program, The Anthropic Institute Fellows (Economics & Policy) | Ontario, Canada | Apr 24, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) |
+| Royal Bank of Canada | GAM – Portfolio Solutions Intern | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-GAM--Fall-Portfolio-Solutions-Intern--8-months-_R-0000167895?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Engineer Intern - Grm - 4 Months | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000168872-1?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000168872?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Analyst Developer Intern 🎓 | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171-1?utm_source=Simplify&ref=Simplify) |

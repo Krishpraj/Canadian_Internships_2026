@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-17 20:47 UTC — 499 open roles_
+_Last updated: 2026-05-17 21:42 UTC — 500 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -97,6 +97,7 @@ _Last updated: 2026-05-17 20:47 UTC — 499 open roles_
 | Super | Data Analytics Intern | Remote, Canada | May 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/super.com/1fdfd963-c5cb-49a0-be9a-76826aabf922/) |
 | SOTI | Software Developer Intern | Mississauga, ON | May 11, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025) |
 | Royal Bank of Canada | Business Intelligence Developer/Engineer Intern - Ecco | Toronto, ON, Canada | May 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015?utm_source=Simplify&ref=Simplify) |
+| Royal Bank of Canada | Business Intelligence Developer/Engineer Engineer Intern - Ecco | Toronto, ON, Canada | May 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015-1?utm_source=Simplify&ref=Simplify) |
 | RBC | Insurance AI Engineering Co-op | Mississauga, ON | May 11, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-AI-Engineering-Co-Op_R-0000171295) |
 | RBC | Business Intelligence Developer/Engineer Intern, Ecco | Toronto, ON | May 11, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON | May 11, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675) |

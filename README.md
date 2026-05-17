@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-17 08:06 UTC — 500 open roles_
+_Last updated: 2026-05-17 10:02 UTC — 498 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -80,7 +80,6 @@ _Last updated: 2026-05-17 08:06 UTC — 500 open roles_
 | SOTI | Data Scientist Intern | Mississauga, ON | May 12, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) |
 | Royal Bank of Canada | Insurance AI Engineering Co-op | Mississauga, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-AI-Engineering-Co-Op_R-0000171295?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Business Intelligence Developer/Engineer Intern - Ecco | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Business Intelligence Developer/Engineer Engineer Intern - Ecco | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015-1?utm_source=Simplify&ref=Simplify) |
 | Oracle | Advanced Degree Software Engineer, Database Technologies | Canada | May 12, 2026 | Canadian Tech | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/333492) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Data Strategy and Enablement Co-op - Data Strategy and Enablement | Kitchener, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Data-Strategy-and-Enablement_JR26050734?utm_source=Simplify&ref=Simplify) |
@@ -224,7 +223,6 @@ _Last updated: 2026-05-17 08:06 UTC — 500 open roles_
 | Loblaw Companies | Software Development Co-op | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000659145) |
 | Loblaw Companies | Software Development Co-op | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000659145?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Market Analytics Co-op | Brampton, ON | May 04, 2026 | Canadian Tech | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Market-Analytics---Co-op-Student_R2000661268) |
-| Loblaw Companies | Market Analytics Co-op | Brampton, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Market-Analytics---Co-op-Student_R2000661268?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Loyalty Portfolio Co-op | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Loyalty-Portfolio---Co-op-Student_R2000662029) |
 | Loblaw Companies | Loyalty Portfolio Co-op | Toronto, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Loyalty-Portfolio---Co-op-Student_R2000662029?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Associate Product Manager Co-op | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000660979) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-18 10:44 UTC — 465 open roles_
+_Last updated: 2026-05-18 14:23 UTC — 464 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -325,7 +325,6 @@ _Last updated: 2026-05-18 10:44 UTC — 465 open roles_
 | Visier Solutions | Software Developer Co-op | Vancouver, BC | Apr 29, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006) |
 | Visier Solutions | Data Science Intern | Vancouver, BC | Apr 29, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Credit Modeling & Methodology Intern - Credit Data Analyst | Toronto, ON, Canada | Apr 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102?utm_source=Simplify&ref=Simplify) |
 | RBC | Capital Markets QTS, Fall Developer | Montreal, QC | Apr 29, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Capital-Markets-QTS--Fall-Developer--Montreal---4-Months_R-0000170245-1) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON | Apr 29, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON | Apr 29, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611) |

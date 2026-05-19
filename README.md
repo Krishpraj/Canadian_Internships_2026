@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-19 10:12 UTC — 462 open roles_
+_Last updated: 2026-05-19 13:39 UTC — 461 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -408,7 +408,6 @@ _Last updated: 2026-05-19 10:12 UTC — 462 open roles_
 | RBC | CFO, Data Scientist Intern | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Scientist---8-months-_R-0000168813) |
 | RBC | CDO, Data Engineer Intern | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150) |
 | Zip | Software Engineer Intern | Toronto, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application?utm_source=Simplify&ref=Simplify) |
-| TD Bank | Software Engineer Intern/Co-op | Toronto, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069?utm_source=Simplify&ref=Simplify) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Co-op | Kitchener, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-19 01:59 UTC — 465 open roles_
+_Last updated: 2026-05-19 06:07 UTC — 463 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -128,7 +128,6 @@ _Last updated: 2026-05-19 01:59 UTC — 465 open roles_
 | University Health Network | Junior Developer Intern, Analytics & Insights | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125399511) |
 | Sun Life | Student, Data Governance Analyst Intern | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Governance-Analyst--Winter-2026-_JR00121986) |
 | Sun Life | Student, Data Analytics / Data Science Intern | Toronto, ON / Waterloo, ON | May 08, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analytics---Data-Science--Fall-2026-_JR00122501) |
-| Sun Life | Student Data Analyst Intern | 4 locations Montreal, QC, Canada Toronto, ON, Canada Ottawa, ON, Canada Kitchener, ON, Canada | May 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Data-Analyst--Fall-2026-_JR00122497?utm_source=Simplify&ref=Simplify) |
 | Squarepoint Capital | Software Developer Intern | Montreal, QC, Canada | May 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/embed/job_app?token=7905463&utm_source=Simplify&ref=Simplify) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON | May 08, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) |
 | RBC | CFO, Fall Data Analyst, Capital & Liquidity Measurement & Reporting | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital---Liquidity-Measurement---Reporting--8-months-_R-0000171752) |
@@ -150,7 +149,6 @@ _Last updated: 2026-05-19 01:59 UTC — 465 open roles_
 | General Dynamics UK | Systems Integration Engineer Co-op | Calgary, AB | May 07, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125181520) |
 | General Dynamics UK | Software Engineering Developer Co-op | Calgary, AB, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124931443?utm_source=Simplify&ref=Simplify) |
 | D2L | Software Developer Co-op | Kitchener, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.d2l.com/careers/jobs/?job_id=7890294&gh_jid=7890294&utm_source=Simplify&ref=Simplify) |
-| Sun Life | Student Data Analyst Intern | Toronto, ON, Canada Kitchener, ON, Canada | May 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Fall-2026-_JR00122874?utm_source=Simplify&ref=Simplify) |
 | RTX | Engine Control System Simulation Developer Intern | Longueuil, QC | May 06, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Developpeur-de-simulation-de-systemes-de-controle-moteur---Internship---Fall-2026---Engine-Control-System-Simulation-Developer_01842886) |
 | Occidental Petroleum | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | May 06, 2026 | Canadian Tech | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR108371) |
 | Nokia | Incubation Developer Co-op/Intern | Ottawa, ON | May 06, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34239) |

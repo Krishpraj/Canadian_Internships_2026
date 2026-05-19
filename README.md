@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-19 16:43 UTC — 456 open roles_
+_Last updated: 2026-05-19 18:30 UTC — 452 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,6 @@ _Last updated: 2026-05-19 16:43 UTC — 456 open roles_
 | Kinaxis | Developer Co-op/Intern - Clients - Front End Technologies | Ottawa, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34702/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1012739?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Unreal Engine Developer Co-op - Unreal Engine Developer | Ottawa, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126576272?utm_source=Simplify&ref=Simplify) |
-| General Dynamics UK | Software Engineer Co-op - Software/Systems Engineering | Ottawa, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126567109?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Embedded Software Developer / Modeler Co-op | Ottawa, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126573686?utm_source=Simplify&ref=Simplify) |
 | BDO Canada | Full-Stack Developer Intern/Co-op | Toronto, ON, Canada Oakville, ON, Canada Ottawa, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--September-2026-_JR6289?utm_source=Simplify&ref=Simplify) |
 | BDO Canada | Data & Analytics Co-op/Intern - Data & Analytics | 7 locations Montreal, QC, Canada Toronto, ON, Canada Calgary, AB, Canada Oakville, ON, Canada Ottawa, ON, Canada Vancouver, BC, Canada Halifax Regional Municipality, NS, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295?utm_source=Simplify&ref=Simplify) |
@@ -186,7 +185,6 @@ _Last updated: 2026-05-19 16:43 UTC — 456 open roles_
 | Geotab | Embedded Developer Intern - Photon/Orbit | Oakville, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5182934008?utm_source=Simplify&ref=Simplify) |
 | Diligent Corporation | Software Engineer Intern | Vancouver, BC | May 05, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5987823004) |
 | Ciena | Wavelogic Modem HW Engineering Co-op | Ottawa, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Co-op--Fall-2026---4-month-_R030798?utm_source=Simplify&ref=Simplify) |
-| Arc'teryx Equipment | Application Engineer Co-op | Vancouver, BC, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/arcteryx.com/d8c59871-eabf-4505-aa6f-9ca34aa9154c/apply?utm_source=Simplify&ref=Simplify) |
 | Wealthsimple | Software Developer Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/wealthsimple/fda5d29e-cbda-43db-994f-a2de669d1141/) |
 | Wealthsimple | Data Science Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/wealthsimple/b4d1fb2a-89dd-4a4e-9908-d106de8591a2/) |
 | VaynerMedia | Data Analytics Resident | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://vaynermedia.com/careers?gh_jid=7881710) |
@@ -349,7 +347,6 @@ _Last updated: 2026-05-19 16:43 UTC — 456 open roles_
 | Capital One | Full Stack Software Engineer Intern - Team Sprout | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Fall-2026_R240974?utm_source=Simplify&ref=Simplify) |
 | Capital One | Full Stack Software Engineer Intern - Team Integrated Storefront | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Storefront---Fall-2026_R241117?utm_source=Simplify&ref=Simplify) |
 | Capital One | Backend Software Engineer Intern, Team Customer Acquisitions | Toronto, ON | Apr 28, 2026 | Canadian Tech | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Customer-Acquisitions---Fall-2026_R241119) |
-| Capital One | Backend Software Engineer Intern - Team Customer Acquisitions | Toronto, ON, Canada | Apr 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Customer-Acquisitions---Fall-2026_R241119?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Wealth, Gen AI Product & Enablement Intern/Co-op | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth---Gen-AI-Product---Enablement-Intern-Co-op--Fall-2026-_R_1486064) |
 | TD Bank | Business Insights & Analytics Co-op/Intern | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights---Analytics-Co-op-Intern-Fall-2026_R_1482668) |
 | Shopify | Data and Engineering Intern | Montreal, QC / Ottawa, ON / Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065) |
@@ -359,7 +356,6 @@ _Last updated: 2026-05-19 16:43 UTC — 456 open roles_
 | Ciena | OTN Platform Software Developer Intern | Ottawa, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/OTN-Platform-Software-Developer--Friends-and-Family-_R030718) |
 | CIBC | Capital Markets, Alternate Solutions Group Analyst Intern | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Capital-Markets--Alternate-Solutions-Group-Fall-2026-Analyst--Spanish-Proficiency-Required----8-months_2609608) |
 | Capital One | Data Scientist Intern | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Fall-2026_R240093-2) |
-| Capital One | Data Scientist Intern | Toronto, ON, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Fall-2026_R240093-2?utm_source=Simplify&ref=Simplify) |
 | Capital One | Data Analytics Engineering Intern | Toronto, ON | Apr 27, 2026 | Canadian Tech | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2026_R240092-1) |
 | Capital One | Data Analytics Engineering Intern | Toronto, ON, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2026_R240092-1?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Intern AI Developer | Montreal, QC | Apr 27, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93809-2) |

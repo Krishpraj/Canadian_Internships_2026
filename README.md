@@ -1,14 +1,17 @@
 # Internships
 
-_Last updated: 2026-05-19 22:55 UTC — 463 open roles_
+_Last updated: 2026-05-19 23:52 UTC — 466 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| RTX | DPHM Analytics Intern | Mississauga, ON, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1?utm_source=Simplify&ref=Simplify) |
 | Nuclear Promise X | Software Developer Intern - Digital Transformation | Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/application?utm_source=Simplify&ref=Simplify) |
 | NPX | Software Developer Intern, Digital Transformation | Ontario, Canada | May 19, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/) |
 | NPX | AI Developer Co-op | Kincardine, ON | May 19, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/) |
 | General Motors | AV Software Safety Intern | Markham, ON, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005?utm_source=Simplify&ref=Simplify) |
+| General Dynamics UK | Unreal Engine Developer Co-op - Unreal Engine Developer | Ottawa, ON, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127297744?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Development Co-op - Firmware Development and Test | Calgary, AB, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127255469?utm_source=Simplify&ref=Simplify) |
+| General Dynamics UK | Software Development and Test Co-op - Software Development and Test | Calgary, AB, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127255509?utm_source=Simplify&ref=Simplify) |
 | Cresta | Software Engineer Intern | Toronto, ON | May 19, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4499986008) |
 | Cresta | Forward Deployed Engineer Intern, AI Agent | Toronto, ON | May 19, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |
 | Harris Computer | Software Developer Intern | Ontario, Canada / British Columbia, Canada / Quebec, Canada | May 18, 2026 | Canadian Tech | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Intern-Developer_R0041015) |

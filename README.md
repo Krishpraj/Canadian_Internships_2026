@@ -1,10 +1,12 @@
 # Internships
 
-_Last updated: 2026-05-20 09:57 UTC — 459 open roles_
+_Last updated: 2026-05-20 12:18 UTC — 461 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | RTX | DPHM Analytics Intern | Mississauga, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1?utm_source=Simplify&ref=Simplify) |
+| Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
+| Nokia | ASIC Verification Intern | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | General Motors | AV Software Safety Intern | Markham, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Unreal Engine Developer Co-op - Unreal Engine Developer | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127297744?utm_source=Simplify&ref=Simplify) |

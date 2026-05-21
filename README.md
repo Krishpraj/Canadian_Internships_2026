@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-21 18:50 UTC — 459 open roles_
+_Last updated: 2026-05-21 20:28 UTC — 458 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -196,7 +196,6 @@ _Last updated: 2026-05-21 18:50 UTC — 459 open roles_
 | Geotab | Software Developer Intern | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Product Marketing Intern | Oakville, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Mobile Developer Intern | Oakville, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5179078008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Embedded Developer Intern - Photon/Orbit | Oakville, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5182934008?utm_source=Simplify&ref=Simplify) |
 | Diligent Corporation | Software Engineer Intern | Vancouver, BC | May 05, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5987823004) |
 | Ciena | Wavelogic Modem HW Engineering Co-op | Ottawa, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Co-op--Fall-2026---4-month-_R030798?utm_source=Simplify&ref=Simplify) |
 | Wealthsimple | Software Developer Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/wealthsimple/fda5d29e-cbda-43db-994f-a2de669d1141/) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-23 10:09 UTC — 454 open roles_
+_Last updated: 2026-05-23 11:38 UTC — 456 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ _Last updated: 2026-05-23 10:09 UTC — 454 open roles_
 | General Dynamics UK | Embedded Software Developer / Modeler Co-op | Ottawa, ON, Canada | May 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126746122?utm_source=Simplify&ref=Simplify) |
 | Autodesk | PhD Intern, HCI & Visualization Research | Toronto, ON | May 16, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) |
 | Adobe | Research Scientist/Engineer Intern | Toronto, ON | May 16, 2026 | Canadian Tech | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) |
+| SOTI | Product Manager Intern - Sales Enablement Products | Mississauga, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Student Intern - Data Analyst | Toronto, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | CFO Co-op | Toronto, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Winter-Liquidity-Management-and-Parameters-Co-op--8-months-_R-0000172603?utm_source=Simplify&ref=Simplify) |
 | McGill University | FMED 505 Epidemiology and Data Analysis in Primary Care | Montreal, QC | May 15, 2026 | Canadian Tech | [Apply](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/5858-Cote-des-Neiges/TA--FALL-2026--FMED-505-Epidemiology-and-Data-Analysis-in-Primary-Care_JR0000076064) |
@@ -378,6 +379,7 @@ _Last updated: 2026-05-23 10:09 UTC — 454 open roles_
 | Cerebras | AI Engineering Intern, Growth Team | Toronto, ON | Apr 24, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/embed/job_app?token=7713841003) |
 | Anthropic | Anthropic Fellows Program, The Anthropic Institute Fellows (Economics & Policy) | Ontario, Canada | Apr 24, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) |
 | Zip | Software Engineer Intern | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application?utm_source=Simplify&ref=Simplify) |
+| RTX | Stage – Projet d’évolution de l’IA / Internship - Multiple Teams | Longueuil, QC, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analytique-avance--projet-d-volution-de-l-IA---Internship---Fall-2026---Advanced-Analytics--AI-Evolution-Project_01838085?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Wealth Management – Distribution Product Management Intern | Vancouver, BC, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778?utm_source=Simplify&ref=Simplify) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327?utm_source=Simplify&ref=Simplify) |

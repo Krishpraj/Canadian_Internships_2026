@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-23 22:40 UTC — 470 open roles_
+_Last updated: 2026-05-23 23:45 UTC — 471 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ _Last updated: 2026-05-23 22:40 UTC — 470 open roles_
 | NPX | AI Developer Co-op | Kincardine, ON | May 19, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/) |
 | Hootsuite | Product Management Co-op/Intern | Toronto, ON | May 19, 2026 | Canadian Tech | [Apply](https://careers.hootsuite.com/job/?gh_jid=7942387) |
 | General Motors | AV Software Safety Intern | Markham, ON | May 19, 2026 | Canadian Tech | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005) |
+| General Motors | AV Software Safety Intern | Markham, ON, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Unreal Engine Developer Co-op, Unreal Engine Developer | Nepean, ON | May 19, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127297744) |
 | General Dynamics UK | Unreal Engine Developer Co-op - Unreal Engine Developer | Ottawa, ON, Canada | May 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127297744?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Development Co-op, Firmware Development and Test | Calgary, AB | May 19, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127255469) |

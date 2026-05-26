@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-26 01:55 UTC — 453 open roles_
+_Last updated: 2026-05-26 05:57 UTC — 452 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -62,7 +62,6 @@ _Last updated: 2026-05-26 01:55 UTC — 453 open roles_
 | Autodesk | PhD Intern, HCI & Visualization Research | Toronto, ON | May 16, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) |
 | Adobe | Research Scientist/Engineer Intern | Toronto, ON | May 16, 2026 | Canadian Tech | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) |
 | SOTI | Product Manager Intern - Sales Enablement Products | Mississauga, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Student Intern - Data Analyst | Toronto, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | CFO Co-op | Toronto, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Winter-Liquidity-Management-and-Parameters-Co-op--8-months-_R-0000172603?utm_source=Simplify&ref=Simplify) |
 | McGill University | FMED 505 Epidemiology and Data Analysis in Primary Care | Montreal, QC | May 15, 2026 | Canadian Tech | [Apply](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/5858-Cote-des-Neiges/TA--FALL-2026--FMED-505-Epidemiology-and-Data-Analysis-in-Primary-Care_JR0000076064) |
 | Marvell | Machine Learning Intern | Toronto, ON | May 15, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Machine-Learning-Intern---Bachelor-s-Degree_2601122-1) |

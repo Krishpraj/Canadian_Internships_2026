@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-27 19:55 UTC — 432 open roles_
+_Last updated: 2026-05-27 21:43 UTC — 433 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -164,6 +164,7 @@ _Last updated: 2026-05-27 19:55 UTC — 432 open roles_
 | University Health Network | Junior Developer Intern, Analytics & Insights | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125399511) |
 | Sun Life | Student, Data Governance Analyst Intern | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Governance-Analyst--Winter-2026-_JR00121986) |
 | Sun Life | Student, Data Analytics / Data Science Intern | Toronto, ON / Waterloo, ON | May 08, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analytics---Data-Science--Fall-2026-_JR00122501) |
+| Squarepoint Capital | Software Developer Intern | Montreal, QC, Canada | May 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/embed/job_app?token=7905463&utm_source=Simplify&ref=Simplify) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON | May 08, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) |
 | RBC | CFO, Fall Data Analyst, Capital & Liquidity Measurement & Reporting | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital---Liquidity-Measurement---Reporting--8-months-_R-0000171752) |
 | RBC | CAE, Fall GenAI Engineer Co-op | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CAE--Fall-GenAI-Engineer-Co-op--12-months-_R-0000171537) |

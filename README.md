@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-29 18:46 UTC — 432 open roles_
+_Last updated: 2026-05-29 21:05 UTC — 429 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,6 @@ _Last updated: 2026-05-29 18:46 UTC — 432 open roles_
 | Nokia | ASIC Verification Intern | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281?utm_source=Simplify&ref=Simplify) |
 | Motorola | Systems Engineer Co-op | Vancouver, BC | May 20, 2026 | Canadian Tech | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Systems-Engineer--Co-Op_R65120-1) |
 | MKS Instruments | Engineering/Development Intern/Co-op | Richmond, BC | May 20, 2026 | Canadian Tech | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406) |
-| Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Unreal Engine Developer Co-op - Unreal Engine Developer | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127297744?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Development Co-op - Firmware Development and Test | Calgary, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127255469?utm_source=Simplify&ref=Simplify) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |
@@ -122,7 +121,6 @@ _Last updated: 2026-05-29 18:46 UTC — 432 open roles_
 | Geotab | Software Developer Intern - Multiple Teams | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008?utm_source=Simplify&ref=Simplify) |
 | Cohere | Machine Learning Intern/Co-op | Remote, Canada | May 13, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | CIBC | Software/Application Developer Co-op | Toronto, ON | May 13, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2610709) |
-| A Thinking Ape | Software Development Engineer Co-op | Remote in Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/athinkingape/jobs/7918788?utm_source=Simplify&ref=Simplify) |
 | Super | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application?utm_source=Simplify&ref=Simplify) |
 | Super | Software Engineer Intern - Data | Remote in Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d/application?utm_source=Simplify&ref=Simplify) |
 | Super | Data Engineer Intern | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/5060f2c1-a0ca-44a9-90b6-647ead38d2e8/application?utm_source=Simplify&ref=Simplify) |
@@ -266,7 +264,6 @@ _Last updated: 2026-05-29 18:46 UTC — 432 open roles_
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, ON | May 01, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455) |
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, ON, Canada | May 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455?utm_source=Simplify&ref=Simplify) |
 | Lumentum | Calibration and Test Software Engineer Co-op | Ottawa, ON | May 01, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2026523) |
-| Lumentum | Calibration and Test Software Engineer Co-op | Ottawa, ON, Canada | May 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2026523?utm_source=Simplify&ref=Simplify) |
 | Intelcom \ | GHG Data Analyst Intern | Montreal, QC | May 01, 2026 | Canadian Tech | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR110778) |
 | Intelcom \ | Data Analyst Internm Returns | Montreal, QC | May 01, 2026 | Canadian Tech | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR110780) |
 | General Dynamics UK | Software Developer Co-op | Ottawa, ON | May 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124175589) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-29 16:23 UTC — 433 open roles_
+_Last updated: 2026-05-29 18:46 UTC — 432 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -121,7 +121,6 @@ _Last updated: 2026-05-29 16:23 UTC — 433 open roles_
 | Kinaxis | Software Developer Co-op/Intern, Developer Framework | Ottawa, ON | May 13, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34763/job?mobile=true&needsRedirect=false) |
 | Geotab | Software Developer Intern - Multiple Teams | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008?utm_source=Simplify&ref=Simplify) |
 | Cohere | Machine Learning Intern/Co-op | Remote, Canada | May 13, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
-| Ciena | Hardware Design and Verification Intern - Pcba | Ottawa, ON, Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823?utm_source=Simplify&ref=Simplify) |
 | CIBC | Software/Application Developer Co-op | Toronto, ON | May 13, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2610709) |
 | A Thinking Ape | Software Development Engineer Co-op | Remote in Canada | May 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/athinkingape/jobs/7918788?utm_source=Simplify&ref=Simplify) |
 | Super | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | May 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application?utm_source=Simplify&ref=Simplify) |

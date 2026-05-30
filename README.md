@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-30 09:48 UTC — 412 open roles_
+_Last updated: 2026-05-30 11:10 UTC — 412 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ _Last updated: 2026-05-30 09:48 UTC — 412 open roles_
 | Bank of Montreal | Card Products Intern - 4 months | Toronto, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Card Products Intern - 4 months | Toronto, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029-1?utm_source=Simplify&ref=Simplify) |
 | Johnson & Johnson | Global Oncology Market Access Co-op | Toronto, ON, Canada | May 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Global-Oncology-MA-Payer-Insights-Co-Op_R-077703?utm_source=Simplify&ref=Simplify) |
-| RTX | Global Trade Digital Operations Analyst Intern | Longueuil, QC, Canada | May 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594?utm_source=Simplify&ref=Simplify) |
+| RTX | Global Trade Digital Operations Analyst Intern | Longueuil, QC, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594?utm_source=Simplify&ref=Simplify) |
 | Hitachi | ALM Scripting & Reporting Intern | Toronto, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816?utm_source=Simplify&ref=Simplify) |
 | Canadian Tire | Data Engineering Student | Toronto, ON | May 23, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--4-months----Fall-2026_JR162216-1) |
 | British Columbia Investment | Quantitative Equity Co-op/Internship | Vancouver, BC, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Quantitative-Equity-Co-op-Internship--Fall-2026---Winter-2027-_JR101471?utm_source=Simplify&ref=Simplify) |

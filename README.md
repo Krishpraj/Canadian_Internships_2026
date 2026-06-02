@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-02 15:53 UTC — 429 open roles_
+_Last updated: 2026-06-02 19:34 UTC — 425 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -62,7 +62,6 @@ _Last updated: 2026-06-02 15:53 UTC — 429 open roles_
 | Motorola | Systems Engineer Co-op | Vancouver, BC | May 20, 2026 | Canadian Tech | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Systems-Engineer--Co-Op_R65120-1) |
 | MKS Instruments | Engineering/Development Intern/Co-op | Richmond, BC | May 20, 2026 | Canadian Tech | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406) |
 | General Motors | AV Software Safety Intern | Markham, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005?utm_source=Simplify&ref=Simplify) |
-| General Dynamics UK | Software Development Co-op - Firmware Development and Test | Calgary, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000127255469?utm_source=Simplify&ref=Simplify) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |
 | ATCO | Customer Connections Co-op | Edmonton, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20129?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Software Engineer | Toronto, ON | May 19, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer--Fall-2026-_JR00123596) |
@@ -200,7 +199,6 @@ _Last updated: 2026-06-02 15:53 UTC — 429 open roles_
 | Intact | Database Software Developer Intern/Co-op | Montreal, QC | May 05, 2026 | Canadian Tech | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Database-Software-Developer---4-Month-Internship-Co-op--Fall-2026-_R153119) |
 | Geotab | Software Developer Intern - Prism | Toronto, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Mobile Developer Intern | Oakville, ON, Canada Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5179078008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Integrations Engineer Intern | Oakville, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5168598008?utm_source=Simplify&ref=Simplify) |
 | Diligent Corporation | Software Engineer Intern | Vancouver, BC | May 05, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5987823004) |
 | Wealthsimple | Software Developer Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/wealthsimple/fda5d29e-cbda-43db-994f-a2de669d1141/) |
@@ -261,10 +259,8 @@ _Last updated: 2026-06-02 15:53 UTC — 429 open roles_
 | Nokia | Software Developer Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725?utm_source=Simplify&ref=Simplify) |
 | Nokia | Optical Test Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35283?utm_source=Simplify&ref=Simplify) |
 | Nokia | IP R&D Lab Technologist Co-op/Intern | Kanata, Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806?utm_source=Simplify&ref=Simplify) |
-| Nokia | HW/SW Integration Engineer Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35362?utm_source=Simplify&ref=Simplify) |
 | Nokia | Hardware Engineer Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232?utm_source=Simplify&ref=Simplify) |
 | Nokia | Hardware Developer Engineer Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231?utm_source=Simplify&ref=Simplify) |
-| Nokia | Electronics Component Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34230?utm_source=Simplify&ref=Simplify) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327?utm_source=Simplify&ref=Simplify) |
 | Lumentum | Optical Verification Engineer Co-op/Intern | Ottawa, ON, Canada | May 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531?utm_source=Simplify&ref=Simplify) |

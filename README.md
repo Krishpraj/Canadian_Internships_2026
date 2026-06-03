@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-03 00:07 UTC — 434 open roles_
+_Last updated: 2026-06-03 05:22 UTC — 433 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -70,7 +70,6 @@ _Last updated: 2026-06-03 00:07 UTC — 434 open roles_
 | Nokia | ASIC Verification Intern | Ottawa, ON | May 20, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) |
 | Motorola | Systems Engineer Co-op | Vancouver, BC | May 20, 2026 | Canadian Tech | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Systems-Engineer--Co-Op_R65120-1) |
 | MKS Instruments | Engineering/Development Intern/Co-op | Richmond, BC | May 20, 2026 | Canadian Tech | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406) |
-| General Motors | AV Software Safety Intern | Markham, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005?utm_source=Simplify&ref=Simplify) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |
 | ATCO | Customer Connections Co-op | Edmonton, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20129?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Software Engineer | Toronto, ON | May 19, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer--Fall-2026-_JR00123596) |

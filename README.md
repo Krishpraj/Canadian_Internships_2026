@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-04 20:29 UTC — 438 open roles_
+_Last updated: 2026-06-04 22:01 UTC — 437 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -218,7 +218,6 @@ _Last updated: 2026-06-04 20:29 UTC — 438 open roles_
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327?utm_source=Simplify&ref=Simplify) |
 | Lumentum | Optical Verification Engineer Co-op/Intern | Ottawa, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531?utm_source=Simplify&ref=Simplify) |
-| Lumentum | Embedded Software Engineer Co-op | Ottawa, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455?utm_source=Simplify&ref=Simplify) |
 | Intel | Firmware Development Engineer Intern | Remote, Canada | May 05, 2026 | Canadian Tech | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Engineer_JR0283529) |
 | Intel | Design Methodology Engineer Intern | Remote, Canada | May 05, 2026 | Canadian Tech | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526) |
 | Intel | Design Emulation Engineer Intern | Remote, Canada | May 05, 2026 | Canadian Tech | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Emulation-Engineer_JR0283530) |

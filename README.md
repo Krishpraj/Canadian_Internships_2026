@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-05 02:03 UTC — 440 open roles_
+_Last updated: 2026-06-05 06:46 UTC — 439 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -193,7 +193,6 @@ _Last updated: 2026-06-05 02:03 UTC — 440 open roles_
 | Magnet Forensics | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Canada Ottawa, ON, Canada Kitchener, ON, Canada | May 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Systems Integration Engineer Co-op | Calgary, AB | May 07, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125181520) |
-| TD Bank | Data Engineer Intern/Co-op - Fall 2026 | Toronto, ON, Canada | May 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067?utm_source=Simplify&ref=Simplify) |
 | RTX | Engine Control System Simulation Developer Intern | Longueuil, QC | May 06, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Developpeur-de-simulation-de-systemes-de-controle-moteur---Internship---Fall-2026---Engine-Control-System-Simulation-Developer_01842886) |
 | Occidental Petroleum | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | May 06, 2026 | Canadian Tech | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR108371) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616?utm_source=Simplify&ref=Simplify) |

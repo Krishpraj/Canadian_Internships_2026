@@ -1,10 +1,9 @@
 # Internships
 
-_Last updated: 2026-06-05 16:23 UTC — 437 open roles_
+_Last updated: 2026-06-05 18:18 UTC — 436 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Ciena | Software Platform Designer Intern | Ottawa, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142?utm_source=Simplify&ref=Simplify) |
 | CIBC | Sales Effectiveness Analyst Co-op | Toronto, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Sales-Effectiveness-Analyst-Co-op_2612072?utm_source=Simplify&ref=Simplify) |
 | Roche | Data Scientist / Machine Learning Engineer Intern 🎓 | Mississauga, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern---Data-Scientist---Machine-Learning-Engineer_202605-112814?utm_source=Simplify&ref=Simplify) |
 | Nasdaq | Mitacs Research Intern 🎓 | St. John's, NL, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---MITACs-Research-Intern--Fall-2026-_R0026283?utm_source=Simplify&ref=Simplify) |

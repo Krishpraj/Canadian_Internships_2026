@@ -1,9 +1,10 @@
 # Internships
 
-_Last updated: 2026-06-05 22:54 UTC — 436 open roles_
+_Last updated: 2026-06-05 23:57 UTC — 437 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| BC Pensions | Survey Research Analyst Co-op | Victoria, BC, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188?utm_source=Simplify&ref=Simplify) |
 | Nasdaq | Mitacs Research Intern 🎓 | St. John's, NL, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---MITACs-Research-Intern--Fall-2026-_R0026283?utm_source=Simplify&ref=Simplify) |
 | CIBC | Sales Effectiveness Analyst Co-op | Toronto, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Sales-Effectiveness-Analyst-Co-op_2612072?utm_source=Simplify&ref=Simplify) |
 | Roche | Data Scientist / Machine Learning Engineer Intern 🎓 | Mississauga, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern---Data-Scientist---Machine-Learning-Engineer_202605-112814?utm_source=Simplify&ref=Simplify) |

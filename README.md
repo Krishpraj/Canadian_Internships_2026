@@ -1,9 +1,10 @@
 # Internships
 
-_Last updated: 2026-06-06 12:48 UTC — 437 open roles_
+_Last updated: 2026-06-06 14:22 UTC — 436 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188?utm_source=Simplify&ref=Simplify) |
 | Nasdaq | Mitacs Research Intern 🎓 | St. John's, NL, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---MITACs-Research-Intern--Fall-2026-_R0026283?utm_source=Simplify&ref=Simplify) |
 | CIBC | Sales Effectiveness Analyst Co-op | Toronto, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Sales-Effectiveness-Analyst-Co-op_2612072?utm_source=Simplify&ref=Simplify) |
@@ -19,7 +20,6 @@ _Last updated: 2026-06-06 12:48 UTC — 437 open roles_
 | Autodesk | Software Developer Intern | Montreal, QC, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer_26WD98405?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern | Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-2?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern | Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-1?utm_source=Simplify&ref=Simplify) |
-| The Boeing Company | Software Development Intern - AI and Analytics | Richmond, BC, Canada | Jun 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern---AI-and-Analytics_JR2026510781-1?utm_source=Simplify&ref=Simplify) |
 | The Boeing Company | Software Development Intern - AI and Analytics | Richmond, BC, Canada | Jun 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Software-Development-Intern---AI-and-Analytics_JR2026510781?utm_source=Simplify&ref=Simplify) |
 | The Boeing Company | Software Development Intern | Richmond, BC, Canada | Jun 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1?utm_source=Simplify&ref=Simplify) |
 | The Boeing Company | Software Development Intern | Richmond, BC, Canada | Jun 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453?utm_source=Simplify&ref=Simplify) |
@@ -54,7 +54,6 @@ _Last updated: 2026-06-06 12:48 UTC — 437 open roles_
 | Royal Bank of Canada | Student Intern - Data Analyst - Personal Banking | Toronto, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782?utm_source=Simplify&ref=Simplify) |
 | Hitachi | ALM Scripting & Reporting Intern | Toronto, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816?utm_source=Simplify&ref=Simplify) |
 | Canadian Tire | Data Engineering Student | Toronto, ON | May 23, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--4-months----Fall-2026_JR162216-1) |
-| Alberta Investment Management Corporation | Fixed Income Co-op | Calgary, AB, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Co-op--Fixed-Income--Fall-2026-_JR100845?utm_source=Simplify&ref=Simplify) |
 | RBC | Student, Data Analyst, Personal Banking | Toronto, ON | May 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782) |
 | Ontario Health | Research Intern, Artificial Intelligence, Student | Toronto, ON | May 22, 2026 | Canadian Tech | [Apply](https://oh.wd3.myworkdayjobs.com/OH/job/Toronto-ON/Information-Strategy-Management-and-Analytics--SPARR----Student_R109564) |
 | Magna | Artificial Intelligence Student | Vaughan, ON | May 22, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Artificial-Intelligence-Student_R00243652) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-06 22:52 UTC — 426 open roles_
+_Last updated: 2026-06-06 23:54 UTC — 425 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -42,7 +42,6 @@ _Last updated: 2026-06-06 22:52 UTC — 426 open roles_
 | Johnson & Johnson | Global Oncology Market Access Co-op | Toronto, ON, Canada | May 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Global-Oncology-MA-Payer-Insights-Co-Op_R-077703?utm_source=Simplify&ref=Simplify) |
 | CMC Markets | Quantitative Trader | Toronto, ON | May 25, 2026 | Canadian Tech | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC5360) |
 | Ciena | Hardware Design and Verification Intern, Printed Circuit Board Assembly | Ottawa, ON | May 25, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027) |
-| RTX | Global Trade Digital Operations Analyst Intern | Longueuil, QC, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594?utm_source=Simplify&ref=Simplify) |
 | Canadian Tire | Data Engineering Student | Toronto, ON | May 23, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--4-months----Fall-2026_JR162216-1) |
 | Royal Bank of Canada | Student Intern - Data Analyst - Personal Banking | Toronto, ON, Canada | May 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782?utm_source=Simplify&ref=Simplify) |
 | RBC | Student, Data Analyst, Personal Banking | Toronto, ON | May 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782) |

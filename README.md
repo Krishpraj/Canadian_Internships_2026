@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-06 02:31 UTC — 438 open roles_
+_Last updated: 2026-06-06 06:19 UTC — 437 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,6 @@ _Last updated: 2026-06-06 02:31 UTC — 438 open roles_
 | Kinaxis | Developer Intern Co-op - AI Solutions | Ottawa, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34700/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Developer Co-op/Intern - Machine Learning | Ottawa, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Ciena | Photonics Software Engineer Intern | Ottawa, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Engineer-Intern--12-Months--Fall-2026-_R031138?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Data Engineer Intern - CDO | Toronto, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-3?utm_source=Simplify&ref=Simplify) |
 | Nokia | Silicon Photonics Packaging Co-op/Intern 🎓 | Ottawa, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1?utm_source=Simplify&ref=Simplify) |
 | EUNA Solutions | Software Developer Co-op | Oakville, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://euna.bamboohr.com/careers/652/?utm_source=Simplify&ref=Simplify) |

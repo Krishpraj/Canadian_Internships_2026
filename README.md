@@ -1,10 +1,12 @@
 # Internships
 
-_Last updated: 2026-06-08 07:20 UTC — 447 open roles_
+_Last updated: 2026-06-08 12:12 UTC — 448 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Digital Ship Analytics Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769?utm_source=Simplify&ref=Simplify) |
+| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719) |
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |
@@ -28,7 +30,6 @@ _Last updated: 2026-06-08 07:20 UTC — 447 open roles_
 | Autodesk | Cloud Developer Intern | Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-1?utm_source=Simplify&ref=Simplify) |
 | Altom Transport | Software Development Intern | Markham, IL | Jun 03, 2026 | Canadian Tech | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/apply) |
 | Veolia | Firmware Engineer Intern | Montreal, QC | Jun 02, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801) |
-| The Boeing Company | Software Development Intern | Richmond, BC, Canada | Jun 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1?utm_source=Simplify&ref=Simplify) |
 | Nokia | Silicon Photonics Packaging Co-op/Intern | Ottawa, ON | Jun 02, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996) |
 | Nokia | Design Co-op/Intern | Ottawa, ON, Canada | Jun 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36276?utm_source=Simplify&ref=Simplify) |
 | EUNA Solutions | Software Developer Co-op | Oakville, ON | Jun 02, 2026 | Canadian Tech | [Apply](https://euna.bamboohr.com/careers/652/) |
@@ -41,9 +42,9 @@ _Last updated: 2026-06-08 07:20 UTC — 447 open roles_
 | Nokia | Design Co-op/Intern | Ottawa, ON, Canada | Jun 01, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36276) |
 | Apera AI | Software Developer Co-op - C++ | Vancouver, BC | Jun 01, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) |
 | AbbVie | Data Specialist Intern - Allergan Aesthetics | Markham, ON | Jun 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013404206) |
-| Ciena | Waveserver Software Developer Co-op | Ottawa, ON, Canada | May 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080?utm_source=Simplify&ref=Simplify) |
 | Magna | Junior Full Stack Developer Co-op | Milton, ON | May 30, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) |
 | Ciena | Waveserver Software Developer Co-op | Ottawa, ON | May 30, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080) |
+| Ciena | Waveserver Software Developer Co-op | Ottawa, ON, Canada | May 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080?utm_source=Simplify&ref=Simplify) |
 | CIBC | Data Analyst Co-op | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op_2611574) |
 | Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Quebec, Canada / Remote | May 30, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) |
 | Altera Corporation | FPGA Machine Learning Engineering Intern | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Machine-Learning-Engineering---Graduate-Intern_R02455) |
@@ -76,15 +77,15 @@ _Last updated: 2026-06-08 07:20 UTC — 447 open roles_
 | Canadian Tire | Banking Analytics Student | Oakville, ON | May 22, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Banking-Analytics-Student--4-months----Fall-2026_JR161641) |
 | University Health Network | Junior Developer Intern, Analytics & Insights | Toronto, ON | May 21, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000127738917) |
 | RBC | Insurance, Product Analyst Intern | Mississauga, ON | May 21, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026--Insurance--Fall-Product-Analyst--4-months-_R-0000169875) |
-| Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
-| Nokia | ASIC Verification Intern | Ottawa, ON, Canada | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281?utm_source=Simplify&ref=Simplify) |
 | NAV CANADA | Technical Services Technologist Trainee | Calgary, AB | May 21, 2026 | Canadian Tech | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Calgary/Technical-Services-Technologist-Trainee_JR-8110) |
 | Magna | Software Engineering Co-op | Newmarket, ON | May 21, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00243997) |
 | Kinaxis | Automation Specialist Intern | Ottawa, ON | May 21, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34800/job?mobile=true&needsRedirect=false) |
 | Bank of Montreal | Engagement & Enablement Specialist Co-op/Intern | Toronto, ON | May 21, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) |
 | Sun Life | Student Mainframe Specialist | Toronto, ON | May 20, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Mainframe-Specialist--Fall-2026-_JR00124182) |
 | Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON | May 20, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) |
+| Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
 | Nokia | ASIC Verification Intern | Ottawa, ON | May 20, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) |
+| Nokia | ASIC Verification Intern | Ottawa, ON, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281?utm_source=Simplify&ref=Simplify) |
 | Motorola | Systems Engineer Co-op | Vancouver, BC | May 20, 2026 | Canadian Tech | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Systems-Engineer--Co-Op_R65120-1) |
 | MKS Instruments | Engineering/Development Intern/Co-op | Richmond, BC | May 20, 2026 | Canadian Tech | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | May 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |

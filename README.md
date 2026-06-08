@@ -1,11 +1,19 @@
 # Internships
 
-_Last updated: 2026-06-08 22:53 UTC — 447 open roles_
+_Last updated: 2026-06-08 23:55 UTC — 456 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Trend Micro | Software Developer Co-op | Ottawa, ON, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Software-Developer-Co-Op---Fall-2026_R0009772?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Systems Analyst Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Engineering Quality Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Digital Shipyards Architecture Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Digital Ship NLP Intern 🎓 | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Analytics Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Configuration and Data Management Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Business Technology Solutions Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741?utm_source=Simplify&ref=Simplify) |
+| Loblaw Companies | Analyst Co-op Student - Market Promo | Brampton, ON, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Market-Promo---Co-op-Student_R2000661250-1?utm_source=Simplify&ref=Simplify) |
 | SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719) |
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |
@@ -52,6 +60,7 @@ _Last updated: 2026-06-08 22:53 UTC — 447 open roles_
 | The Boeing Company | Data Science Intern | Richmond, BC | May 28, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799) |
 | The Boeing Company | Data Engineering Intern | Richmond, BC | May 28, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2026510800-2) |
 | L3Harris Technologies | Embedded Software Engineer Intern | Ottawa, ON | May 28, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) |
+| General Motors | Vehicle Experience Software Developer Co-op | Markham, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Vehicle-Experience-Software-Developer_JR-202611827?utm_source=Simplify&ref=Simplify) |
 | Ciena | ASIC Engineer Co-op | Ottawa, ON | May 28, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Co-op--Sept-2026--4-Months-_R031083) |
 | Ciena | ASIC Engineer Co-op | Ottawa, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Co-op--Sept-2026--4-Months-_R031083?utm_source=Simplify&ref=Simplify) |
 | Air Liquide | Clinical Data Intern | Langley, BC / Vancouver, BC | May 28, 2026 | Canadian Tech | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Langley-BC---198-St-042---Respiratory-therapy/Summer-Student_R10092785) |

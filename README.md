@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-09 16:14 UTC — 454 open roles_
+_Last updated: 2026-06-09 18:26 UTC — 453 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -209,7 +209,6 @@ _Last updated: 2026-06-09 16:14 UTC — 454 open roles_
 | Lumentum | Optical Verification Engineer Co-op/Intern | Ottawa, ON, Canada | May 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern - Prism | Toronto, ON, Canada Kitchener, ON, Canada | May 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Integrations Engineer Intern | Oakville, ON, Canada | May 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5168598008?utm_source=Simplify&ref=Simplify) |
 | Cohere | Software Engineer Intern | Toronto, ON, Canada SF NYC | May 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application?utm_source=Simplify&ref=Simplify) |
 | Cohere | Research Internship 🎓 | 4 locations Montreal, QC, Canada London, UK Toronto, ON, Canada SF | May 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application?utm_source=Simplify&ref=Simplify) |
 | Acceldata | Software Engineering Co-op | Kitchener, ON | May 09, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/) |

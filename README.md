@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-10 10:46 UTC — 460 open roles_
+_Last updated: 2026-06-10 14:15 UTC — 461 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -20,9 +20,10 @@ _Last updated: 2026-06-10 10:46 UTC — 460 open roles_
 | Seaspan | Configuration and Data Management Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Business Technology Solutions Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741?utm_source=Simplify&ref=Simplify) |
 | Loblaw Companies | Analyst Co-op Student - Market Promo | Brampton, ON, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Market-Promo---Co-op-Student_R2000661250-1?utm_source=Simplify&ref=Simplify) |
+| Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Analytics Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769?utm_source=Simplify&ref=Simplify) |
-| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
+| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719) |
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |

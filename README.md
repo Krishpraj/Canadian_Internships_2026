@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-12 01:41 UTC — 481 open roles_
+_Last updated: 2026-06-12 06:22 UTC — 480 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -96,7 +96,6 @@ _Last updated: 2026-06-12 01:41 UTC — 481 open roles_
 | MaintainX | Software Development Intern | Montreal, QC | May 26, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/maintainx/jobs/5146022007) |
 | CMC Markets | Quantitative Trader | Toronto, ON | May 25, 2026 | Canadian Tech | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC5360) |
 | Ciena | Hardware Design and Verification Intern, Printed Circuit Board Assembly | Ottawa, ON | May 25, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027) |
-| Royal Bank of Canada | Student Intern - Data Analyst - Personal Banking | Toronto, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782?utm_source=Simplify&ref=Simplify) |
 | Hitachi | ALM Scripting & Reporting Intern | Toronto, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816?utm_source=Simplify&ref=Simplify) |
 | Canadian Tire | Data Engineering Student | Toronto, ON | May 23, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--4-months----Fall-2026_JR162216-1) |
 | RBC | Student, Data Analyst, Personal Banking | Toronto, ON | May 22, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-13 13:19 UTC — 466 open roles_
+_Last updated: 2026-06-13 15:15 UTC — 466 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ _Last updated: 2026-06-13 13:19 UTC — 466 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095?utm_source=Simplify&ref=Simplify) |
 | Quandri | Product Co-op | Vancouver, BC, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply?utm_source=Simplify&ref=Simplify) |
+| Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Cerebras | Software Engineer Intern | Toronto, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/embed/job_app?token=7619297003&utm_source=Simplify&ref=Simplify) |
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
@@ -69,7 +70,6 @@ _Last updated: 2026-06-13 13:19 UTC — 466 open roles_
 | Altera Corporation | FPGA Machine Learning Engineering Intern | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Machine-Learning-Engineering---Graduate-Intern_R02455) |
 | Altera Corporation | FPGA Development Tools Engineer Graduate Intern | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Graduate-Intern_R02576) |
 | Nokia | Software Engineering Co-op - Information and Communication Technology | Vancouver, BC, Canada | May 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify) |
-| General Motors | Software Developer Intern - Virtualization and SIL Integration | Markham, ON, Canada | May 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Intern-Fall-2026-Software-Developer---Virtualization-and-SIL-Integration_JR-202611495?utm_source=Simplify&ref=Simplify) |
 | The Boeing Company | Data Science Intern | Richmond, BC | May 28, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799) |
 | The Boeing Company | Data Engineering Intern | Richmond, BC | May 28, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2026510800-2) |
 | L3Harris Technologies | Embedded Software Engineer Intern | Ottawa, ON | May 28, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) |
@@ -127,7 +127,6 @@ _Last updated: 2026-06-13 13:19 UTC — 466 open roles_
 | McGill University | FMED 505 Epidemiology and Data Analysis in Primary Care | Montreal, QC | May 15, 2026 | Canadian Tech | [Apply](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/5858-Cote-des-Neiges/TA--FALL-2026--FMED-505-Epidemiology-and-Data-Analysis-in-Primary-Care_JR0000076064) |
 | Marvell | Machine Learning Intern | Toronto, ON | May 15, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Machine-Learning-Intern---Bachelor-s-Degree_2601122-1) |
 | General Dynamics UK | Embedded Software Developer / Modeler Co-op | Nepean, ON | May 15, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126746122) |
-| Ciena | Embedded Software Development Co-op | Ottawa, ON, Canada | May 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890?utm_source=Simplify&ref=Simplify) |
 | CIBC | Data Analytics Co-op | Toronto, ON | May 15, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2610899) |
 | CIBC | Business Systems Analyst Co-op | Toronto, ON | May 15, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op_2610898) |
 | CIBC | Application/Software Developer Co-op, Enterprise Technology & Business Management | Toronto, ON | May 15, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Enterprise-Technology---Business-Management_2610867) |
@@ -182,6 +181,7 @@ _Last updated: 2026-06-13 13:19 UTC — 466 open roles_
 | Cohere | Machine Learning Intern/Co-op | Canada United Kingdom United States | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Design Co-op | Ottawa, ON | May 14, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2026---4-months-_R030886) |
 | Ciena | Embedded Software Development Co-op | Ottawa, ON | May 14, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890) |
+| Ciena | Embedded Software Development Co-op | Ottawa, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890?utm_source=Simplify&ref=Simplify) |
 | British Columbia Investment | Risk Reporting & Data Co-op/Internship | Victoria, BC | May 14, 2026 | Canadian Tech | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Reporting---Data-Co-op-Internship--Fall-2026---Winter-2027-_JR101493) |
 | British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | May 14, 2026 | Canadian Tech | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Analytics-Solutions-Co-op-Internship--Fall-2026---Winter-2027-_JR101491) |
 | British Columbia Investment | Enterprise Solutions Software Engineer Co-op/Internship | Victoria, BC / Vancouver, BC | May 14, 2026 | Canadian Tech | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Fall-2026-_JR101472) |

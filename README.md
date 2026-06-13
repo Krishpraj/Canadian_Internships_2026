@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-13 02:44 UTC — 487 open roles_
+_Last updated: 2026-06-13 06:44 UTC — 484 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -50,9 +50,6 @@ _Last updated: 2026-06-13 02:44 UTC — 487 open roles_
 | Solink | Software Engineer Co-op | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef/) |
 | GeoComply | ML Engineer Intern | Vancouver, BC | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/geocomply-2/bd0ae58f-5718-4200-bd33-cd0e3c1465d5/) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC | Jun 05, 2026 | Canadian Tech | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188) |
-| Roche | Data Scientist / Machine Learning Engineer Intern 🎓 | Mississauga, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern---Data-Scientist---Machine-Learning-Engineer_202605-112814?utm_source=Simplify&ref=Simplify) |
-| Kinaxis | Developer Intern Co-op - AI Solutions | Ottawa, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34700/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| Kinaxis | Developer Co-op/Intern - Machine Learning | Ottawa, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Ciena | Photonics Software Engineer Intern | Ottawa, ON, Canada | Jun 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Engineer-Intern--12-Months--Fall-2026-_R031138?utm_source=Simplify&ref=Simplify) |
 | CIBC | Digital Product Analyst Co-op | Toronto, ON | Jun 04, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Digital-Product-Analyst-Co-op_2612126) |
 | Roche | Data Scientist / Machine Learning Engineer Intern | Mississauga, ON | Jun 03, 2026 | Canadian Tech | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern---Data-Scientist---Machine-Learning-Engineer_202605-112814) |

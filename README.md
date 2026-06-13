@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-13 09:48 UTC — 464 open roles_
+_Last updated: 2026-06-13 11:45 UTC — 464 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -47,7 +47,6 @@ _Last updated: 2026-06-13 09:48 UTC — 464 open roles_
 | EUNA Solutions | Software Developer Co-op | Oakville, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://euna.bamboohr.com/careers/652/?utm_source=Simplify&ref=Simplify) |
 | Ciena | Photonics Software Engineer Intern | Ottawa, ON | Jun 03, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Engineer-Intern--12-Months--Fall-2026-_R031138) |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON | Jun 03, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) |
-| Autodesk | Cloud Developer Intern | Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-1?utm_source=Simplify&ref=Simplify) |
 | Altom Transport | Software Development Intern | Markham, IL | Jun 03, 2026 | Canadian Tech | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/apply) |
 | Veolia | Firmware Engineer Intern | Montreal, QC | Jun 02, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801) |
 | Nokia | Silicon Photonics Packaging Co-op/Intern | Ottawa, ON | Jun 02, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996) |
@@ -74,7 +73,6 @@ _Last updated: 2026-06-13 09:48 UTC — 464 open roles_
 | L3Harris Technologies | Embedded Software Engineer Intern | Ottawa, ON | May 28, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) |
 | Ciena | ASIC Engineer Co-op | Ottawa, ON | May 28, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Co-op--Sept-2026--4-Months-_R031083) |
 | Bank of Montreal | Partnership Development Intern | Toronto, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Partnership Development Intern | Toronto, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030-1?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Card Products Intern - 4 months | Toronto, ON, Canada | May 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029-1?utm_source=Simplify&ref=Simplify) |
 | Air Liquide | Clinical Data Intern | Langley, BC / Vancouver, BC | May 28, 2026 | Canadian Tech | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Langley-BC---198-St-042---Respiratory-therapy/Summer-Student_R10092785) |
 | Hitachi | Software Analyst Intern | Burnaby, BC | May 27, 2026 | Canadian Tech | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Burnaby/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892) |
@@ -139,6 +137,8 @@ _Last updated: 2026-06-13 09:48 UTC — 464 open roles_
 | Super | Data Engineer Intern | Toronto, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/5060f2c1-a0ca-44a9-90b6-647ead38d2e8/application?utm_source=Simplify&ref=Simplify) |
 | Super | Data Analytics Intern - Risk & Fraud | Toronto, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8355a2fc-34bc-45b0-b8d6-39e558940cef/application?utm_source=Simplify&ref=Simplify) |
 | Super | Data Analytics Intern | Toronto, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/1fdfd963-c5cb-49a0-be9a-76826aabf922/application?utm_source=Simplify&ref=Simplify) |
+| SOTI | Software Developer Intern | Mississauga, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025?utm_source=Simplify&ref=Simplify) |
+| SOTI | Software Developer in Test Intern | Mississauga, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064?utm_source=Simplify&ref=Simplify) |
 | RBC | Data Analyst Intern | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016) |
 | RBC | CFO, Fall/Winter Liquidity Management and Parameters Co-op | Toronto, ON | May 14, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Winter-Liquidity-Management-and-Parameters-Co-op--8-months-_R-0000172603) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-13 11:45 UTC — 464 open roles_
+_Last updated: 2026-06-13 13:19 UTC — 466 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -33,6 +33,7 @@ _Last updated: 2026-06-13 11:45 UTC — 464 open roles_
 | Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Analytics Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769?utm_source=Simplify&ref=Simplify) |
+| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719) |
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |
@@ -68,6 +69,7 @@ _Last updated: 2026-06-13 11:45 UTC — 464 open roles_
 | Altera Corporation | FPGA Machine Learning Engineering Intern | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Machine-Learning-Engineering---Graduate-Intern_R02455) |
 | Altera Corporation | FPGA Development Tools Engineer Graduate Intern | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Graduate-Intern_R02576) |
 | Nokia | Software Engineering Co-op - Information and Communication Technology | Vancouver, BC, Canada | May 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify) |
+| General Motors | Software Developer Intern - Virtualization and SIL Integration | Markham, ON, Canada | May 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Intern-Fall-2026-Software-Developer---Virtualization-and-SIL-Integration_JR-202611495?utm_source=Simplify&ref=Simplify) |
 | The Boeing Company | Data Science Intern | Richmond, BC | May 28, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799) |
 | The Boeing Company | Data Engineering Intern | Richmond, BC | May 28, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2026510800-2) |
 | L3Harris Technologies | Embedded Software Engineer Intern | Ottawa, ON | May 28, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) |

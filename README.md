@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-18 20:05 UTC — 510 open roles_
+_Last updated: 2026-06-18 22:28 UTC — 510 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |

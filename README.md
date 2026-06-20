@@ -1,10 +1,9 @@
 # Internships
 
-_Last updated: 2026-06-20 15:19 UTC — 476 open roles_
+_Last updated: 2026-06-20 16:58 UTC — 472 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Interac | AI Product Delivery Intern | Toronto, ON, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2283?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000133125725?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124?utm_source=Simplify&ref=Simplify) |
 | D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400&utm_source=Simplify&ref=Simplify) |
@@ -12,7 +11,6 @@ _Last updated: 2026-06-20 15:19 UTC — 476 open roles_
 | 1Password | Developer Intern - Service Development | Remote in USA Remote in Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Data Specialist Co-op Intern - Claim Operations Management | Kitchener, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148?utm_source=Simplify&ref=Simplify) |
 | CIBC | Commercial Banking, Data Engineering Co-op | Toronto, ON | Jun 18, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808) |
-| Autodesk | Cloud Developer Intern | Remote in Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Open Source | Remote in USA Remote in Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application?utm_source=Simplify&ref=Simplify) |
 | Tempo | Software Developer Intern | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/tempo-io/bbe3cb36-8802-4414-8db8-9ec51c935ee7/) |
 | Tempo | Software Developer Intern | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/tempo-io/ce1025fe-9be4-43e4-b1fb-3f1cf3425fab/) |
@@ -134,7 +132,6 @@ _Last updated: 2026-06-20 15:19 UTC — 476 open roles_
 | AbbVie | Data Specialist Intern - Allergan Aesthetics | Markham, ON | Jun 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013404206) |
 | Magna | Junior Full Stack Developer Co-op | Milton, ON | May 30, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) |
 | Ciena | Waveserver Software Developer Co-op | Ottawa, ON | May 30, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080) |
-| Ciena | Waveserver Software Developer Co-op | Ottawa, ON, Canada | May 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080?utm_source=Simplify&ref=Simplify) |
 | CIBC | Data Analyst Co-op | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op_2611574) |
 | Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Quebec, Canada / Remote | May 30, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) |
 | Altera Corporation | FPGA Machine Learning Engineering Intern | Toronto, ON | May 30, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Machine-Learning-Engineering---Graduate-Intern_R02455) |
@@ -198,7 +195,6 @@ _Last updated: 2026-06-20 15:19 UTC — 476 open roles_
 | Cohere | Research Internship 🎓 | 4 locations Montreal, QC, Canada London, UK Toronto, ON, Canada SF | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application?utm_source=Simplify&ref=Simplify) |
 | Cohere | Machine Learning Intern/Co-op | Canada United Kingdom United States | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application?utm_source=Simplify&ref=Simplify) |
 | Ciena | Embedded Software Development Co-op | Ottawa, ON, Canada | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Junior Software Developer Co-op/Intern | Toronto, ON, Canada | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Engagement & Enablement Specialist Co-op/Intern | Toronto, ON | May 21, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |
 | ATCO | Data Analytics Co-op | Edmonton, AB, Canada | May 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111?utm_source=Simplify&ref=Simplify) |

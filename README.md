@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-21 15:20 UTC — 471 open roles_
+_Last updated: 2026-06-21 16:58 UTC — 471 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -9,9 +9,7 @@ _Last updated: 2026-06-21 15:20 UTC — 471 open roles_
 | D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400&utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Co-op/Intern - Core Algorithms | Ottawa, ON, Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Service Development | Remote in USA Remote in Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application?utm_source=Simplify&ref=Simplify) |
-| Marvell | Design Verification Engineer Intern | Ottawa, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Data Specialist Co-op Intern - Claim Operations Management | Kitchener, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148?utm_source=Simplify&ref=Simplify) |
-| Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | CIBC | Commercial Banking, Data Engineering Co-op | Toronto, ON | Jun 18, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808) |
 | 1Password | Developer Intern - Open Source | Remote in USA Remote in Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application?utm_source=Simplify&ref=Simplify) |
 | Tempo | Software Developer Intern | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/tempo-io/bbe3cb36-8802-4414-8db8-9ec51c935ee7/) |
@@ -19,10 +17,12 @@ _Last updated: 2026-06-21 15:20 UTC — 471 open roles_
 | Sandvik | Embedded Software Developer Intern | Montreal, QC | Jun 17, 2026 | Canadian Tech | [Apply](https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/Canada-QC-Montreal/Embedded-Software-Developer-Intern_R0093031) |
 | RBC | GRM, Data Analyst Developer Intern | Toronto, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171) |
 | Marvell | Design Verification Engineer Intern | Ottawa, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) |
+| Marvell | Design Verification Engineer Intern | Ottawa, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Scarborough, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Data Specialist Co-op Intern, Claim Operations Management | Waterloo, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) |
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) |
+| Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | CIBC | Commercial Banking-Data Engineering Co-op | Toronto, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Engineer Co-op/Intern - 4 months | Toronto, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Engineer Co-op/Intern - 4 months | Toronto, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-2?utm_source=Simplify&ref=Simplify) |

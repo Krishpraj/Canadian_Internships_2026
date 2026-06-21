@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-21 03:27 UTC — 472 open roles_
+_Last updated: 2026-06-21 08:13 UTC — 471 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -189,7 +189,6 @@ _Last updated: 2026-06-21 03:27 UTC — 472 open roles_
 | Ciena | Embedded Software Development Co-op | Ottawa, ON, Canada | May 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890?utm_source=Simplify&ref=Simplify) |
 | CIBC | Data Analyst Co-op, Enterprise Technology & Business Management | Toronto, ON | May 22, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op---Enterprise-Technology---Business-Management_2611289-1) |
 | Canadian Tire | Banking Analytics Student | Oakville, ON | May 22, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Banking-Analytics-Student--4-months----Fall-2026_JR161641) |
-| Bank of Montreal | Engagement & Enablement Specialist Co-op/Intern | Toronto, ON, Canada | May 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283?utm_source=Simplify&ref=Simplify) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | May 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |
 | ATCO | Data Analytics Co-op | Edmonton, AB, Canada | May 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111?utm_source=Simplify&ref=Simplify) |
 | ATCO | Customer Connections Co-op | Edmonton, AB, Canada | May 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20129?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-21 20:08 UTC — 471 open roles_
+_Last updated: 2026-06-21 21:48 UTC — 472 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -64,6 +64,7 @@ _Last updated: 2026-06-21 20:08 UTC — 471 open roles_
 | Quandri | Product Co-op | Vancouver, BC, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply?utm_source=Simplify&ref=Simplify) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
+| Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Egis Group | Systems Engineering Intern | Toronto, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000131509289) |
 | Cerebras | Software Engineer Intern | Toronto, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/embed/job_app?token=7619297003) |

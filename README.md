@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-22 05:37 UTC — 418 open roles_
+_Last updated: 2026-06-22 11:28 UTC — 417 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -92,7 +92,6 @@ _Last updated: 2026-06-22 05:37 UTC — 418 open roles_
 | Seaspan | Digital Ship NLP Intern 🎓 | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Analytics Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769?utm_source=Simplify&ref=Simplify) |
-| Seaspan | Configuration and Data Management Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Co-Console Analyst Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Business Technology Solutions Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Intern | Ottawa, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) |

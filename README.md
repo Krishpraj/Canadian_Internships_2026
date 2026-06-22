@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-22 16:10 UTC — 414 open roles_
+_Last updated: 2026-06-22 19:51 UTC — 409 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -72,7 +72,6 @@ _Last updated: 2026-06-22 16:10 UTC — 414 open roles_
 | Quandri | Product Co-op | Vancouver, BC, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply?utm_source=Simplify&ref=Simplify) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
-| Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Egis Group | Systems Engineering Intern | Toronto, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000131509289) |
 | Cerebras | Software Engineer Intern | Toronto, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/embed/job_app?token=7619297003) |
@@ -83,10 +82,8 @@ _Last updated: 2026-06-22 16:10 UTC — 414 open roles_
 | 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Front-End Platform | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Data Security | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application?utm_source=Simplify&ref=Simplify) |
-| 1Password | Data Intern - Enterprise Analytics | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application?utm_source=Simplify&ref=Simplify) |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | Seaspan | Engineering Quality Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803?utm_source=Simplify&ref=Simplify) |
-| Seaspan | Digital Shipyards Architecture Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship NLP Intern 🎓 | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Co-Console Analyst Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Intern | Ottawa, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) |
@@ -165,7 +162,6 @@ _Last updated: 2026-06-22 16:10 UTC — 414 open roles_
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616?utm_source=Simplify&ref=Simplify) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611?utm_source=Simplify&ref=Simplify) |
-| Nokia | Tools and Automation SW Dev Intern/Co-op | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606?utm_source=Simplify&ref=Simplify) |
 | Nokia | Support Software Developer Co-op/Intern | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Developer Co-op/Intern | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Designer Co-op/Intern | Ottawa, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982?utm_source=Simplify&ref=Simplify) |
@@ -180,7 +176,6 @@ _Last updated: 2026-06-22 16:10 UTC — 414 open roles_
 | Magnet Forensics | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Canada Ottawa, ON, Canada Kitchener, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply?utm_source=Simplify&ref=Simplify) |
 | Hitachi | ALM Scripting & Reporting Intern | Toronto, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816?utm_source=Simplify&ref=Simplify) |
-| Geotab | Software Developer Intern - Prism | Toronto, ON, Canada Kitchener, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern - Multiple Teams | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern | Toronto, ON, Canada Oakville, ON, Canada Kitchener, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008?utm_source=Simplify&ref=Simplify) |
 | Geotab | DataOps Developer Intern - Months | Oakville, ON, Canada | May 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008?utm_source=Simplify&ref=Simplify) |

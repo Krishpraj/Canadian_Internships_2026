@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-23 01:27 UTC — 410 open roles_
+_Last updated: 2026-06-23 05:35 UTC — 409 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,6 @@ _Last updated: 2026-06-23 01:27 UTC — 410 open roles_
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | CIBC | Commercial Banking, Data Engineering Co-op | Toronto, ON | Jun 18, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808) |
 | 1Password | Developer Intern, Service Development | Remote, Canada | Jun 18, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/) |
-| 1Password | Developer Intern - Open Source | Remote in USA Remote in Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application?utm_source=Simplify&ref=Simplify) |
 | Tempo | Software Developer Intern | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/tempo-io/bbe3cb36-8802-4414-8db8-9ec51c935ee7/) |
 | Tempo | Software Developer Intern | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/tempo-io/ce1025fe-9be4-43e4-b1fb-3f1cf3425fab/) |
 | Sandvik | Embedded Software Developer Intern | Montreal, QC | Jun 17, 2026 | Canadian Tech | [Apply](https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/Canada-QC-Montreal/Embedded-Software-Developer-Intern_R0093031) |
@@ -50,7 +49,6 @@ _Last updated: 2026-06-23 01:27 UTC — 410 open roles_
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON, Canada | Jun 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply?utm_source=Simplify&ref=Simplify) |
 | CIBC | Data Analytics Co-op - Global Macro and Strategy team | Montreal, QC, Canada | Jun 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Data-Analytics-Co-op-Fall-2026---Global-Macro-and-Strategy-team---Bilingual_2612721?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Client Secrets Management | Remote in USA Remote in Canada | Jun 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application?utm_source=Simplify&ref=Simplify) |
-| 1Password | Developer Intern | Remote in USA Remote in Canada | Jun 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application?utm_source=Simplify&ref=Simplify) |
@@ -63,18 +61,17 @@ _Last updated: 2026-06-23 01:27 UTC — 410 open roles_
 | CIBC | Data Analytics Co-op | Toronto, ON | Jun 12, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Associate-Co-op_2612757) |
 | 1Password | Developer Intern, Client Secrets Management | Remote, Canada | Jun 12, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/) |
 | 1Password | Developer Intern | Remote, Canada | Jun 12, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/) |
+| 1Password | Developer Intern | Remote in USA Remote in Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op, Applications | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/) |
-| Quandri | Product Co-op | Vancouver, BC, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply?utm_source=Simplify&ref=Simplify) |
 | Pebl | Product Manager Intern, Alfie, Conversational AI | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/pebl/7f1bde51-0e21-4bc2-8414-be077511bde4/) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator, AI & Data Systems Co-op | Mississauga, ON | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000131745164) |
 | Cerebras | Software Engineer Intern | Toronto, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/embed/job_app?token=7619297003&utm_source=Simplify&ref=Simplify) |
-| 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
-| 1Password | Developer Intern - Front-End Platform | Remote in USA Remote in Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application?utm_source=Simplify&ref=Simplify) |
 | Quandri | Product Co-op | Vancouver, BC | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply) |
+| Quandri | Product Co-op | Vancouver, BC, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply?utm_source=Simplify&ref=Simplify) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
 | Kinaxis | Software Developer Intern | Ottawa, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
@@ -83,6 +80,8 @@ _Last updated: 2026-06-23 01:27 UTC — 410 open roles_
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern, Trust Platforms | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/) |
 | 1Password | Developer Intern, Front-End Platform | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/) |
+| 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
+| 1Password | Developer Intern - Front-End Platform | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Data Security | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application?utm_source=Simplify&ref=Simplify) |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | Seaspan | Engineering Quality Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803?utm_source=Simplify&ref=Simplify) |
@@ -151,7 +150,7 @@ _Last updated: 2026-06-23 01:27 UTC — 410 open roles_
 | Canadian Tire | Credit Risk Data Analyst | Oakville, ON | May 27, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Credit-Risk-Data-Analyst-Student--8-months--Fall-2026_JR161689) |
 | Sun Life | Student, Associate Software Engineer, Mainframe | Kitchener, ON | May 26, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer---Mainframe_JR00123927) |
 | MaintainX | Software Development Intern | Montreal, QC | May 26, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/maintainx/jobs/5146022007) |
-| Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | May 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | May 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | CMC Markets | Quantitative Trader | Toronto, ON | May 25, 2026 | Canadian Tech | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC5360) |
 | Ciena | Hardware Design and Verification Intern, Printed Circuit Board Assembly | Ottawa, ON | May 25, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027) |
 | Super | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | May 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application?utm_source=Simplify&ref=Simplify) |

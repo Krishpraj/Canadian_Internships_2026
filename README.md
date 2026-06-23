@@ -1,11 +1,12 @@
 # Internships
 
-_Last updated: 2026-06-23 05:35 UTC — 409 open roles_
+_Last updated: 2026-06-23 08:53 UTC — 410 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Kinaxis | Software Engineer Co-op/Intern - Developer Framework | Ottawa, ON, Canada | Jun 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Interac | Software Development Intern | Toronto, ON, Canada | Jun 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272?utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | Database Analyst Co-op/Intern | Toronto, ON, Canada | Jun 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000133125725?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124?utm_source=Simplify&ref=Simplify) |
 | D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | Jun 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400&utm_source=Simplify&ref=Simplify) |

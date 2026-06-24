@@ -2,6 +2,8 @@
 
 _Last updated: 2026-06-24 09:54 UTC — 405 open roles_
 
+Related resource: [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free, daily-updated Canadian student job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences.
+
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232?utm_source=Simplify&ref=Simplify) |

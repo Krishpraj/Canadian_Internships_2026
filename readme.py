@@ -31,6 +31,8 @@ def render(items: list[Internship]) -> str:
         "",
         f"_Last updated: {updated} — {len(unique)} open roles_",
         "",
+        "Related resource: [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free, daily-updated Canadian student job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences.",
+        "",
         "| Company | Role | Location | Posted | Source | Apply |",
         "| --- | --- | --- | --- | --- | --- |",
     ]

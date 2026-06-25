@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-25 17:27 UTC — 405 open roles_
+_Last updated: 2026-06-25 19:22 UTC — 402 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -366,12 +366,9 @@ _Last updated: 2026-06-25 17:27 UTC — 405 open roles_
 | Bank of Montreal | Cloud Business & Strategy Analytics Analyst Co-op/Internship | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662) |
 | Bank of Montreal | Analyst Co-op/Intern | Toronto, ON | May 04, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681) |
 | Arc'teryx Equipment | Application Engineer Co-op | Vancouver, BC | May 04, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/arcteryx.com/d8c59871-eabf-4505-aa6f-9ca34aa9154c/) |
-| RBC | Insurance, Product Analyst Co-op | Mississauga, ON | May 01, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Product-Analyst-Co-op--8-months-_R-0000170526) |
-| RBC | Data Analyst Intern, Private Banking | Toronto, ON | May 01, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Canadian-Private-Banking--Fall-Data-Analyst--8-months-_R-0000170513) |
 | General Dynamics UK | Software Developer Co-op | Halifax, NS | May 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000124175808) |
 | Cohere | Software Engineer Intern | Remote, Canada | May 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/) |
 | Cohere | Research Internship | Remote, Canada | May 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/) |
-| Caterpillar | Software Designer Intern | Laval, QC | May 01, 2026 | Canadian Tech | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629) |
 | Hitachi | Software Analyst Intern | Toronto, ON | Apr 30, 2026 | Canadian Tech | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern_R1012380) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON | Apr 29, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON | Apr 29, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611) |

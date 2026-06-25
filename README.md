@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-25 09:51 UTC — 405 open roles_
+_Last updated: 2026-06-25 12:10 UTC — 405 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ _Last updated: 2026-06-25 09:51 UTC — 405 open roles_
 | Seaspan | Business Technology Solutions Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741) |
 | Microsoft | Data Center Technician Intern | Toronto, ON | Jun 08, 2026 | Canadian Tech | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867685) |
 | General Motors | Engineering Operations Co-op, Equipment and Maintenance Systems | Oshawa, ON | Jun 08, 2026 | Canadian Tech | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op---Engineering-Operations---Equipment-and-Maintenance-Systems_JR-202612578) |
-| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
+| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719) |
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |

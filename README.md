@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-26 00:02 UTC — 407 open roles_
+_Last updated: 2026-06-26 04:47 UTC — 407 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -76,8 +76,6 @@ _Last updated: 2026-06-26 00:02 UTC — 407 open roles_
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator, AI & Data Systems Co-op | Mississauga, ON | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000131745164) |
 | Cerebras | Software Engineer Intern | Toronto, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/embed/job_app?token=7619297003&utm_source=Simplify&ref=Simplify) |
-| 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
-| 1Password | Developer Intern - Front-End Platform | Remote in USA Remote in Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application?utm_source=Simplify&ref=Simplify) |
 | Quandri | Product Co-op | Vancouver, BC | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
@@ -87,6 +85,8 @@ _Last updated: 2026-06-26 00:02 UTC — 407 open roles_
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern, Trust Platforms | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/) |
 | 1Password | Developer Intern, Front-End Platform | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/) |
+| 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
+| 1Password | Developer Intern - Front-End Platform | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application?utm_source=Simplify&ref=Simplify) |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship NLP Intern 🎓 | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755?utm_source=Simplify&ref=Simplify) |

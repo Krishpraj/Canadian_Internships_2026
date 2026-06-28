@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-06-28 02:06 UTC — 407 open roles_
+_Last updated: 2026-06-28 06:40 UTC — 408 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -38,6 +38,7 @@ _Last updated: 2026-06-28 02:06 UTC — 407 open roles_
 | Hitachi | Software Analyst Intern | Scarborough, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Data Specialist Co-op Intern, Claim Operations Management | Waterloo, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) |
+| Clio | Software Developer Co-op | Toronto, ON, Canada Calgary, AB, Canada Vancouver, BC, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577?utm_source=Simplify&ref=Simplify) |
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) |
 | CIBC | Commercial Banking-Data Engineering Co-op | Toronto, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Engineer Co-op/Intern - 4 months | Toronto, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1?utm_source=Simplify&ref=Simplify) |

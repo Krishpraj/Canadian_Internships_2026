@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-01 10:36 UTC — 341 open roles_
+_Last updated: 2026-07-01 13:30 UTC — 343 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -114,6 +114,7 @@ _Last updated: 2026-07-01 10:36 UTC — 341 open roles_
 | Seaspan | Business Technology Solutions Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741) |
 | Microsoft | Data Center Technician Intern | Toronto, ON | Jun 08, 2026 | Canadian Tech | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867685) |
 | General Motors | Engineering Operations Co-op, Equipment and Maintenance Systems | Oshawa, ON | Jun 08, 2026 | Canadian Tech | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op---Engineering-Operations---Equipment-and-Maintenance-Systems_JR-202612578) |
+| SOTI | Web Producer Intern | Mississauga, ON, Canada | Jun 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify) |
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719) |
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |
 | Solink | Software Engineer Co-op | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef/) |
@@ -139,6 +140,7 @@ _Last updated: 2026-07-01 10:36 UTC — 341 open roles_
 | The Boeing Company | Software Development Intern | Richmond, BC | Jun 01, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1) |
 | Super | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application?utm_source=Simplify&ref=Simplify) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025?utm_source=Simplify&ref=Simplify) |
+| SOTI | Software Developer in Test Intern | Mississauga, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064?utm_source=Simplify&ref=Simplify) |
 | SOTI | Data Scientist Intern | Mississauga, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065?utm_source=Simplify&ref=Simplify) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Engineering Co-op - Information and Communication Technology | Vancouver, BC, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify) |

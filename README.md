@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-01 06:49 UTC — 342 open roles_
+_Last updated: 2026-07-01 10:36 UTC — 341 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -68,10 +68,6 @@ _Last updated: 2026-07-01 06:49 UTC — 342 open roles_
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON / Waterloo, ON | Jun 15, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) |
 | Definity Financial | Data Analyst Co-op/Intern | Toronto, ON | Jun 15, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON, Canada | Jun 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply?utm_source=Simplify&ref=Simplify) |
-| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application?utm_source=Simplify&ref=Simplify) |
-| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application?utm_source=Simplify&ref=Simplify) |
-| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application?utm_source=Simplify&ref=Simplify) |
-| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Motorola | Electronics Design Co-op | Vancouver, BC | Jun 12, 2026 | Canadian Tech | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design--Co-Op_R65838-1) |
 | Lumentum | Algorithms and Analytics Engineering Co-op/Intern | Ottawa, ON | Jun 12, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Algorithms-and-Analytics-Engineering-Co-op-Intern_2026532) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON | Jun 12, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/) |
@@ -81,8 +77,12 @@ _Last updated: 2026-07-01 06:49 UTC — 342 open roles_
 | 1Password | Developer Intern | Remote, Canada | Jun 12, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op, Applications | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/) |
+| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada Vancouver, BC, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/) |
+| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application?utm_source=Simplify&ref=Simplify) |
+| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada Vancouver, BC, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/) |
+| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Pebl | Product Manager Intern, Alfie, Conversational AI | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/pebl/7f1bde51-0e21-4bc2-8414-be077511bde4/) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator, AI & Data Systems Co-op | Mississauga, ON | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000131745164) |
@@ -96,8 +96,6 @@ _Last updated: 2026-07-01 06:49 UTC — 342 open roles_
 | 1Password | Developer Intern, Front-End Platform | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/) |
 | 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
-| Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
-| Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Developer Intern | Ottawa, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) |
 | Block | Applied Research Intern Co-op | Toronto, ON | Jun 09, 2026 | Canadian Tech | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | 1Password | Developer Intern, Data Security | Remote, Canada | Jun 09, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/) |
@@ -105,9 +103,11 @@ _Last updated: 2026-07-01 06:49 UTC — 342 open roles_
 | Seaspan | Systems Analyst Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792) |
 | Seaspan | Engineering Quality Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803) |
 | Seaspan | Energy Management Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) |
+| Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Shipyards Architecture Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812) |
 | Seaspan | Digital Ship NLP Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755) |
 | Seaspan | Digital Ship Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) |
+| Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Analytics Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769) |
 | Seaspan | Configuration and Data Management Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766) |
 | Seaspan | Co-Console Analyst Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775) |
@@ -139,7 +139,6 @@ _Last updated: 2026-07-01 06:49 UTC — 342 open roles_
 | The Boeing Company | Software Development Intern | Richmond, BC | Jun 01, 2026 | Canadian Tech | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1) |
 | Super | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application?utm_source=Simplify&ref=Simplify) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025?utm_source=Simplify&ref=Simplify) |
-| SOTI | Software Developer in Test Intern | Mississauga, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064?utm_source=Simplify&ref=Simplify) |
 | SOTI | Data Scientist Intern | Mississauga, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065?utm_source=Simplify&ref=Simplify) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |
 | Nokia | Software Engineering Co-op - Information and Communication Technology | Vancouver, BC, Canada | Jun 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify) |

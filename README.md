@@ -1,11 +1,13 @@
 # Internships
 
-_Last updated: 2026-07-02 22:54 UTC — 346 open roles_
+_Last updated: 2026-07-02 23:53 UTC — 348 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Royal Bank of Canada | Relationship Manager Business Markets Intern | Dartmouth, NS, Canada New Glasgow, NS, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TRURO-Nova-Scotia-Canada/Relationship-Manager-Business-Markets-Intern_R-0000178538?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Relationship Manager Business Markets Intern | Lunenburg, NS, Canada Halifax Regional Municipality, NS, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRIDGEWATER-Nova-Scotia-Canada/Relationship-Manager-Business-Markets-Intern_R-0000178540-1?utm_source=Simplify&ref=Simplify) |
+| Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
+| Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |
 | Magna | Computer Vision Engineering Co-op | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Database Analyst Co-op/Intern | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622?utm_source=Simplify&ref=Simplify) |

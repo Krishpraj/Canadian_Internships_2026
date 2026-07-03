@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-03 05:40 UTC — 346 open roles_
+_Last updated: 2026-07-03 08:43 UTC — 345 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -136,7 +136,6 @@ _Last updated: 2026-07-03 05:40 UTC — 346 open roles_
 | Nokia | ASIC Verification Intern | Ottawa, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply?utm_source=Simplify&ref=Simplify) |
 | Magnet Forensics | Software Developer Co-op | Canada Ottawa, ON, Canada Kitchener, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply?utm_source=Simplify&ref=Simplify) |
-| Loblaw Companies | Analyst Co-op - Finance Insights and Technology Engagement | Brampton, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658455-1?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | Jun 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Developer Intern Co-op - AI Solutions | Ottawa, ON | Jun 03, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34700/job?mobile=true&needsRedirect=false) |

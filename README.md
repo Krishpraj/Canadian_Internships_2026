@@ -1,11 +1,10 @@
 # Internships
 
-_Last updated: 2026-07-05 05:14 UTC — 341 open roles_
+_Last updated: 2026-07-05 08:22 UTC — 340 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Sentra | Engineer Intern | Toronto, ON, Canada SF | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application?utm_source=Simplify&ref=Simplify) |
-| Manulife Financial | Print & Post Intern / Co-op - P&P | Toronto, ON, Canada Kitchener, ON, Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |

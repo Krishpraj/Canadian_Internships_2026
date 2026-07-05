@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-05 14:13 UTC — 340 open roles_
+_Last updated: 2026-07-05 15:41 UTC — 340 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -13,14 +13,14 @@ _Last updated: 2026-07-05 14:13 UTC — 340 open roles_
 | Bank of Montreal | Database Analyst Co-op/Intern | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req185610?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | Data Scientist Intern | Toronto, ON, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Data-Scientist_Req185609?utm_source=Simplify&ref=Simplify) |
-| KRAFTON | Programming Intern | Montreal, QC, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
+| KRAFTON | Programming Intern | Montreal, QC, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
 | Intuit | Software Developer Co-op | Toronto, ON, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056?utm_source=Simplify&ref=Simplify) |
 | Kabam | Software Engineer Co-op - Gameplay | Vancouver, BC, Canada | Jun 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply?utm_source=Simplify&ref=Simplify) |
-| Maple Leaf Sports & Entertainment Partnership (MLSE) | Business Strategy & Analytics Intern | Toronto, ON, Canada | Jun 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Analytics-Intern_JR0000537-1?utm_source=Simplify&ref=Simplify) |
 | Mackenzie Investments | Quantitative Research Intern - Investment Management - Multi-Asset Allocation | Ontario, Canada | Jun 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kabam | User Research Co-op 🎓 | Vancouver, BC, Canada | Jun 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857/apply?utm_source=Simplify&ref=Simplify) |
 | Aptiv | RTOS development Intern | Kanata, ON | Jun 26, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1) |
 | TMX Group | AI Intern | Toronto, ON, Canada | Jun 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Intern_R-5994-1?utm_source=Simplify&ref=Simplify) |
+| Maple Leaf Sports & Entertainment Partnership (MLSE) | Business Strategy & Analytics Intern | Toronto, ON, Canada | Jun 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Analytics-Intern_JR0000537-1?utm_source=Simplify&ref=Simplify) |
 | Clio | Data Modeling Co-op | Toronto, ON, Canada Vancouver, BC, Canada | Jun 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Business-Operations-Co-op_REQ-5061?utm_source=Simplify&ref=Simplify) |
 | Later | AI Automation Engineer Co-op | Vancouver, BC | Jun 24, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8604889002) |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232?utm_source=Simplify&ref=Simplify) |

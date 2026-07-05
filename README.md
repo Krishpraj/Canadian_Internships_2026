@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-05 01:13 UTC — 342 open roles_
+_Last updated: 2026-07-05 05:14 UTC — 341 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -9,9 +9,9 @@ _Last updated: 2026-07-05 01:13 UTC — 342 open roles_
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |
-| Magna | Computer Vision Engineering Co-op | Toronto, ON, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Database Analyst Co-op/Intern | Toronto, ON, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622?utm_source=Simplify&ref=Simplify) |
+| Magna | Computer Vision Engineering Co-op | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460?utm_source=Simplify&ref=Simplify) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | Database Analyst Co-op/Intern | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req185610?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | Data Scientist Intern | Toronto, ON, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Data-Scientist_Req185609?utm_source=Simplify&ref=Simplify) |
 | KRAFTON | Programming Intern | Montreal, QC, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
@@ -84,7 +84,6 @@ _Last updated: 2026-07-05 01:13 UTC — 342 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/) |
 | Pebl | Product Manager Intern, Alfie, Conversational AI | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/pebl/7f1bde51-0e21-4bc2-8414-be077511bde4/) |
 | Dexterra Group | Coordinator, AI & Data Systems Co-op | Mississauga, ON | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000131745164) |
-| 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
 | Quandri | Product Co-op | Vancouver, BC | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON | Jun 10, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
@@ -94,6 +93,7 @@ _Last updated: 2026-07-05 01:13 UTC — 342 open roles_
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern, Trust Platforms | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/) |
 | 1Password | Developer Intern, Front-End Platform | Remote, Canada | Jun 10, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/) |
+| 1Password | Developer Intern - Trust Platforms | Remote in USA Remote in Canada | Jun 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application?utm_source=Simplify&ref=Simplify) |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON | Jun 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
@@ -123,7 +123,6 @@ _Last updated: 2026-07-05 01:13 UTC — 342 open roles_
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |
 | Solink | Software Engineer Co-op | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef/) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675?utm_source=Simplify&ref=Simplify) |
-| Nokia | Software Engineering Co-op - Information and Communication Technology | Vancouver, BC, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify) |
 | Nokia | Silicon Photonics Packaging Co-op/Intern 🎓 | Ottawa, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996?utm_source=Simplify&ref=Simplify) |
 | Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
 | Nokia | ASIC Verification Intern | Ottawa, ON, Canada | Jun 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281?utm_source=Simplify&ref=Simplify) |

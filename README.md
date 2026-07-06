@@ -1,11 +1,12 @@
 # Internships
 
-_Last updated: 2026-07-06 22:42 UTC — 334 open roles_
+_Last updated: 2026-07-06 23:55 UTC — 335 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Ciena | Wavelogic Systems Design Architecture Intern | Ottawa, ON, Canada | Jul 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286?utm_source=Simplify&ref=Simplify) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL, Canada | Jul 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564?utm_source=Simplify&ref=Simplify) |
+| Ada | Software Engineer Intern | Remote in Canada | Jul 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |

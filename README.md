@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-07 01:50 UTC — 335 open roles_
+_Last updated: 2026-07-07 05:56 UTC — 334 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,6 @@ _Last updated: 2026-07-07 01:50 UTC — 335 open roles_
 | University Health Network | Junior Report Developer Intern, Analytics and Insights | Toronto, ON | Jun 19, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279) |
 | General Dynamics UK | Software Developer Co-op | Halifax, NS | Jun 19, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000133125725) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON | Jun 19, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) |
-| 1Password | Developer Intern - Service Development | Remote in USA Remote in Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application?utm_source=Simplify&ref=Simplify) |
 | Marvell | Design Verification Engineer Intern | Ottawa, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706?utm_source=Simplify&ref=Simplify) |
 | Magna | Software Engineering Co-op | Newmarket, ON | Jun 18, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013) |
 | Kinaxis | Software Developer Co-op/Intern, Core Algorithms | Ottawa, ON | Jun 18, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-09 17:44 UTC — 341 open roles_
+_Last updated: 2026-07-09 19:16 UTC — 340 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -119,7 +119,6 @@ _Last updated: 2026-07-09 17:44 UTC — 341 open roles_
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |
 | ATCO | Data Analytics Co-op | Edmonton, AB, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111?utm_source=Simplify&ref=Simplify) |
 | Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007?utm_source=Simplify&ref=Simplify) |
-| Achievers | Software Engineering Co-op | Toronto, ON, Canada | Jun 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/achievers/6a348eef-0078-4d6a-bc90-f2d7077d2987/apply?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern, Data Security | Remote, Canada | Jun 09, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/) |
 | 1Password | Data Intern - Enterprise Analytics | Remote, Canada | Jun 09, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/) |
 | Seaspan | Systems Analyst Intern | Vancouver, BC | Jun 08, 2026 | Canadian Tech | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792) |

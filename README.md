@@ -1,10 +1,11 @@
 # Internships
 
-_Last updated: 2026-07-10 22:55 UTC — 341 open roles_
+_Last updated: 2026-07-10 23:45 UTC — 342 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
+| Parsons | AI & Digital Innovation Engineer Intern | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895?utm_source=Simplify&ref=Simplify) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700248?utm_source=Simplify&ref=Simplify) |
 | NAV CANADA | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229?utm_source=Simplify&ref=Simplify) |

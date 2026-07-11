@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-11 10:38 UTC — 334 open roles_
+_Last updated: 2026-07-11 11:41 UTC — 335 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -97,6 +97,7 @@ _Last updated: 2026-07-11 10:38 UTC — 334 open roles_
 | Pebl | Product Manager Intern, Alfie, Conversational AI | Toronto, ON / Vancouver, BC | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/pebl/7f1bde51-0e21-4bc2-8414-be077511bde4/) |
 | Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator, AI & Data Systems Co-op | Mississauga, ON | Jun 11, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000131745164) |
 | Cohere | Machine Learning Intern/Co-op | Canada United Kingdom United States | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application?utm_source=Simplify&ref=Simplify) |
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |

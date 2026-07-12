@@ -1,12 +1,12 @@
 # Internships
 
-_Last updated: 2026-07-12 01:22 UTC — 334 open roles_
+_Last updated: 2026-07-12 04:44 UTC — 332 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
-| McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | NAV CANADA | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229?utm_source=Simplify&ref=Simplify) |
+| McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1?utm_source=Simplify&ref=Simplify) |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530?utm_source=Simplify&ref=Simplify) |
 | Orennia | Analytics Intern | Calgary, AB, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?utm_source=Simplify&ref=Simplify) |
@@ -22,8 +22,6 @@ _Last updated: 2026-07-12 01:22 UTC — 334 open roles_
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
-| The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req185610?utm_source=Simplify&ref=Simplify) |
-| The Home Depot | Data Scientist Intern | Toronto, ON, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Data-Scientist_Req185609?utm_source=Simplify&ref=Simplify) |
 | KRAFTON | Programming Intern | Montreal, QC, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
 | KRAFTON | Programming Intern | Montreal, QC | Jun 30, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) |
 | Intuit | Software Developer Co-op | Toronto, ON, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056?utm_source=Simplify&ref=Simplify) |

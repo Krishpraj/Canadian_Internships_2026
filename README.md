@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-13 20:46 UTC — 329 open roles_
+_Last updated: 2026-07-13 21:42 UTC — 329 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -55,15 +55,15 @@ _Last updated: 2026-07-13 20:46 UTC — 329 open roles_
 | RBC | GRM, Data Analyst Developer Intern | Toronto, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171) |
 | Marvell | Design Verification Engineer Intern | Ottawa, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) |
 | Marvell | Design Verification Engineer Intern | Ottawa, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706?utm_source=Simplify&ref=Simplify) |
-| Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Data Specialist Co-op Intern, Claim Operations Management | Waterloo, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) |
-| Clio | Software Developer Co-op | Toronto, ON, Canada Calgary, AB, Canada Vancouver, BC, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577?utm_source=Simplify&ref=Simplify) |
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON | Jun 17, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) |
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Open Source | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/) |
 | TD Bank | Global Markets Intern/Co-op | Toronto, ON | Jun 16, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern--Co-op-Fall-2026_R_1495152) |
 | RTX | Data Science Intern | Longueuil, QC | Jun 16, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595-1) |
 | Rockwell Automation | Robotics Research Co-op, Data Engineering | Waterloo, ON | Jun 16, 2026 | Canadian Tech | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering_R26-4212) |
+| Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |
+| Clio | Software Developer Co-op | Toronto, ON, Canada Calgary, AB, Canada Vancouver, BC, Canada | Jun 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Engineer Co-op/Intern | Toronto, ON | Jun 16, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1) |
 | Accenture | Technology Apprentice | Ottawa, ON / Vancouver, BC | Jun 16, 2026 | Canadian Tech | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Technology-Apprentice_R00336818) |
 | Marvell | Digital Design Engineer Intern | Toronto, ON | Jun 15, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Digital-Design-Engineer-Intern---Fall-2026_2602707) |

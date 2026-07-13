@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-13 04:52 UTC — 331 open roles_
+_Last updated: 2026-07-13 08:00 UTC — 330 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -11,11 +11,11 @@ _Last updated: 2026-07-13 04:52 UTC — 331 open roles_
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530?utm_source=Simplify&ref=Simplify) |
 | Orennia | Analytics Intern | Calgary, AB, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?utm_source=Simplify&ref=Simplify) |
 | Hitachi Energy | Software Analyst Intern | Burnaby, BC, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1?utm_source=Simplify&ref=Simplify) |
-| Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1?utm_source=Simplify&ref=Simplify) |
-| Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879-1?utm_source=Simplify&ref=Simplify) |
 | Amgen | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424?utm_source=Simplify&ref=Simplify) |
+| Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1?utm_source=Simplify&ref=Simplify) |
+| Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1?utm_source=Simplify&ref=Simplify) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564?utm_source=Simplify&ref=Simplify) |
 | Ada | Software Engineer Intern | Remote in Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
@@ -28,7 +28,6 @@ _Last updated: 2026-07-13 04:52 UTC — 331 open roles_
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/) |
 | Intuit | Software Developer Co-op | Toronto, ON | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056) |
 | Kabam | Software Engineer Co-op - Gameplay | Vancouver, BC, Canada | Jun 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply?utm_source=Simplify&ref=Simplify) |
-| Mackenzie Investments | Quantitative Research Intern - Investment Management - Multi-Asset Allocation | Ontario, Canada | Jun 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kabam | User Research Co-op 🎓 | Vancouver, BC, Canada | Jun 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857/apply?utm_source=Simplify&ref=Simplify) |
 | Aptiv | RTOS development Intern | Kanata, ON | Jun 26, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1) |
 | Later | AI Automation Engineer Co-op | Vancouver, BC | Jun 24, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8604889002) |

@@ -1,12 +1,15 @@
 # Internships
 
-_Last updated: 2026-07-13 22:42 UTC — 332 open roles_
+_Last updated: 2026-07-13 23:40 UTC — 335 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Revvity | Front-End AI Marketing Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Front-End-AI-Co-op-Marketing---REMOTE--Fall-2026-_JR-044469?utm_source=Simplify&ref=Simplify) |
 | Revvity | Front-End AI Marketing Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Front-End-AI-Co-op-Marketing---REMOTE--Fall-2026-_JR-044468?utm_source=Simplify&ref=Simplify) |
+| Revvity | AI Developer Intern/Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467?utm_source=Simplify&ref=Simplify) |
+| Finning | Data Quality Analyst Intern | Calgary, AB, Canada Edmonton, AB, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://finning.wd3.myworkdayjobs.com/External/job/Calgary-AB-CA/Data-Quality-Analyst-Intern_R-2026-3274?utm_source=Simplify&ref=Simplify) |
 | BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580?utm_source=Simplify&ref=Simplify) |
+| Accenture | Technology Apprentice Intern | Montreal, QC, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | NAV CANADA | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229?utm_source=Simplify&ref=Simplify) |

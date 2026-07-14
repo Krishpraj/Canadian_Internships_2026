@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-14 10:38 UTC — 333 open roles_
+_Last updated: 2026-07-14 12:03 UTC — 334 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -85,6 +85,7 @@ _Last updated: 2026-07-14 10:38 UTC — 333 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply?utm_source=Simplify&ref=Simplify) |
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
 | ATCO | Forestry Planning Co-op | Edmonton, AB, Canada | Jun 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-14 12:03 UTC — 334 open roles_
+_Last updated: 2026-07-14 14:19 UTC — 340 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -23,11 +23,17 @@ _Last updated: 2026-07-14 12:03 UTC — 334 open roles_
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1?utm_source=Simplify&ref=Simplify) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564?utm_source=Simplify&ref=Simplify) |
 | Ada | Software Engineer Intern | Remote in Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007?utm_source=Simplify&ref=Simplify) |
+| American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL | Jul 06, 2026 | Canadian Tech | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) |
+| Ada | Software Engineer Intern | Remote, Canada | Jul 06, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |
+| Moment Energy | Software Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) |
+| Moment Energy | Firmware Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) |
+| McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
 | KRAFTON | Programming Intern | Montreal, QC, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
+| Human Computer Lab | Software/ML Engineering Intern | Toronto, ON | Jul 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/) |
 | KRAFTON | Programming Intern | Montreal, QC | Jun 30, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) |
 | Intuit | Software Developer Co-op | Toronto, ON, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/) |

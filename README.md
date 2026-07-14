@@ -1,13 +1,17 @@
 # Internships
 
-_Last updated: 2026-07-14 22:43 UTC — 344 open roles_
+_Last updated: 2026-07-14 23:39 UTC — 347 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| TMX Group | Software Engineer Intern - Java | Toronto, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219?utm_source=Simplify&ref=Simplify) |
+| Stryker | Technical Field Service Co-op | Hamilton, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Technical-Field-Service-Co-op_R568460?utm_source=Simplify&ref=Simplify) |
+| McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
 | Global Relay | Product Management Co-op | Vancouver, BC, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112647004&utm_source=Simplify&ref=Simplify) |
 | Global Relay | Frontend Software Developer Co-op - Information Archiving | Vancouver, BC, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004&utm_source=Simplify&ref=Simplify) |
 | Global Relay | C# Developer Co-op | Vancouver, BC, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112691004&utm_source=Simplify&ref=Simplify) |
 | Global Relay | AI Developer Co-op | Vancouver, BC, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004&utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | AI Engineer Co-op/Intern - 4 months | Toronto, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Engineer--Fall-2026-Co-op-Internship---4-months_R260015224?utm_source=Simplify&ref=Simplify) |
 | Revvity | Front-End AI Marketing Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Front-End-AI-Co-op-Marketing---REMOTE--Fall-2026-_JR-044469?utm_source=Simplify&ref=Simplify) |
 | Revvity | Front-End AI Marketing Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Front-End-AI-Co-op-Marketing---REMOTE--Fall-2026-_JR-044468?utm_source=Simplify&ref=Simplify) |
 | Revvity | AI Developer Intern/Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467?utm_source=Simplify&ref=Simplify) |
@@ -75,7 +79,6 @@ _Last updated: 2026-07-14 22:43 UTC — 344 open roles_
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jun 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | 1Password | Developer Intern - Open Source | Remote, Canada | Jun 17, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/) |
 | TD Bank | Global Markets Intern/Co-op | Toronto, ON | Jun 16, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern--Co-op-Fall-2026_R_1495152) |
-| TD Bank | Global Markets Intern/Co-op | Toronto, ON, Canada | Jun 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern--Co-op-Fall-2026_R_1495152?utm_source=Simplify&ref=Simplify) |
 | RTX | Data Science Intern | Longueuil, QC | Jun 16, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595-1) |
 | Rockwell Automation | Robotics Research Co-op, Data Engineering | Waterloo, ON | Jun 16, 2026 | Canadian Tech | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering_R26-4212) |
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |

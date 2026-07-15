@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-15 11:04 UTC — 346 open roles_
+_Last updated: 2026-07-15 12:47 UTC — 347 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ _Last updated: 2026-07-15 11:04 UTC — 346 open roles_
 | Revvity | Front-End AI Marketing Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Front-End-AI-Co-op-Marketing---REMOTE--Fall-2026-_JR-044468?utm_source=Simplify&ref=Simplify) |
 | Revvity | AI Developer Intern/Co-op | Kitchener, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467?utm_source=Simplify&ref=Simplify) |
 | BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580?utm_source=Simplify&ref=Simplify) |
+| Accenture | Technology Apprentice Intern | Montreal, QC, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
 | NAV CANADA | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229?utm_source=Simplify&ref=Simplify) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |

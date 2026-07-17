@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-17 17:56 UTC — 355 open roles_
+_Last updated: 2026-07-17 18:54 UTC — 354 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,6 @@ _Last updated: 2026-07-17 17:56 UTC — 355 open roles_
 | Semtech | Salesforce QA & Data Analyst Co-op | Burlington, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Salesforce-QA---Data-Analyst-Intern_REQ3488?utm_source=Simplify&ref=Simplify) |
 | Magna | Manufacturing Execution Systems Co-op - Manufacturing Execution Systems | Oakville, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250?utm_source=Simplify&ref=Simplify) |
-| RTX | Digital Project Engineer Intern - Digital Project Engineering | Mississauga, ON, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1?utm_source=Simplify&ref=Simplify) |
 | Revvity | Product Manager Intern | Remote in Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044907?utm_source=Simplify&ref=Simplify) |
 | Revvity | Full-Stack AI Developer Intern | Remote in Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905?utm_source=Simplify&ref=Simplify) |
 | RAVL | Associate Engineer Apprentice - Engineering | Toronto, ON, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply?utm_source=Simplify&ref=Simplify) |

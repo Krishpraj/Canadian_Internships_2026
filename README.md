@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-18 04:18 UTC — 353 open roles_
+_Last updated: 2026-07-18 06:25 UTC — 351 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,6 @@ _Last updated: 2026-07-18 04:18 UTC — 353 open roles_
 | McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
 | BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
-| NAV CANADA | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229?utm_source=Simplify&ref=Simplify) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1?utm_source=Simplify&ref=Simplify) |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530?utm_source=Simplify&ref=Simplify) |
@@ -70,7 +69,6 @@ _Last updated: 2026-07-18 04:18 UTC — 353 open roles_
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON | Jun 19, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) |
 | Seaspan | Energy Management Intern | Vancouver, BC, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356?utm_source=Simplify&ref=Simplify) |
 | Seaspan | Digital Ship Intern | Vancouver, BC, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Student Intern - Data Analyst - Personal Banking | Toronto, ON, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada Vancouver, BC, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada Vancouver, BC, Canada | Jun 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application?utm_source=Simplify&ref=Simplify) |

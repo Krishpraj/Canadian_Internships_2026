@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-19 01:20 UTC — 338 open roles_
+_Last updated: 2026-07-19 04:41 UTC — 345 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -17,13 +17,20 @@ _Last updated: 2026-07-19 01:20 UTC — 338 open roles_
 | Arcadis | Disaster and Climate Resilience Co-op | Vancouver, BC, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42479?utm_source=Simplify&ref=Simplify) |
 | TMX Group | Software Engineer Intern - Java | Toronto, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219?utm_source=Simplify&ref=Simplify) |
 | McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
+| DRW | Software Developer Intern | Montreal, QC | Jul 13, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
+| DRW | AI/ML Research Intern | Montreal, QC | Jul 13, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
+| Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 10, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/) |
+| McKesson | Data Governance Analyst Intern | Mississauga, ON | Jul 09, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
+| Later | Software Development Co-op | Vancouver, BC | Jul 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8621762002) |
 | Orennia | Analytics Intern | Calgary, AB, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879-1?utm_source=Simplify&ref=Simplify) |
 | Amgen | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424?utm_source=Simplify&ref=Simplify) |
+| Orennia | Analytics Intern | Calgary, AB | Jul 07, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
+| Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Jul 07, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564?utm_source=Simplify&ref=Simplify) |
 | Ada | Software Engineer Intern | Remote in Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007?utm_source=Simplify&ref=Simplify) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL | Jul 06, 2026 | Canadian Tech | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) |

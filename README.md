@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-19 04:41 UTC — 345 open roles_
+_Last updated: 2026-07-19 07:19 UTC — 348 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,13 @@ _Last updated: 2026-07-19 04:41 UTC — 345 open roles_
 | Global Relay | AI Developer Co-op | Vancouver, BC, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004&utm_source=Simplify&ref=Simplify) |
 | Arcadis | Disaster and Climate Resilience Co-op | Vancouver, BC, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42479?utm_source=Simplify&ref=Simplify) |
 | TMX Group | Software Engineer Intern - Java | Toronto, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219?utm_source=Simplify&ref=Simplify) |
+| TMX Group | Software Engineer Intern | Toronto, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219) |
+| PartnerRe | Business Data Analyst Co-op | Toronto, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors) |
+| McKesson | AI & Strategic Analytics Intern | Mississauga, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) |
 | McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
+| Global Relay | Frontend Software Developer Co-op, Information Archiving | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004) |
+| Global Relay | C# Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112691004) |
+| Global Relay | AI Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) |
 | DRW | Software Developer Intern | Montreal, QC | Jul 13, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
 | DRW | AI/ML Research Intern | Montreal, QC | Jul 13, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580?utm_source=Simplify&ref=Simplify) |
@@ -26,8 +32,6 @@ _Last updated: 2026-07-19 04:41 UTC — 345 open roles_
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | Later | Software Development Co-op | Vancouver, BC | Jul 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8621762002) |
 | Orennia | Analytics Intern | Calgary, AB, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879-1?utm_source=Simplify&ref=Simplify) |
 | Amgen | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424?utm_source=Simplify&ref=Simplify) |
 | Orennia | Analytics Intern | Calgary, AB | Jul 07, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
 | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Jul 07, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
@@ -70,7 +74,6 @@ _Last updated: 2026-07-19 04:41 UTC — 345 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON, Canada | Jun 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op | Halifax, NS | Jun 19, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000133125725) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON | Jun 19, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) |

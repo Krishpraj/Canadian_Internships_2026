@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-20 16:50 UTC — 346 open roles_
+_Last updated: 2026-07-20 18:47 UTC — 345 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,6 @@ _Last updated: 2026-07-20 16:50 UTC — 346 open roles_
 | Ada | Software Engineer Intern | Remote, Canada | Jul 06, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
-| McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) |

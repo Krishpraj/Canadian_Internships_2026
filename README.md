@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-20 05:26 UTC — 347 open roles_
+_Last updated: 2026-07-20 08:20 UTC — 346 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,6 @@ _Last updated: 2026-07-20 05:26 UTC — 347 open roles_
 | Global Relay | AI Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) |
 | DRW | Software Developer Intern | Montreal, QC | Jul 13, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
 | DRW | AI/ML Research Intern | Montreal, QC | Jul 13, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
-| BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada Markham, ON, Canada Oakville, ON, Canada | Jul 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 10, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON | Jul 09, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) |

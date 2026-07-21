@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-21 07:25 UTC — 361 open roles_
+_Last updated: 2026-07-21 09:57 UTC — 358 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,6 @@ _Last updated: 2026-07-21 07:25 UTC — 361 open roles_
 | Mackenzie Investments | Data Science and AI Specialist Intern - Investment Management - Fundamental Equity | Greater Toronto Area, ON, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | GeoComply | Product Operations Intern | Vancouver, BC, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply?utm_source=Simplify&ref=Simplify) |
 | RAVL | Associate Engineer Apprentice - Engineering | Toronto, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply?utm_source=Simplify&ref=Simplify) |
-| Magna | Manufacturing Execution Systems Co-op - Manufacturing Execution Systems | Oakville, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658?utm_source=Simplify&ref=Simplify) |
 | Mackenzie Investments | Data Science and AI Specialist Intern | Toronto, ON | Jul 16, 2026 | Canadian Tech | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) |
 | CAE | Data Specialist Intern | Montreal, QC | Jul 16, 2026 | Canadian Tech | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) |
 | CAE | AI Intern | Montreal, QC | Jul 16, 2026 | Canadian Tech | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-106---AI-Intern_122744) |
@@ -44,9 +43,8 @@ _Last updated: 2026-07-21 07:25 UTC — 361 open roles_
 | McKesson | Data Governance Analyst Intern | Mississauga, ON | Jul 09, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) |
 | McKesson | Data Governance Analyst Intern | Mississauga, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860?utm_source=Simplify&ref=Simplify) |
 | Later | Software Development Co-op | Vancouver, BC | Jul 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8621762002) |
-| Orennia | Analytics Intern | Calgary, AB, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?utm_source=Simplify&ref=Simplify) |
-| Amgen | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Jul 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424?utm_source=Simplify&ref=Simplify) |
 | Orennia | Analytics Intern | Calgary, AB | Jul 07, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
+| Orennia | Analytics Intern | Calgary, AB, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Jul 07, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL, Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564?utm_source=Simplify&ref=Simplify) |
 | Ada | Software Engineer Intern | Remote in Canada | Jul 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007?utm_source=Simplify&ref=Simplify) |
@@ -85,7 +83,6 @@ _Last updated: 2026-07-21 07:25 UTC — 361 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada Vancouver, BC, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424?utm_source=Simplify&ref=Simplify) |
-| Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |

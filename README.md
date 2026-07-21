@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-21 19:57 UTC — 368 open roles_
+_Last updated: 2026-07-21 20:58 UTC — 369 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -10,6 +10,7 @@ _Last updated: 2026-07-21 19:57 UTC — 368 open roles_
 | NationGraph | Software Engineer Intern | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | NationGraph | Software Engineer Intern | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Georgian Partners Growth | AI/ML Engineer Intern 🎓 | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7?utm_source=Simplify&ref=Simplify) |
 | Telesat | User Terminal Engineering Co-op | Ottawa, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/) |
 | Sun Life | Student Associate Data Engineer | Toronto, ON / Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Associate-Data-Engineer--Fall-2026-_JR00126148) |
 | Google | Student Researcher, PHD | Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |

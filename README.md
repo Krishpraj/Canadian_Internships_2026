@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-22 14:52 UTC — 386 open roles_
+_Last updated: 2026-07-22 16:12 UTC — 385 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,6 @@ _Last updated: 2026-07-22 14:52 UTC — 386 open roles_
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jun 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Software Engineer Co-op/Intern, Developer Framework | Ottawa, ON | Jun 22, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false) |
 | Kinaxis | Software Development Co-op/Intern - C++ | Ottawa, ON, Canada | Jun 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| Kepler Communications | Embedded Software Engineer Intern | Toronto, ON, Canada | Jun 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply?utm_source=Simplify&ref=Simplify) |
 | Interac | Software Development Intern | Toronto, ON | Jun 22, 2026 | Canadian Tech | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON, Canada | Jun 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |

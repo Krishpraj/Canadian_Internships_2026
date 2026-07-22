@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-22 17:45 UTC — 384 open roles_
+_Last updated: 2026-07-22 18:53 UTC — 381 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -38,8 +38,6 @@ _Last updated: 2026-07-22 17:45 UTC — 384 open roles_
 | Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250?utm_source=Simplify&ref=Simplify) |
 | Revvity | Full-Stack AI Developer Intern | Remote in Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905?utm_source=Simplify&ref=Simplify) |
 | RAVL | Associate Engineer Apprentice - Engineering | Toronto, ON, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply?utm_source=Simplify&ref=Simplify) |
-| Global Relay | Product Management Co-op | Vancouver, BC, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112647004&utm_source=Simplify&ref=Simplify) |
-| Global Relay | C# Developer Co-op | Vancouver, BC, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112691004&utm_source=Simplify&ref=Simplify) |
 | Global Relay | AI Developer Co-op | Vancouver, BC, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004&utm_source=Simplify&ref=Simplify) |
 | TMX Group | Software Engineer Intern - Java | Toronto, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219?utm_source=Simplify&ref=Simplify) |
 | TMX Group | Software Engineer Intern | Toronto, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219) |
@@ -91,7 +89,6 @@ _Last updated: 2026-07-22 17:45 UTC — 384 open roles_
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232?utm_source=Simplify&ref=Simplify) |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Associate Engineer, Cloud | Kanata, ON | Jun 24, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000699953) |
-| Ciena | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | Jun 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Co-op-September-2026--8-12-months-_R031221?utm_source=Simplify&ref=Simplify) |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON | Jun 23, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON | Jun 23, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) |
 | Bank of Montreal | AI Business Architecture & Delivery Intern Co-op | Toronto, ON | Jun 23, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Business-Architecture---Delivery-Internship---Toronto--ON--12-Month-Co-Op-_R260018492) |

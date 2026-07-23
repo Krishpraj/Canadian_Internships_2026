@@ -1,13 +1,15 @@
 # Internships
 
-_Last updated: 2026-07-23 13:18 UTC — 375 open roles_
+_Last updated: 2026-07-23 15:29 UTC — 377 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply?utm_source=Simplify&ref=Simplify) |
+| Varian | Product Engineering Assistant Co-op | Ottawa, ON | Jul 22, 2026 | Canadian Tech | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570) |
 | Varian | Product Engineering Assistant Co-op | Ottawa, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570?utm_source=Simplify&ref=Simplify) |
 | ShyftLabs | AI Engineer Intern | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply?utm_source=Simplify&ref=Simplify) |
+| Later | Software Development Co-op, Later Influence | Vancouver, BC | Jul 22, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002) |
 | Veeda AI | Veeda AI Scientist | Toronto, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/) |
 | Veeda AI | AI Scientist Intern - Veeda AI Scientist | Seattle, WA Toronto, ON, Canada California | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Telesat | User Terminal Engineering Co-op | Ottawa, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/apply?utm_source=Simplify&ref=Simplify) |
@@ -73,9 +75,9 @@ _Last updated: 2026-07-23 13:18 UTC — 375 open roles_
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
-| KRAFTON | Programming Intern | Montreal, QC, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON | Jul 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/) |
 | KRAFTON | Programming Intern | Montreal, QC | Jun 30, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) |
+| KRAFTON | Programming Intern | Montreal, QC, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
 | Intuit | Software Developer Co-op | Toronto, ON, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/) |
 | Intuit | Software Developer Co-op | Toronto, ON | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056) |

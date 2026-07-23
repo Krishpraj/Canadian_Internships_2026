@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-23 11:43 UTC — 373 open roles_
+_Last updated: 2026-07-23 13:18 UTC — 375 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@ _Last updated: 2026-07-23 11:43 UTC — 373 open roles_
 | Generac | Data Science Intern | Toronto, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Data_JR14262) |
 | Ciena | Routing/IP Software Developer Intern | Ottawa, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) |
 | Ciena | Routing/IP Software Developer Intern | Ottawa, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326?utm_source=Simplify&ref=Simplify) |
+| Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7?utm_source=Simplify&ref=Simplify) |
 | Telesat | User Terminal Engineering Co-op | Ottawa, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/) |
 | Sun Life | Student Associate Data Engineer | Toronto, ON / Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Associate-Data-Engineer--Fall-2026-_JR00126148) |
 | Google | Student Researcher, PHD | Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
@@ -30,6 +31,7 @@ _Last updated: 2026-07-23 11:43 UTC — 373 open roles_
 | Ciena | Photonic Hardware Intern | Ottawa, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) |
 | Veralto | Software Engineering Co-op | Vancouver, BC, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Vancouver-British-Columbia-Canada/Aquatic-Informatics---Software-Engineering-Co-op_R10267344?utm_source=Simplify&ref=Simplify) |
 | Magna | AI Engineering Co-op | Milton, ON | Jul 17, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238) |
+| Magna | AI Engineering Co-op | Oakville, ON, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238?utm_source=Simplify&ref=Simplify) |
 | Semtech | Salesforce QA & Data Analyst Co-op | Burlington, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechJobs/job/CAN---Burlington-ON/Salesforce-QA---Data-Analyst-Intern_REQ3488-2?utm_source=Simplify&ref=Simplify) |
 | Magna | Manufacturing Execution Systems Co-op - Manufacturing Execution Systems | Oakville, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658?utm_source=Simplify&ref=Simplify) |
 | Mackenzie Investments | Data Science and AI Specialist Intern | Toronto, ON | Jul 16, 2026 | Canadian Tech | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) |
@@ -37,10 +39,10 @@ _Last updated: 2026-07-23 11:43 UTC — 373 open roles_
 | CAE | AI Intern | Montreal, QC | Jul 16, 2026 | Canadian Tech | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-106---AI-Intern_122744) |
 | Aptiv | Intern Associate Engineer, Cloud | Kanata, ON | Jul 16, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250) |
 | Revvity | Full-Stack AI Developer Intern | Remote in Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905?utm_source=Simplify&ref=Simplify) |
-| TMX Group | Software Engineer Intern - Java | Toronto, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219?utm_source=Simplify&ref=Simplify) |
 | TMX Group | Software Engineer Intern | Toronto, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219) |
 | PartnerRe | Business Data Analyst Co-op | Toronto, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors) |
 | McKesson | AI & Strategic Analytics Intern | Mississauga, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) |
+| McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
 | Global Relay | Frontend Software Developer Co-op, Information Archiving | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004) |
 | Global Relay | C# Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112691004) |
 | Global Relay | AI Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) |

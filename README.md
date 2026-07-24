@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-24 12:55 UTC — 376 open roles_
+_Last updated: 2026-07-24 14:40 UTC — 375 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -76,9 +76,9 @@ _Last updated: 2026-07-24 12:55 UTC — 376 open roles_
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) |
 | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
-| KRAFTON | Programming Intern | Montreal, QC, Canada | Jul 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON | Jul 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/) |
 | KRAFTON | Programming Intern | Montreal, QC | Jun 30, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) |
+| KRAFTON | Programming Intern | Montreal, QC, Canada | Jun 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/) |
 | Intuit | Software Developer Co-op | Toronto, ON | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056) |
 | Kabam | User Research Co-op 🎓 | Vancouver, BC, Canada | Jun 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857/apply?utm_source=Simplify&ref=Simplify) |
@@ -93,7 +93,6 @@ _Last updated: 2026-07-24 12:55 UTC — 376 open roles_
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |
 | Ciena | Software Engineer and Tools Developer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752?utm_source=Simplify&ref=Simplify) |
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
-| Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232?utm_source=Simplify&ref=Simplify) |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219?utm_source=Simplify&ref=Simplify) |
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
 | Autodesk | Machine Learning Developer Intern | Toronto, ON, Canada | Jun 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2?utm_source=Simplify&ref=Simplify) |

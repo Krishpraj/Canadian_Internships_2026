@@ -1,9 +1,11 @@
 # Internships
 
-_Last updated: 2026-07-24 22:49 UTC — 373 open roles_
+_Last updated: 2026-07-24 23:52 UTC — 375 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Manulife Financial | Retirement Product Management Co-op - Retirement Investment Product Analysis | Toronto, ON, Canada | Jul 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Fall-Co-op-2026---Canada-Retirement-Investment-Product-Analysis_JR26060715-1?utm_source=Simplify&ref=Simplify) |
+| Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON, Canada | Jul 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055?utm_source=Simplify&ref=Simplify) |
 | Veralto | Machine Learning Co-op Intern | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Relationship Manager Commercial Markets Intern | Charlottetown, PE, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1?utm_source=Simplify&ref=Simplify) |
 | Varian | Product Engineering Assistant Co-op | Ottawa, ON | Jul 22, 2026 | Canadian Tech | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570) |

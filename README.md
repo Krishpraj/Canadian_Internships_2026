@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-28 16:26 UTC — 222 open roles_
+_Last updated: 2026-07-28 17:49 UTC — 221 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,6 @@ _Last updated: 2026-07-28 16:26 UTC — 222 open roles_
 | NationGraph | Software Engineer Intern | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Georgian Partners Growth | AI/ML Engineer Intern 🎓 | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Generac | Software Engineer Intern | Toronto, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371) |
-| Generac | Software Engineer Intern | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371?utm_source=Simplify&ref=Simplify) |
 | Ciena | Routing/IP Software Developer Intern | Ottawa, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) |
 | Ciena | Routing/IP Software Developer Intern | Ottawa, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326?utm_source=Simplify&ref=Simplify) |
 | Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7?utm_source=Simplify&ref=Simplify) |

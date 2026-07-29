@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-29 10:25 UTC — 223 open roles_
+_Last updated: 2026-07-29 12:26 UTC — 223 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -35,8 +35,8 @@ _Last updated: 2026-07-29 10:25 UTC — 223 open roles_
 | Google | Student Researcher, BS/MS | Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
 | Ciena | Photonic Hardware Intern | Ottawa, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) |
 | Veralto | Software Engineering Co-op | Vancouver, BC, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Vancouver-British-Columbia-Canada/Aquatic-Informatics---Software-Engineering-Co-op_R10267344?utm_source=Simplify&ref=Simplify) |
+| Magna | IoT Systems Engineer Co-op | Oakville, ON, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235?utm_source=Simplify&ref=Simplify) |
 | Magna | AI Engineering Co-op | Milton, ON | Jul 17, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238) |
-| Magna | AI Engineering Co-op | Oakville, ON, Canada | Jul 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238?utm_source=Simplify&ref=Simplify) |
 | Semtech | Salesforce QA & Data Analyst Co-op | Burlington, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechJobs/job/CAN---Burlington-ON/Salesforce-QA---Data-Analyst-Intern_REQ3488-2?utm_source=Simplify&ref=Simplify) |
 | CAE | Data Specialist Intern | Montreal, QC | Jul 16, 2026 | Canadian Tech | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) |
 | Revvity | Full-Stack AI Developer Intern | Remote in Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905?utm_source=Simplify&ref=Simplify) |
@@ -64,9 +64,9 @@ _Last updated: 2026-07-29 10:25 UTC — 223 open roles_
 | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Jul 07, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL | Jul 06, 2026 | Canadian Tech | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) |
 | Ada | Software Engineer Intern | Remote, Canada | Jul 06, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
-| Altasciences | Process Innovation Product Management Intern | Laval, QC, Canada Overland Park, KS | Jul 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753?utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1?utm_source=Simplify&ref=Simplify) |
 | Brookfield | AI Value Creation Office Intern | Toronto, ON, Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790?utm_source=Simplify&ref=Simplify) |
+| Altasciences | Process Innovation Product Management Intern | Laval, QC, Canada Overland Park, KS | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Jul 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) |

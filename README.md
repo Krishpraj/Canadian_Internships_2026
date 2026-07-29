@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-07-29 17:43 UTC — 231 open roles_
+_Last updated: 2026-07-29 18:49 UTC — 230 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -86,7 +86,6 @@ _Last updated: 2026-07-29 17:43 UTC — 231 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada Vancouver, BC, Canada | Jun 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC, Canada | Jun 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application?utm_source=Simplify&ref=Simplify) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada Vancouver, BC, Canada | Jun 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application?utm_source=Simplify&ref=Simplify) |
-| Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Jun 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Jun 29, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/) |
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jun 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424?utm_source=Simplify&ref=Simplify) |
 | Kabam | User Research Co-op 🎓 | Vancouver, BC, Canada | Jun 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857/apply?utm_source=Simplify&ref=Simplify) |

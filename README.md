@@ -1,12 +1,11 @@
 # Internships
 
-_Last updated: 2026-07-30 16:55 UTC — 240 open roles_
+_Last updated: 2026-07-30 18:08 UTC — 238 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Loop | Data Scientist Intern | Toronto, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634?utm_source=Simplify&ref=Simplify) |
-| Capital One | Full Stack Software Engineer Intern | Toronto, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990?utm_source=Simplify&ref=Simplify) |
 | Zurich Insurance | Data Analytics & AI Internship/Co-op - Data Analytics & AI | Toronto, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | Teledyne | CMOS Co-op | Waterloo, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) |
 | Teledyne | CMOS Co-op | Kitchener, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1?utm_source=Simplify&ref=Simplify) |
@@ -25,7 +24,6 @@ _Last updated: 2026-07-30 16:55 UTC — 240 open roles_
 | Ciena | Software Engineer Intern | Ottawa, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372?utm_source=Simplify&ref=Simplify) |
 | TechInsights | Software Developer Co-op | Ottawa, ON | Jul 24, 2026 | Canadian Tech | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
 | Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON | Jul 24, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) |
-| Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON, Canada | Jul 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055?utm_source=Simplify&ref=Simplify) |
 | Veralto | Machine Learning Co-op Intern | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571?utm_source=Simplify&ref=Simplify) |
 | Veralto | Aquatic Informatics, Machine Learning Co-Op (Intern) | London, ON | Jul 23, 2026 | Canadian Tech | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) |
 | Royal Bank of Canada | Relationship Manager Commercial Markets Intern | Charlottetown, PE, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1?utm_source=Simplify&ref=Simplify) |

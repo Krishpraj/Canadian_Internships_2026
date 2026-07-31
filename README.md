@@ -1,12 +1,11 @@
 # Internships
 
-_Last updated: 2026-07-31 18:01 UTC — 237 open roles_
+_Last updated: 2026-07-31 19:58 UTC — 236 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | ROCKWOOL Group | Product Management Co-op | Oakville, ON, Canada | Jul 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Milton-Ontario/Product-Management-Co-op_R0035961?utm_source=Simplify&ref=Simplify) |
 | CLEAResult | Engineering Co-op | Remote in Canada | Jul 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Engineering-Co-op_R0017832?utm_source=Simplify&ref=Simplify) |
-| CLEAResult | Engineering Co-op | Remote in Canada | Jul 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Engineering-Co-op_R0017831?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | AI Engineer Intern | Toronto, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242?utm_source=Simplify&ref=Simplify) |

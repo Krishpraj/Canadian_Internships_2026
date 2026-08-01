@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-01 12:59 UTC — 229 open roles_
+_Last updated: 2026-08-01 14:25 UTC — 225 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ _Last updated: 2026-08-01 12:59 UTC — 229 open roles_
 | Zurich Insurance | Data Analytics & AI Internship/Co-op - Data Analytics & AI | Toronto, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | Teledyne | CMOS Co-op | Waterloo, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) |
 | Teledyne | CMOS Co-op | Kitchener, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1?utm_source=Simplify&ref=Simplify) |
-| General Motors | Digital Vehicle Experience Software Developer Co-op | Markham, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330?utm_source=Simplify&ref=Simplify) |
 | Generac | AI Productivity & Adoption Co-op | Toronto, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113) |
 | Generac | AI Productivity & Adoption Co-op | Toronto, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634) |
@@ -25,7 +24,6 @@ _Last updated: 2026-08-01 12:59 UTC — 229 open roles_
 | Royal Bank of Canada | Business Markets Relationship Manager Intern | Bathurst, NB, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302?utm_source=Simplify&ref=Simplify) |
 | Later | Data/Analytics Co-op | Vancouver, BC, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002?utm_source=Simplify&ref=Simplify) |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | Jul 28, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) |
-| Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412?utm_source=Simplify&ref=Simplify) |
 | Later | Data/Analytics Co-op | Vancouver, BC | Jul 27, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002) |
 | Ciena | Software Engineer Intern | Ottawa, ON | Jul 27, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | TechInsights | Software Developer Co-op | Ottawa, ON | Jul 24, 2026 | Canadian Tech | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
@@ -54,7 +52,6 @@ _Last updated: 2026-08-01 12:59 UTC — 229 open roles_
 | Kobo | Software Engineer Co-op | Toronto, ON, Canada | Jul 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873?utm_source=Simplify&ref=Simplify) |
 | PartnerRe | Business Data Analyst Co-op | Toronto, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors) |
 | McKesson | AI & Strategic Analytics Intern | Mississauga, ON | Jul 14, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) |
-| McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
 | Global Relay | Frontend Software Developer Co-op, Information Archiving | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004) |
 | Global Relay | C# Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112691004) |
 | Global Relay | AI Developer Co-op | Vancouver, BC | Jul 14, 2026 | Canadian Tech | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) |
@@ -91,7 +88,6 @@ _Last updated: 2026-08-01 12:59 UTC — 229 open roles_
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada Kitchener, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Data Analyst Co-op/Intern | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152?utm_source=Simplify&ref=Simplify) |
-| Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern | Remote in Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern | Remote in Canada | Jul 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1?utm_source=Simplify&ref=Simplify) |

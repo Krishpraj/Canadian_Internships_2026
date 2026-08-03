@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-03 11:51 UTC — 248 open roles_
+_Last updated: 2026-08-03 14:09 UTC — 247 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,6 @@ _Last updated: 2026-08-03 11:51 UTC — 248 open roles_
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Intern Associate Engineer, Cloud | Kanata, ON | Jul 30, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242?utm_source=Simplify&ref=Simplify) |
-| Zurich Insurance | Data Analytics & AI Internship/Co-op - Data Analytics & AI | Toronto, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | Teledyne | CMOS Co-op | Waterloo, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) |
 | Teledyne | CMOS Co-op | Kitchener, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1?utm_source=Simplify&ref=Simplify) |
 | General Motors | Digital Vehicle Experience Software Developer Co-op | Markham, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330?utm_source=Simplify&ref=Simplify) |

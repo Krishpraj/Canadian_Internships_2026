@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-03 14:09 UTC — 247 open roles_
+_Last updated: 2026-08-03 16:43 UTC — 245 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -110,8 +110,6 @@ _Last updated: 2026-08-03 14:09 UTC — 247 open roles_
 | Ciena | Optical Modem Hardware Intern | Ottawa, ON, Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214?utm_source=Simplify&ref=Simplify) |
 | Brookfield | AI Value Creation Office Intern | Toronto, ON, Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790?utm_source=Simplify&ref=Simplify) |
 | Block | Applied Research Intern Co-op 🎓 | Toronto, ON, Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=Simplify&ref=Simplify) |
-| Autodesk | Cloud Developer Intern | Remote in Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2?utm_source=Simplify&ref=Simplify) |
-| Autodesk | Cloud Developer Intern | Remote in Canada | Jul 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON | Jul 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/) |

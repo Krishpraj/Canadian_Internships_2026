@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-03 16:43 UTC — 245 open roles_
+_Last updated: 2026-08-03 18:29 UTC — 244 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,6 @@ _Last updated: 2026-08-03 16:43 UTC — 245 open roles_
 | Generac | AI Productivity & Adoption Co-op | Toronto, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634) |
 | Canadian Tire | AI Enablement Student | Toronto, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998) |
-| Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | Jul 28, 2026 | Canadian Tech | [Apply](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) |
 | Royal Bank of Canada | Business Markets Relationship Manager Intern | Bathurst, NB, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302?utm_source=Simplify&ref=Simplify) |
 | Later | Data/Analytics Co-op | Vancouver, BC, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002?utm_source=Simplify&ref=Simplify) |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | Jul 28, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) |

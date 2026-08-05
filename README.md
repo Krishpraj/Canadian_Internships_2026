@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-05 14:41 UTC — 248 open roles_
+_Last updated: 2026-08-05 16:24 UTC — 247 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,6 @@ _Last updated: 2026-08-05 14:41 UTC — 248 open roles_
 | Later | Data/Analytics Co-op | Vancouver, BC | Jul 27, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002) |
 | Ciena | Software Engineer Intern | Ottawa, ON | Jul 27, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | Ciena | Software Engineer Intern | Ottawa, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months | Toronto, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724?utm_source=Simplify&ref=Simplify) |
 | TechInsights | Software Developer Co-op | Ottawa, ON | Jul 24, 2026 | Canadian Tech | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
 | Veralto | Machine Learning Co-op Intern | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571?utm_source=Simplify&ref=Simplify) |
 | Veralto | Aquatic Informatics, Machine Learning Co-Op (Intern) | London, ON | Jul 23, 2026 | Canadian Tech | [Apply](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-05 19:25 UTC — 247 open roles_
+_Last updated: 2026-08-05 20:41 UTC — 245 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,6 @@ _Last updated: 2026-08-05 19:25 UTC — 247 open roles_
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242?utm_source=Simplify&ref=Simplify) |
 | Teledyne | CMOS Co-op | Waterloo, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) |
 | Teledyne | CMOS Co-op | Kitchener, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1?utm_source=Simplify&ref=Simplify) |
-| Generac | AI Productivity & Adoption Co-op | Toronto, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634) |
 | Canadian Tire | AI Enablement Student | Toronto, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998) |
 | Royal Bank of Canada | Business Markets Relationship Manager Intern | Bathurst, NB, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302?utm_source=Simplify&ref=Simplify) |
@@ -169,7 +168,6 @@ _Last updated: 2026-08-05 19:25 UTC — 247 open roles_
 | Apera AI | Software Developer Co-op - C++ | Vancouver, BC | Jun 01, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) |
 | AbbVie | Data Specialist Intern - Allergan Aesthetics | Markham, ON | Jun 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013404206) |
 | Magna | Junior Full Stack Developer Co-op | Milton, ON | May 30, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) |
-| Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Quebec, Canada / Remote | May 30, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) |
 | CMC Markets | Quantitative Trader | Toronto, ON | May 25, 2026 | Canadian Tech | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC5360) |
 | Magna | Artificial Intelligence Student | Vaughan, ON | May 22, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Artificial-Intelligence-Student_R00243652) |
 | University Health Network | Junior Developer Intern, Analytics & Insights | Toronto, ON | May 21, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000127738917) |

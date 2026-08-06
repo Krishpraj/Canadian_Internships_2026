@@ -2,6 +2,8 @@
 
 _Last updated: 2026-08-06 09:17 UTC — 250 open roles_
 
+Related resource: [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free, daily-updated Canadian student job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences.
+
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Ciena | Hardware Engineer Co-op - 4, 8 Months | Ottawa, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451?utm_source=Simplify&ref=Simplify) |

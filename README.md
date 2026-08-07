@@ -1,13 +1,14 @@
 # Internships
 
-_Last updated: 2026-08-07 13:44 UTC — 250 open roles_
+_Last updated: 2026-08-07 14:43 UTC — 251 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Terminal | Software Engineer Intern - Data Platform | Toronto, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Microsoft | Software Engineer Intern - Gears of War | Vancouver, BC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556956276?utm_source=Simplify&ref=Simplify) |
+| Ciena | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492?utm_source=Simplify&ref=Simplify) |
 | Alayacare | Full-Stack Developer Intern - Python | Montreal, QC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002&utm_source=Simplify&ref=Simplify) |
+| Terminal | Software Engineer Intern - Data Platform | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | CLEAResult | Energy Efficiency Analyst Co-op | Remote in Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-Op_R0017859?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Engineer Co-op - 4, 8 Months | Ottawa, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Database Operations Co-op Intern | Toronto, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-07 00:34 UTC — 249 open roles_
+_Last updated: 2026-08-07 03:41 UTC — 249 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -58,17 +58,17 @@ _Last updated: 2026-08-07 00:34 UTC — 249 open roles_
 | Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply?utm_source=Simplify&ref=Simplify) |
 | Harris Computer | Software Development Intern | Montreal, QC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1?utm_source=Simplify&ref=Simplify) |
-| Veeda AI | AI Scientist Intern - Veeda AI Scientist | Seattle, WA Toronto, ON, Canada California | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Trend Micro | Malware Research Intern | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997?utm_source=Simplify&ref=Simplify) |
 | ShyftLabs | AI Engineer Intern | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply?utm_source=Simplify&ref=Simplify) |
-| NationGraph | Software Engineer Intern | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Later | Software Development Co-op, Later Influence | Vancouver, BC | Jul 22, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002) |
-| Georgian Partners Growth | AI/ML Engineer Intern 🎓 | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7?utm_source=Simplify&ref=Simplify) |
 | Veeda AI | Veeda AI Scientist | Toronto, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/) |
+| Veeda AI | AI Scientist Intern - Veeda AI Scientist | Seattle, WA Toronto, ON, Canada California | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Telesat | User Terminal Engineering Co-op | Ottawa, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/apply?utm_source=Simplify&ref=Simplify) |
 | ShyftLabs | AI Engineer Intern | Toronto, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/) |
 | NationGraph | Software Engineer Intern | Toronto, ON | Jul 21, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/) |
+| NationGraph | Software Engineer Intern | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| Georgian Partners Growth | AI/ML Engineer Intern 🎓 | Toronto, ON, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | Jul 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7?utm_source=Simplify&ref=Simplify) |
 | Telesat | User Terminal Engineering Co-op | Ottawa, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/) |
 | Google | Student Researcher, PHD | Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | Google | Student Researcher, BS/MS | Waterloo, ON | Jul 20, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |

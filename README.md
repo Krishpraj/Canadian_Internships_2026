@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-08 05:12 UTC — 258 open roles_
+_Last updated: 2026-08-08 06:01 UTC — 257 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,6 @@ _Last updated: 2026-08-08 05:12 UTC — 258 open roles_
 | Ciena | Hardware Engineer Co-op - 4, 8 Months | Ottawa, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Engineer Co-op | Ottawa, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) |
 | Bank of Montreal | Database Operations Co-op Intern | Toronto, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911) |
-| Bank of Montreal | Database Operations Co-op Intern | Toronto, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911?utm_source=Simplify&ref=Simplify) |
 | Rodan Energy Solutions Inc. | Data Science Co-op | Mississauga, ON, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/6Zif3yjncr/Data-Science-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | Rodan Energy Solutions Inc. | Artificial Intelligence Co-op - Data Services | Mississauga, ON, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, ON, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student?utm_source=Simplify&ref=Simplify) |

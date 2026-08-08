@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-08 09:59 UTC — 257 open roles_
+_Last updated: 2026-08-08 10:31 UTC — 256 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -113,7 +113,6 @@ _Last updated: 2026-08-08 09:59 UTC — 257 open roles_
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1?utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424?utm_source=Simplify&ref=Simplify) |
 | Later | Software Development Co-op | Vancouver, BC | Jul 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8621762002) |
-| Kabam | User Research Co-op 🎓 | Vancouver, BC, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857/apply?utm_source=Simplify&ref=Simplify) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1?utm_source=Simplify&ref=Simplify) |

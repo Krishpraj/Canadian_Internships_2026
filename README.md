@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-08 15:52 UTC — 255 open roles_
+_Last updated: 2026-08-08 16:17 UTC — 254 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -8,7 +8,6 @@ _Last updated: 2026-08-08 15:52 UTC — 255 open roles_
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop?utm_source=Simplify&ref=Simplify) |
 | Microsoft | Software Engineer Intern - Gears of War | Vancouver, BC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556956276?utm_source=Simplify&ref=Simplify) |
 | Ciena | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Card Products Intern Co-op - Customer Solutions | Toronto, ON | Aug 07, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035) |
 | Bank of Montreal | Card Products Intern Co-op - Customer Solutions | Toronto, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3?utm_source=Simplify&ref=Simplify) |

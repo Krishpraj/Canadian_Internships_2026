@@ -1,13 +1,16 @@
 # Internships
 
-_Last updated: 2026-08-08 16:17 UTC — 254 open roles_
+_Last updated: 2026-08-08 16:58 UTC — 257 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | WSP | Business Intelligence Intern | Toronto, ON, Canada Ottawa, ON, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595?utm_source=Simplify&ref=Simplify) |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop?utm_source=Simplify&ref=Simplify) |
+| WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON | Aug 07, 2026 | Canadian Tech | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) |
 | Microsoft | Software Engineer Intern - Gears of War | Vancouver, BC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556956276?utm_source=Simplify&ref=Simplify) |
+| Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | Aug 07, 2026 | Canadian Tech | [Apply](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) |
 | Ciena | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492?utm_source=Simplify&ref=Simplify) |
+| Ciena | Software Developer Intern | Ottawa, ON | Aug 07, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
 | Bank of Montreal | Card Products Intern Co-op - Customer Solutions | Toronto, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Cloud Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-09 15:54 UTC — 253 open roles_
+_Last updated: 2026-08-09 16:18 UTC — 251 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,6 @@ _Last updated: 2026-08-09 15:54 UTC — 253 open roles_
 | Ciena | WaveLogic Software Intern | Ottawa, ON | Jul 31, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) |
 | Ciena | WaveLogic Software Engineer Intern | Ottawa, ON, Canada | Jul 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443?utm_source=Simplify&ref=Simplify) |
 | Ubisoft | Data Analytics Assistant | Montreal, QC | Jul 30, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000140704339) |
-| The Home Depot | AI Engineer Intern | Toronto, ON | Jul 30, 2026 | Canadian Tech | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Intern Associate Engineer, Cloud | Kanata, ON | Jul 30, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242?utm_source=Simplify&ref=Simplify) |
@@ -120,7 +119,6 @@ _Last updated: 2026-08-09 15:54 UTC — 253 open roles_
 | McKesson | Data Governance Analyst Intern | Mississauga, ON | Jul 09, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) |
 | Later | Software Development Co-op | Vancouver, BC | Jul 09, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8621762002) |
 | Orennia | Analytics Intern | Calgary, AB | Jul 07, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
-| Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Jul 07, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
 | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL | Jul 06, 2026 | Canadian Tech | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) |
 | Ada | Software Engineer Intern | Remote, Canada | Jul 06, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC | Jul 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) |

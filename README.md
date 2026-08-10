@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-10 12:38 UTC — 248 open roles_
+_Last updated: 2026-08-10 14:09 UTC — 247 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,6 @@ _Last updated: 2026-08-10 12:38 UTC — 248 open roles_
 | Terminal | Software Engineer Intern, Data Platform | Toronto, ON | Aug 06, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/) |
 | Terminal | Software Engineer Intern, Backend | Toronto, ON | Aug 06, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/) |
 | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) |
-| CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | Aug 06, 2026 | Canadian Tech | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-Op_R0017859) |
 | CLEAResult | Energy Efficiency Analyst Co-op | Remote in Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-Op_R0017859?utm_source=Simplify&ref=Simplify) |
 | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002) |
 | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) |

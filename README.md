@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-10 15:27 UTC — 248 open roles_
+_Last updated: 2026-08-10 16:13 UTC — 246 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,6 @@ _Last updated: 2026-08-10 15:27 UTC — 248 open roles_
 | Terminal | Software Engineer Intern - Data Platform | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) |
-| CLEAResult | Energy Efficiency Analyst Co-op | Remote in Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-Op_R0017859?utm_source=Simplify&ref=Simplify) |
 | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002) |
 | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) |
 | Ciena | Hardware Engineer Co-op - 4, 8 Months | Ottawa, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451?utm_source=Simplify&ref=Simplify) |
@@ -52,7 +51,6 @@ _Last updated: 2026-08-10 15:27 UTC — 248 open roles_
 | Ciena | WaveLogic Software Intern | Ottawa, ON | Jul 31, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) |
 | Ciena | WaveLogic Software Engineer Intern | Ottawa, ON, Canada | Jul 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443?utm_source=Simplify&ref=Simplify) |
 | Ubisoft | Data Analytics Assistant | Montreal, QC | Jul 30, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000140704339) |
-| Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Intern Associate Engineer, Cloud | Kanata, ON | Jul 30, 2026 | Canadian Tech | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242?utm_source=Simplify&ref=Simplify) |
 | Teledyne | CMOS Co-op | Waterloo, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) |

@@ -1,10 +1,12 @@
 # Internships
 
-_Last updated: 2026-08-11 14:09 UTC — 245 open roles_
+_Last updated: 2026-08-11 15:26 UTC — 244 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |
+| Autodesk | Software Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2?utm_source=Simplify&ref=Simplify) |
+| Autodesk | Software Developer Intern | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1?utm_source=Simplify&ref=Simplify) |
 | ATCO | Engineering Co-op - Electric Division | 10 locations Slave Lake, AB, Canada Grande Prairie, AB, Canada Calgary, AB, Canada Lethbridge, AB, Canada Edmonton, AB, Canada Peace River, AB, Canada Red Deer, AB, Canada Whitehorse, YT, Canada Fort McMurray, AB, Canada Yellowknife, NT, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508?utm_source=Simplify&ref=Simplify) |
 | McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | Aug 10, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) |
 | McKesson | Software Developer Intern - Digital and Enterprise Technology | Montreal, QC, Canada Saint-Laurent, Montreal, QC, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997?utm_source=Simplify&ref=Simplify) |
@@ -12,8 +14,6 @@ _Last updated: 2026-08-11 14:09 UTC — 245 open roles_
 | WSP | Business Intelligence Intern | Toronto, ON, Canada Ottawa, ON, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595?utm_source=Simplify&ref=Simplify) |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop?utm_source=Simplify&ref=Simplify) |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON | Aug 07, 2026 | Canadian Tech | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) |
-| Terminal | Software Engineer Intern - Data Platform | Toronto, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Microsoft | Software Engineer Intern - Gears of War | Vancouver, BC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556956276?utm_source=Simplify&ref=Simplify) |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | Aug 07, 2026 | Canadian Tech | [Apply](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) |
 | Ciena | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492?utm_source=Simplify&ref=Simplify) |
@@ -25,6 +25,8 @@ _Last updated: 2026-08-11 14:09 UTC — 245 open roles_
 | Alayacare | Full-Stack Developer Intern - Python | Montreal, QC, Canada | Aug 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002&utm_source=Simplify&ref=Simplify) |
 | Terminal | Software Engineer Intern, Data Platform | Toronto, ON | Aug 06, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/) |
 | Terminal | Software Engineer Intern, Backend | Toronto, ON | Aug 06, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/) |
+| Terminal | Software Engineer Intern - Data Platform | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) |
 | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002) |
 | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) |
@@ -38,7 +40,6 @@ _Last updated: 2026-08-11 14:09 UTC — 245 open roles_
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | Aug 04, 2026 | Canadian Tech | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404?utm_source=Simplify&ref=Simplify) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA Remote in Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Rodan Energy Solutions Inc. | Data Science Co-op | Mississauga, ON | Aug 03, 2026 | Canadian Tech | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/6Zif3yjncr/Data-Science-Coop-Student) |
 | Rodan Energy Solutions Inc. | Artificial Intelligence Co-op, Data Services | Mississauga, ON | Aug 03, 2026 | Canadian Tech | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student) |
 | Rodan Energy Solutions Inc. | Artificial Intelligence Co-op - Data Services | Mississauga, ON, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, ON | Aug 03, 2026 | Canadian Tech | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student) |
@@ -162,7 +163,6 @@ _Last updated: 2026-08-11 14:09 UTC — 245 open roles_
 | Solink | Software Engineer Co-op - R&D - Data Integrations | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/) |
 | Solink | Software Engineer Co-op | Ottawa, ON | Jun 05, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef/) |
 | BC Pensions | Survey Research Analyst Co-op | Victoria, BC | Jun 05, 2026 | Canadian Tech | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188) |
-| Ciena | Embedded Software Engineer Intern | Ottawa, ON | Jun 03, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) |
 | Veolia | Firmware Engineer Intern | Montreal, QC | Jun 02, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801) |
 | Nokia | Silicon Photonics Packaging Co-op/Intern | Ottawa, ON | Jun 02, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996) |
 | EUNA Solutions | Software Developer Co-op | Oakville, ON | Jun 02, 2026 | Canadian Tech | [Apply](https://euna.bamboohr.com/careers/652/) |
@@ -208,7 +208,6 @@ _Last updated: 2026-08-11 14:09 UTC — 245 open roles_
 | University Health Network | Junior Developer Intern, Analytics & Insights | Toronto, ON | May 08, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125399511) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON | May 08, 2026 | Canadian Tech | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) |
 | General Dynamics UK | Systems Integration Engineer Co-op | Calgary, AB | May 07, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125181520) |
-| Occidental Petroleum | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | May 06, 2026 | Canadian Tech | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR108371) |
 | Nokia | Incubation Developer Co-op/Intern | Ottawa, ON | May 06, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34239) |
 | Magnet Forensics | Software Development Engineer in Test Co-op | Halifax, NS | May 06, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809/) |
 | Magnet Forensics | Software Developer Co-op | Halifax, NS | May 06, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-11 04:45 UTC — 246 open roles_
+_Last updated: 2026-08-11 05:44 UTC — 245 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -9,7 +9,6 @@ _Last updated: 2026-08-11 04:45 UTC — 246 open roles_
 | McKesson | Software Developer Intern - Digital and Enterprise Technology | Montreal, QC, Canada Saint-Laurent, Montreal, QC, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997?utm_source=Simplify&ref=Simplify) |
 | IKO | Data Engineer Co-op | Mississauga, ON, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Mississauga-ON/Data-Engineer-Co-Op_REQ-13629?utm_source=Simplify&ref=Simplify) |
 | CLEAResult | Energy Efficiency Analyst Co-op | Remote in Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-op_R0017820?utm_source=Simplify&ref=Simplify) |
-| Bank of Montreal | Investment Intern Co-op - Co-op/Internship | Toronto, ON, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223?utm_source=Simplify&ref=Simplify) |
 | WSP | Business Intelligence Intern | Toronto, ON, Canada Ottawa, ON, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595?utm_source=Simplify&ref=Simplify) |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop?utm_source=Simplify&ref=Simplify) |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON | Aug 07, 2026 | Canadian Tech | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) |

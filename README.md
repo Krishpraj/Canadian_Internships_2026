@@ -1,10 +1,11 @@
 # Internships
 
-_Last updated: 2026-08-11 08:57 UTC — 245 open roles_
+_Last updated: 2026-08-11 09:53 UTC — 246 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |
+| ATCO | Engineering Co-op - Electric Division | 10 locations Slave Lake, AB, Canada Grande Prairie, AB, Canada Calgary, AB, Canada Lethbridge, AB, Canada Edmonton, AB, Canada Peace River, AB, Canada Red Deer, AB, Canada Whitehorse, YT, Canada Fort McMurray, AB, Canada Yellowknife, NT, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508?utm_source=Simplify&ref=Simplify) |
 | McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | Aug 10, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) |
 | McKesson | Software Developer Intern - Digital and Enterprise Technology | Montreal, QC, Canada Saint-Laurent, Montreal, QC, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997?utm_source=Simplify&ref=Simplify) |
 | IKO | Data Engineer Co-op | Mississauga, ON, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Mississauga-ON/Data-Engineer-Co-Op_REQ-13629?utm_source=Simplify&ref=Simplify) |

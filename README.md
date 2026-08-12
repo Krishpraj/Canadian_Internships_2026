@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-12 03:01 UTC — 243 open roles_
+_Last updated: 2026-08-12 05:10 UTC — 242 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,6 @@ _Last updated: 2026-08-12 03:01 UTC — 243 open roles_
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | Aug 03, 2026 | Canadian Tech | [Apply](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) |
 | Yotta Labs | Research Engineer Intern, AI Systems | Remote, Canada | Aug 02, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/) |
 | TMX Group | Analyst Student Intern, Market Insights | Toronto, ON | Aug 01, 2026 | Canadian Tech | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) |
-| TMX Group | Analyst Student Intern - Market Insights | Toronto, ON, Canada | Aug 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125?utm_source=Simplify&ref=Simplify) |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | Aug 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009?utm_source=Simplify&ref=Simplify) |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON | Jul 31, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) |
 | Ciena | WaveLogic Software Intern | Ottawa, ON | Jul 31, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) |

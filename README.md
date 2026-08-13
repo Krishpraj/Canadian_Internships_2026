@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-13 16:15 UTC — 236 open roles_
+_Last updated: 2026-08-13 17:24 UTC — 235 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -8,7 +8,6 @@ _Last updated: 2026-08-13 16:15 UTC — 236 open roles_
 | Picton Mahoney Asset Management | Business Data Analyst Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://pictonmahoney.bamboohr.com/careers/356/?utm_source=Simplify&ref=Simplify) |
 | Howmet Aerospace | Engineering Intern | Laval, QC, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908?utm_source=Simplify&ref=Simplify) |
 | Léger | Research Intern | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
-| Loblaw Companies | Software Development Co-op | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000693078?utm_source=Simplify&ref=Simplify) |
 | CMiC | Software Engineer Co-op | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/cmic/j/63A27830D0/apply?utm_source=Simplify&ref=Simplify) |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Software Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2?utm_source=Simplify&ref=Simplify) |

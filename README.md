@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-13 15:26 UTC — 237 open roles_
+_Last updated: 2026-08-13 16:15 UTC — 236 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,6 @@ _Last updated: 2026-08-13 15:26 UTC — 237 open roles_
 | Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | Aug 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002) |
 | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) |
-| Ciena | Hardware Engineer Co-op - 4, 8 Months | Ottawa, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Engineer Co-op | Ottawa, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) |
 | Magna | Warranty Co-op | Newmarket, ON | Aug 04, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | Aug 04, 2026 | Canadian Tech | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |

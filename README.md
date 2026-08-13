@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-13 05:14 UTC — 235 open roles_
+_Last updated: 2026-08-13 06:52 UTC — 235 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -34,17 +34,17 @@ _Last updated: 2026-08-13 05:14 UTC — 235 open roles_
 | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) |
 | Ciena | Hardware Engineer Co-op - 4, 8 Months | Ottawa, ON, Canada | Aug 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Engineer Co-op | Ottawa, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) |
-| Rodan Energy Solutions Inc. | Artificial Intelligence Co-op - Data Services | Mississauga, ON, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student?utm_source=Simplify&ref=Simplify) |
-| Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, ON, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | Magna | Warranty Co-op | Newmarket, ON | Aug 04, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) |
-| Carbon Engineering Ltd. | Process Systems Engineering Co-op - Automation & Data Integration | Squamish, BC, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration?utm_source=Simplify&ref=Simplify) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | Aug 04, 2026 | Canadian Tech | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404?utm_source=Simplify&ref=Simplify) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA Remote in Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Rodan Energy Solutions Inc. | Artificial Intelligence Co-op, Data Services | Mississauga, ON | Aug 03, 2026 | Canadian Tech | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student) |
+| Rodan Energy Solutions Inc. | Artificial Intelligence Co-op - Data Services | Mississauga, ON, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, ON | Aug 03, 2026 | Canadian Tech | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student) |
+| Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, ON, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | McKesson | Associate Business Systems Analyst Intern - Data Hub Canada | Montreal, QC, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830?utm_source=Simplify&ref=Simplify) |
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | Aug 03, 2026 | Canadian Tech | [Apply](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) |
+| Carbon Engineering Ltd. | Process Systems Engineering Co-op - Automation & Data Integration | Squamish, BC, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration?utm_source=Simplify&ref=Simplify) |
 | Yotta Labs | Research Engineer Intern, AI Systems | Remote, Canada | Aug 02, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/) |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | Aug 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009?utm_source=Simplify&ref=Simplify) |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON | Jul 31, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) |

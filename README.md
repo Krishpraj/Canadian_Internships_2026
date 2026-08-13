@@ -1,11 +1,12 @@
 # Internships
 
-_Last updated: 2026-08-13 21:11 UTC — 234 open roles_
+_Last updated: 2026-08-13 22:07 UTC — 235 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Picton Mahoney Asset Management | Quantitative Research & Risk Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://pictonmahoney.bamboohr.com/careers/350/?utm_source=Simplify&ref=Simplify) |
 | Picton Mahoney Asset Management | Business Data Analyst Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://pictonmahoney.bamboohr.com/careers/356/?utm_source=Simplify&ref=Simplify) |
+| Johnson & Johnson | AI & Digital Co-op | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243?utm_source=Simplify&ref=Simplify) |
 | Howmet Aerospace | Engineering Intern | Laval, QC, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908?utm_source=Simplify&ref=Simplify) |
 | Léger | Research Intern | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |

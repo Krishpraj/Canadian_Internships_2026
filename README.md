@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-14 18:11 UTC — 230 open roles_
+_Last updated: 2026-08-14 19:24 UTC — 227 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -31,8 +31,6 @@ _Last updated: 2026-08-14 18:11 UTC — 230 open roles_
 | Terminal | Software Engineer Intern, Data Platform | Toronto, ON | Aug 06, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/) |
 | Terminal | Software Engineer Intern, Backend | Toronto, ON | Aug 06, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/) |
 | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | Aug 06, 2026 | Canadian Tech | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002) |
-| OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) |
-| Ciena | Hardware Engineer Co-op | Ottawa, ON | Aug 05, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) |
 | Magna | Warranty Co-op | Newmarket, ON | Aug 04, 2026 | Canadian Tech | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | Aug 04, 2026 | Canadian Tech | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404?utm_source=Simplify&ref=Simplify) |
@@ -55,7 +53,6 @@ _Last updated: 2026-08-14 18:11 UTC — 230 open roles_
 | Teledyne | CMOS Co-op | Kitchener, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1?utm_source=Simplify&ref=Simplify) |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634) |
 | Later | Data/Analytics Co-op | Vancouver, BC, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002?utm_source=Simplify&ref=Simplify) |
-| Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | Jul 28, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) |
 | Later | Data/Analytics Co-op | Vancouver, BC | Jul 27, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002) |
 | TechInsights | Software Developer Co-op | Ottawa, ON | Jul 24, 2026 | Canadian Tech | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
 | Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=Simplify&ref=Simplify) |

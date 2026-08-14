@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-14 09:31 UTC — 233 open roles_
+_Last updated: 2026-08-14 10:45 UTC — 233 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -11,10 +11,10 @@ _Last updated: 2026-08-14 09:31 UTC — 233 open roles_
 | Altera Corporation | Embedded Solutions Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832?utm_source=Simplify&ref=Simplify) |
 | Léger | Research Intern | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
 | CMiC | Software Engineer Co-op | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/cmic/j/63A27830D0/apply?utm_source=Simplify&ref=Simplify) |
-| ATCO | Engineering Co-op - Electric Division | 10 locations Slave Lake, AB, Canada Grande Prairie, AB, Canada Calgary, AB, Canada Lethbridge, AB, Canada Edmonton, AB, Canada Peace River, AB, Canada Red Deer, AB, Canada Whitehorse, YT, Canada Fort McMurray, AB, Canada Yellowknife, NT, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508?utm_source=Simplify&ref=Simplify) |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Software Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Software Developer Intern | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1?utm_source=Simplify&ref=Simplify) |
+| ATCO | Engineering Co-op - Electric Division | 10 locations Slave Lake, AB, Canada Grande Prairie, AB, Canada Calgary, AB, Canada Lethbridge, AB, Canada Edmonton, AB, Canada Peace River, AB, Canada Red Deer, AB, Canada Whitehorse, YT, Canada Fort McMurray, AB, Canada Yellowknife, NT, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508?utm_source=Simplify&ref=Simplify) |
 | McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | Aug 10, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) |
 | McKesson | Software Developer Intern - Digital and Enterprise Technology | Montreal, QC, Canada Saint-Laurent, Montreal, QC, Canada | Aug 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997?utm_source=Simplify&ref=Simplify) |
 | WSP | Business Intelligence Intern | Toronto, ON, Canada Ottawa, ON, Canada | Aug 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595?utm_source=Simplify&ref=Simplify) |

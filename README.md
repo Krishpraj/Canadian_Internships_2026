@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-14 06:49 UTC — 234 open roles_
+_Last updated: 2026-08-14 08:05 UTC — 233 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,6 @@ _Last updated: 2026-08-14 06:49 UTC — 234 open roles_
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | Jul 29, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000140536634) |
 | Later | Data/Analytics Co-op | Vancouver, BC, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002?utm_source=Simplify&ref=Simplify) |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | Jul 28, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) |
-| Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412?utm_source=Simplify&ref=Simplify) |
 | Later | Data/Analytics Co-op | Vancouver, BC | Jul 27, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002) |
 | TechInsights | Software Developer Co-op | Ottawa, ON | Jul 24, 2026 | Canadian Tech | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
 | Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Jul 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=Simplify&ref=Simplify) |

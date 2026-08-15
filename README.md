@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-15 10:44 UTC — 227 open roles_
+_Last updated: 2026-08-15 11:08 UTC — 228 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -79,6 +79,7 @@ _Last updated: 2026-08-15 10:44 UTC — 227 open roles_
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009?utm_source=Simplify&ref=Simplify) |
 | McKesson | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114?utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1?utm_source=Simplify&ref=Simplify) |
+| Magna | Manufacturing Execution Systems Co-op - Manufacturing Execution Systems | Oakville, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658?utm_source=Simplify&ref=Simplify) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1?utm_source=Simplify&ref=Simplify) |

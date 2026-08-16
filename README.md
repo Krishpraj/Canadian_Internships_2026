@@ -2,6 +2,8 @@
 
 _Last updated: 2026-08-16 19:11 UTC — 227 open roles_
 
+Related resource: [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free, daily-updated Canadian student job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences.
+
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | AltaGas | Data Science and Analytics Co-op | Calgary, AB, Canada | Aug 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171?utm_source=Simplify&ref=Simplify) |

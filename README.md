@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-17 23:10 UTC — 238 open roles_
+_Last updated: 2026-08-17 23:42 UTC — 237 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,6 @@ _Last updated: 2026-08-17 23:10 UTC — 238 open roles_
 | Capital One | Full Stack Software Engineer Intern - Team Integrated Sprout | Toronto, ON, Canada | Aug 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010?utm_source=Simplify&ref=Simplify) |
 | Capital One | Backend Software Engineer Intern - Team Interstellar | Toronto, ON, Canada | Aug 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022?utm_source=Simplify&ref=Simplify) |
 | AltaGas | Data Science and Analytics Co-op | Calgary, AB, Canada | Aug 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171?utm_source=Simplify&ref=Simplify) |
-| Picton Mahoney Asset Management | Quantitative Research & Risk Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://pictonmahoney.bamboohr.com/careers/350/?utm_source=Simplify&ref=Simplify) |
 | Altera Corporation | Embedded Solutions Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832?utm_source=Simplify&ref=Simplify) |
 | Léger | Research Intern | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
 | Howmet Aerospace | Engineering Intern | Laval, QC, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908?utm_source=Simplify&ref=Simplify) |

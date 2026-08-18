@@ -1,10 +1,11 @@
 # Internships
 
-_Last updated: 2026-08-18 07:58 UTC — 238 open roles_
+_Last updated: 2026-08-18 08:32 UTC — 239 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Pelmorex | Product Co-op - Digital Product | Oakville, ON, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/pelmorex/014cd116-08b8-44d5-bf80-8f6494eb3bc0/apply?utm_source=Simplify&ref=Simplify) |
+| North American Construction Group | Condition Based Monitoring Co-op | Acheson, AB, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-nacg.icims.com/jobs/16942/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Thomson Reuters | Applied Research Intern - NLP/ML/GenAI 🎓 | Toronto, ON, Canada | Aug 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812?utm_source=Simplify&ref=Simplify) |
 | RTX | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | Aug 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Technical Systems Analyst Co-op - Technology & Operations | Toronto, ON, Canada | Aug 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552?utm_source=Simplify&ref=Simplify) |

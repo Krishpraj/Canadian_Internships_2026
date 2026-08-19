@@ -1,13 +1,15 @@
 # Internships
 
-_Last updated: 2026-08-19 22:46 UTC — 118 open roles_
+_Last updated: 2026-08-19 23:11 UTC — 120 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Teledyne | AI & Automation Engineer Co-op | Waterloo, ON, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/AI---Automation-Engineering-Co-op_REQ36054?utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply?utm_source=Simplify&ref=Simplify) |
+| Kensington | Data Analyst Intern - Revenue Optimization | Toronto, ON, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007?utm_source=Simplify&ref=Simplify) |
 | Capital One | Full Stack Software Engineer Intern, Team Integrated Sprout | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Bank of Montreal | Workforce Analyst Co-op Intern | Toronto, ON, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513?utm_source=Simplify&ref=Simplify) |
+| Autodesk | AI Developer Intern - Creative Technology | Montreal, QC, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2?utm_source=Simplify&ref=Simplify) |
 | Autodesk | AI Developer Intern | Montreal, QC, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1?utm_source=Simplify&ref=Simplify) |
 | RTX | Manufacturing & Quality Analyst Intern | Longueuil, QC | Aug 18, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Fabrication-Qualite---Internship-Winter-2027-Winter---Manufacturing---Quality-Analyst_01864107) |
 | Royal Bank of Canada | GRM, MCCR Policy AI Applications Intern | Toronto, ON | Aug 18, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1) |

@@ -1,10 +1,9 @@
 # Internships
 
-_Last updated: 2026-08-19 11:13 UTC — 246 open roles_
+_Last updated: 2026-08-19 11:45 UTC — 245 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| RTX | Manufacturing & Quality Analyst Intern | Longueuil, QC, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Fabrication-Qualite---Internship-Winter-2027-Winter---Manufacturing---Quality-Analyst_01864107?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Scientist Intern - Group Risk Management | Toronto, ON, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Scientist Intern - Group Risk Management | Toronto, ON, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | AI Applications Intern - Group Risk Management | Toronto, ON, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696?utm_source=Simplify&ref=Simplify) |

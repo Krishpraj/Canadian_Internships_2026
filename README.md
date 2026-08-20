@@ -1,11 +1,11 @@
 # Internships
 
-_Last updated: 2026-08-20 21:15 UTC — 123 open roles_
+_Last updated: 2026-08-20 21:49 UTC — 123 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Kepler Communications | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | Aug 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply?utm_source=Simplify&ref=Simplify) |
 | Kensington | Data Analyst Intern - Revenue Optimization | Toronto, ON, Canada | Aug 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007?utm_source=Simplify&ref=Simplify) |
+| Kepler Communications | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply?utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/) |
 | Kensington | Data Analyst Intern, Revenue Optimization | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007) |
 | Capital One | Full Stack Software Engineer Intern, Team Integrated Sprout | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |

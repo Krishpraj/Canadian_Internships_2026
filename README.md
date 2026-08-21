@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-21 19:03 UTC — 131 open roles_
+_Last updated: 2026-08-21 19:43 UTC — 130 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,6 @@ _Last updated: 2026-08-21 19:03 UTC — 131 open roles_
 | PwC | Cloud, Data and AI Intern | Vancouver, BC | Aug 18, 2026 | Canadian Tech | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD) |
 | PwC | Cloud, Data and AI Intern | Toronto, ON | Aug 18, 2026 | Canadian Tech | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD) |
 | PwC | Cloud, Data and AI Intern | Ottawa, ON | Aug 18, 2026 | Canadian Tech | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) |
-| Pelmorex | Product Co-op - Digital Product | Oakville, ON, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/pelmorex/014cd116-08b8-44d5-bf80-8f6494eb3bc0/apply?utm_source=Simplify&ref=Simplify) |
 | Foresters Financial | Software Engineer Co-op, AI | Toronto, ON | Aug 18, 2026 | Canadian Tech | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2305) |
 | Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada | Aug 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2305?utm_source=Simplify&ref=Simplify) |
 | Thomson Reuters | Technology and Operations Developer Co-op, Software Developer | Toronto, ON | Aug 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491) |

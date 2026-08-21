@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-21 14:59 UTC — 129 open roles_
+_Last updated: 2026-08-21 15:30 UTC — 128 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -97,7 +97,6 @@ _Last updated: 2026-08-21 14:59 UTC — 129 open roles_
 | Microsoft | Software Engineer Intern, Gears of War | Vancouver, BC | Aug 06, 2026 | Canadian Tech | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556956276) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | Aug 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404?utm_source=Simplify&ref=Simplify) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA Remote in Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, ON, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student?utm_source=Simplify&ref=Simplify) |
 | McKesson | Associate Business Systems Analyst Intern - Data Hub Canada | Montreal, QC, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830?utm_source=Simplify&ref=Simplify) |
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op - Automation & Data Integration | Squamish, BC, Canada | Aug 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration?utm_source=Simplify&ref=Simplify) |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | Aug 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009?utm_source=Simplify&ref=Simplify) |

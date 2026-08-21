@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-21 13:23 UTC — 128 open roles_
+_Last updated: 2026-08-21 14:03 UTC — 129 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -120,6 +120,7 @@ _Last updated: 2026-08-21 13:23 UTC — 128 open roles_
 | Magna | Manufacturing Execution Systems Co-op - Manufacturing Execution Systems | Oakville, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658?utm_source=Simplify&ref=Simplify) |
 | Magna | IoT Systems Engineer Co-op | Oakville, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235?utm_source=Simplify&ref=Simplify) |
 | Magna | Computer Vision Engineering Co-op | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460?utm_source=Simplify&ref=Simplify) |
+| Magna | AI Engineering Co-op | Oakville, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238?utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | FPGA Digital Design Engineer Intern | Toronto, ON | Jul 22, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada SF | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application?utm_source=Simplify&ref=Simplify) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Jul 22, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1?utm_source=Simplify&ref=Simplify) |

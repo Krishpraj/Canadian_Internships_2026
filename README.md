@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-23 11:10 UTC — 143 open roles_
+_Last updated: 2026-08-23 11:41 UTC — 144 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -88,6 +88,7 @@ _Last updated: 2026-08-23 11:10 UTC — 143 open roles_
 | KPMG | Software Developer Intern Co-op, Asset Management Digital Solutions, Software Developer | Toronto, ON | Aug 14, 2026 | Canadian Tech | [Apply](https://careers.kpmg.ca/jobs/33306?icims=1) |
 | KPMG | Product Specialist Intern Co-op, Asset Management Digital Solutions | Toronto, ON | Aug 14, 2026 | Canadian Tech | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) |
 | Analysis Group | Research Professional Intern, Generalist | Montreal, QC | Aug 14, 2026 | Canadian Tech | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) |
+| AltaGas | Data Science and Analytics Co-op | Calgary, AB, Canada | Aug 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171?utm_source=Simplify&ref=Simplify) |
 | Howmet Aerospace | Engineering Intern | Laval, QC, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908?utm_source=Simplify&ref=Simplify) |
 | Léger | Research Intern | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |

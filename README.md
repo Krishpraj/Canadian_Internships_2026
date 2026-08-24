@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-24 18:20 UTC — 145 open roles_
+_Last updated: 2026-08-24 19:07 UTC — 144 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -120,7 +120,6 @@ _Last updated: 2026-08-24 18:20 UTC — 145 open roles_
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | Aug 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009?utm_source=Simplify&ref=Simplify) |
 | Ciena | WaveLogic Software Engineer Intern | Ottawa, ON, Canada | Jul 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443?utm_source=Simplify&ref=Simplify) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Jul 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242?utm_source=Simplify&ref=Simplify) |
-| Teledyne | CMOS Co-op | Kitchener, ON, Canada | Jul 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Business Markets Relationship Manager Intern | Bathurst, NB, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302?utm_source=Simplify&ref=Simplify) |
 | Later | Data/Analytics Co-op | Vancouver, BC, Canada | Jul 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002?utm_source=Simplify&ref=Simplify) |
 | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Jul 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply?utm_source=Simplify&ref=Simplify) |

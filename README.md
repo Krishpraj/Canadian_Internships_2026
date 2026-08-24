@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-24 11:24 UTC — 143 open roles_
+_Last updated: 2026-08-24 11:49 UTC — 142 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -65,7 +65,6 @@ _Last updated: 2026-08-24 11:24 UTC — 143 open roles_
 | Thomson Reuters | Machine Learning Software Engineer Co-op, RBC Borealis | Montreal, QC | Aug 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599) |
 | Thomson Reuters | Machine Learning Software Engineer Co-op | Toronto, ON, | Aug 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499) |
 | Thomson Reuters | Applied Research Intern, NLP/ML/GenAI | Toronto, ON | Aug 17, 2026 | Canadian Tech | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) |
-| Thomson Reuters | Applied Research Intern - NLP/ML/GenAI 🎓 | Toronto, ON, Canada | Aug 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812?utm_source=Simplify&ref=Simplify) |
 | Suncor | Data Science Student | Calgary, AB / St. John's, NL / Fort McMurray, AB | Aug 17, 2026 | Canadian Tech | [Apply](https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Calgary-AB-CAN/Data-Science-Student---January-2027_R0017534) |
 | Suncor | Automation Intern - Software or Computer Engineering Student | Calgary, AB / St. John's, NL / Fort McMurray, AB | Aug 17, 2026 | Canadian Tech | [Apply](https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525) |
 | RTX | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC | Aug 17, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) |

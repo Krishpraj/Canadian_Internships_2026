@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-24 12:20 UTC — 142 open roles_
+_Last updated: 2026-08-24 13:27 UTC — 143 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ _Last updated: 2026-08-24 12:20 UTC — 142 open roles_
 | Ontario Teachers' Pension Plan | Capital Markets Intern - Quantitative Strategies and Research | Toronto, ON, Canada | Aug 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2027---4-months-_7168?utm_source=Simplify&ref=Simplify) |
 | Ontario Teachers' Pension Plan | Capital Markets Intern - Quantitative Strategies and Research | Toronto, ON, Canada | Aug 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--January-2027---4-months-_7167?utm_source=Simplify&ref=Simplify) |
 | Ontario Teachers' Pension Plan | Business Insights and Analytics Intern, Member Services | Toronto, ON | Aug 21, 2026 | Canadian Tech | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) |
+| Ontario Teachers' Pension Plan | Business Insights and Analytics Intern - Member Services | Toronto, ON, Canada | Aug 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179?utm_source=Simplify&ref=Simplify) |
 | General Motors | Lighting Software Development & Test Co-op | Markham, ON, Canada | Aug 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Science Risk Analyst Co-op Intern | Toronto, ON, Canada | Aug 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Data Science Analyst Co-op Intern - Audit AI & Analytics | Toronto, ON, Canada | Aug 21, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761?utm_source=Simplify&ref=Simplify) |

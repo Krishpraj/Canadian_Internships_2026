@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-24 04:12 UTC — 144 open roles_
+_Last updated: 2026-08-24 05:07 UTC — 144 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -89,10 +89,10 @@ _Last updated: 2026-08-24 04:12 UTC — 144 open roles_
 | KPMG | Product Specialist Intern Co-op, Asset Management Digital Solutions | Toronto, ON | Aug 14, 2026 | Canadian Tech | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) |
 | Analysis Group | Research Professional Intern, Generalist | Montreal, QC | Aug 14, 2026 | Canadian Tech | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) |
 | AltaGas | Data Science and Analytics Co-op | Calgary, AB, Canada | Aug 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171?utm_source=Simplify&ref=Simplify) |
-| Léger | Research Intern | Toronto, ON, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
 | Howmet Aerospace | Engineering Intern | Laval, QC, Canada | Aug 13, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908?utm_source=Simplify&ref=Simplify) |
-| ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |
+| Léger | Research Intern | Toronto, ON, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336?utm_source=Simplify&ref=Simplify) |
 | ATCO | Engineering Co-op - Electric Division | 10 locations Slave Lake, AB, Canada Grande Prairie, AB, Canada Calgary, AB, Canada Lethbridge, AB, Canada Edmonton, AB, Canada Peace River, AB, Canada Red Deer, AB, Canada Whitehorse, YT, Canada Fort McMurray, AB, Canada Yellowknife, NT, Canada | Aug 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508?utm_source=Simplify&ref=Simplify) |
+| ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Software Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2?utm_source=Simplify&ref=Simplify) |
 | Autodesk | Software Developer Intern | Montreal, QC | Aug 11, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
 | Autodesk | Software Developer Intern | Montreal, QC, Canada | Aug 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-25 18:20 UTC — 155 open roles_
+_Last updated: 2026-08-25 19:05 UTC — 154 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,6 @@ _Last updated: 2026-08-25 18:20 UTC — 155 open roles_
 | Royal Bank of Canada | Product Management Intern - Global Asset Management | Toronto, ON, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Product-Management-Intern-Winter-Spring--8-months-_R-0000185514?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Intern - ECCO | Toronto, ON, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Intern--4-Months-_R-0000185330?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Intern - ECCO | Toronto, ON, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Intern--4-Months-_R-0000185330-1?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Data Engineer Intern - Chief Data Office | Toronto, ON, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CDO--Data-Engineer-Intern--4-Months-_R-0000184902?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Analyst Co-op - Wealth Management | Toronto, ON, Canada Vancouver, BC, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter-Data-Analyst--4-16-months-_R-0000185492?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Business and Data Analyst Co-op - 4 Months | Toronto, ON, Canada Mississauga, ON, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Insurance--Winter-Business-and-Data-Analyst--4-16-months-_R-0000185486?utm_source=Simplify&ref=Simplify) |
 | Motorola | Data Analyst Co-op | Remote in Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175?utm_source=Simplify&ref=Simplify) |

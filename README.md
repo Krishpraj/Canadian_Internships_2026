@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-25 17:01 UTC — 156 open roles_
+_Last updated: 2026-08-25 17:51 UTC — 155 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -46,7 +46,6 @@ _Last updated: 2026-08-25 17:01 UTC — 156 open roles_
 | Royal Bank of Canada | GRM, Portfolio Risk Data & AI Analyst Intern | Toronto, ON | Aug 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2) |
 | Kepler Communications | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | Aug 20, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply?utm_source=Simplify&ref=Simplify) |
 | Kepler Communications | Embedded Software Engineer Intern | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/) |
-| Kensington | Data Analyst Intern, Revenue Optimization | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007) |
 | Capital One | Full Stack Software Engineer Intern, Team Integrated Sprout | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Bank of Montreal | Workforce Analyst Co-op Intern | Toronto, ON | Aug 19, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513) |
 | Bank of Montreal | Workforce Analyst Co-op Intern | Toronto, ON, Canada | Aug 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513?utm_source=Simplify&ref=Simplify) |

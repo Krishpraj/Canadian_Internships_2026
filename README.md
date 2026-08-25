@@ -1,9 +1,11 @@
 # Internships
 
-_Last updated: 2026-08-25 16:04 UTC — 154 open roles_
+_Last updated: 2026-08-25 17:01 UTC — 156 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Royal Bank of Canada | Commercial Portfolio Risk & Credit Analytics Intern - Group Risk Management | Toronto, ON, Canada | Aug 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201-1?utm_source=Simplify&ref=Simplify) |
+| Royal Bank of Canada | Commercial Portfolio Risk & Credit Analytics Intern - Grm | Toronto, ON, Canada | Aug 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201?utm_source=Simplify&ref=Simplify) |
 | Mackenzie Investments | Data Engineering Intern | Toronto, ON, Canada | Aug 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | RTX | Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics | Longueuil, QC, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000?utm_source=Simplify&ref=Simplify) |
 | RTX | Customer First Centre Intern - Customer First Centre - Technical Helpdesk | Longueuil, QC, Canada | Aug 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Centre-Priorit-Clients---Internship---Winter-2027---Customer-First-Centre--Technical-helpdesk_01867386?utm_source=Simplify&ref=Simplify) |

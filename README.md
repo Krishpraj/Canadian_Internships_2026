@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-08-26 10:03 UTC — 158 open roles_
+_Last updated: 2026-08-26 10:57 UTC — 157 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -145,7 +145,6 @@ _Last updated: 2026-08-26 10:03 UTC — 158 open roles_
 | NationGraph | Software Engineer Intern | Toronto, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog Engineer Intern 🎓 | Vancouver, BC, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1?utm_source=Simplify&ref=Simplify) |
 | Magna | Manufacturing Execution Systems Co-op - Manufacturing Execution Systems | Oakville, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658?utm_source=Simplify&ref=Simplify) |
-| Magna | IoT Systems Engineer Co-op | Oakville, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235?utm_source=Simplify&ref=Simplify) |
 | Magna | Computer Vision Engineering Co-op | Toronto, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460?utm_source=Simplify&ref=Simplify) |
 | Magna | AI Engineering Co-op | Oakville, ON, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238?utm_source=Simplify&ref=Simplify) |
 | Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Jul 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=Simplify&ref=Simplify) |

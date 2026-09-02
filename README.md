@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-09-02 10:41 UTC — 237 open roles_
+_Last updated: 2026-09-02 14:46 UTC — 247 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -8,9 +8,19 @@ _Last updated: 2026-09-02 10:41 UTC — 237 open roles_
 | Zurich Insurance | Data Engineering Intern | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.careers.zurich.com/job/Toronto-Data-Engineering-Intern-ON/1370995557/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | Riverside Natural Foods | Junior Data Analyst Intern/Co-op | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| Nokia | Web Developer Co-op Intern - Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39612?utm_source=Simplify&ref=Simplify) |
+| Nokia | Web Developer Co-op Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39821?utm_source=Simplify&ref=Simplify) |
 | Nokia | Tools and Automation Software Developer Co-op/Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341?utm_source=Simplify&ref=Simplify) |
+| Nokia | Software Developer Co-op Intern - Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39395?utm_source=Simplify&ref=Simplify) |
+| Nokia | Software Developer Co-op Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435?utm_source=Simplify&ref=Simplify) |
+| Nokia | Software Designer Co-op Intern - Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679?utm_source=Simplify&ref=Simplify) |
 | Grass Valley | Software Development Intern | Montreal, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development?utm_source=Simplify&ref=Simplify) |
+| Geotab | Product Management Intern - Growth & Marketplace | Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Product Management Intern | Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada Oakville, ON, Canada Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Embedded Developer Intern - Multiple Teams | Oakville, ON, Canada Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Data Analyst Intern | Toronto, ON, Canada Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008?utm_source=Simplify&ref=Simplify) |
+| General Dynamics UK | Software Developer Co-op - 16-Months | Calgary, AB, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399?utm_source=Simplify&ref=Simplify) |
 | Wealthsimple | Software Development Intern / Data Science Intern - Multiple Teams | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | TD Bank | Direct Investing Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Winter-2027-_R_1507625?utm_source=Simplify&ref=Simplify) |
 | TC Energy | Engineering Intern | Calgary, AB, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern---Engineering_JR-10728?utm_source=Simplify&ref=Simplify) |

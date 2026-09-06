@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-09-06 11:08 UTC — 265 open roles_
+_Last updated: 2026-09-06 14:15 UTC — 265 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -40,11 +40,7 @@ _Last updated: 2026-09-06 11:08 UTC — 265 open roles_
 | Nokia | DSP Firmware Engineer Co-op/Intern | Ottawa, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern | Toronto, ON, Canada Oakville, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern | Oakville, ON, Canada Waterloo, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Product Management Intern - Growth & Marketplace | Oakville, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Product Management Intern | Oakville, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada Oakville, ON, Canada Waterloo, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Data Scientist Intern | Toronto, ON, Canada Oakville, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383410008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Data Analyst Intern | Toronto, ON, Canada Oakville, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147019949?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op - 16-Months | Calgary, AB, Canada | Sep 03, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399?utm_source=Simplify&ref=Simplify) |
 | Zurich Insurance | IT Data Governance Intern | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.careers.zurich.com/job/Toronto-IT-Data-Governance-Intern-ON/1370998357/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
@@ -55,6 +51,10 @@ _Last updated: 2026-09-06 11:08 UTC — 265 open roles_
 | Nokia | Tools and Automation Software Developer Co-op/Intern | Ottawa, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341?utm_source=Simplify&ref=Simplify) |
 | Grass Valley | Software Development Intern | Montreal, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development?utm_source=Simplify&ref=Simplify) |
 | Geotab | Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months | Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Product Management Intern - Growth & Marketplace | Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Product Management Intern | Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada Oakville, ON, Canada Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008?utm_source=Simplify&ref=Simplify) |
+| Geotab | Data Analyst Intern | Toronto, ON, Canada Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008?utm_source=Simplify&ref=Simplify) |
 | CAE | Software Engineering Intern - AI, Automation and Business Intelligence | Montreal, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1?utm_source=Simplify&ref=Simplify) |
 | Amgen | Business Analyst Co-op | Burnaby, BC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807?utm_source=Simplify&ref=Simplify) |
 | Wealthsimple | Software Development Intern / Data Science Intern - Multiple Teams | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true&utm_source=Simplify&ref=Simplify) |

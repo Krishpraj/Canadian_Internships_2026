@@ -1,12 +1,13 @@
 # Internships
 
-_Last updated: 2026-09-11 04:53 UTC — 516 open roles_
+_Last updated: 2026-09-11 09:12 UTC — 517 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Mackenzie Investments | Winter Intern - Investment Management - Multi-Asset | Winnipeg, MB, Canada Toronto, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
+| Kinaxis | Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008?utm_source=Simplify&ref=Simplify) |
 | Exegy | Software Developer Intern | Montreal, QC, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354?utm_source=Simplify&ref=Simplify) |
@@ -250,7 +251,6 @@ _Last updated: 2026-09-11 04:53 UTC — 516 open roles_
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON | Sep 03, 2026 | Canadian Tech | [Apply](https://careers.amd.com/jobs/91207?icims=1) |
 | AltaML | Associate Software Engineer | Edmonton, AB | Sep 03, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1/) |
 | AltaML | Associate Software Developer | Calgary, AB / Edmonton, AB | Sep 03, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91/) |
-| Wealthsimple | Software Development Intern / Data Science Intern - Multiple Teams | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Sun Life | Associate Front-End Developer | Toronto, ON / Waterloo, ON | Sep 02, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Winter-2027-_JR00127140) |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://stripe.com/jobs/search?gh_jid=8130805&utm_source=Simplify&ref=Simplify) |
 | RTX | Data Analyst Intern, Global Sales | Longueuil, QC | Sep 02, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) |
@@ -271,6 +271,7 @@ _Last updated: 2026-09-11 04:53 UTC — 516 open roles_
 | CAE | Software Engineering Intern, AI, Automation and Business Intelligence | Montreal, QC | Sep 02, 2026 | Canadian Tech | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) |
 | CAE | Software Engineering Intern - AI, Automation and Business Intelligence | Montreal, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1?utm_source=Simplify&ref=Simplify) |
 | Amgen | Business Analyst Co-op | Burnaby, BC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807?utm_source=Simplify&ref=Simplify) |
+| Wealthsimple | Software Development Intern / Data Science Intern - Multiple Teams | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Wealthsimple | Software Development and Data Science Internships | Toronto, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/) |
 | University Health Network | Research Technical Assistant, AI and Multimodal Foundation Models | Toronto, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000146744019) |
 | Trane Technologies | BrainBox AI Intern | Montreal, QC | Sep 01, 2026 | Canadian Tech | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608/2027-BrainBox-AI-Intern) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-09-13 16:29 UTC — 535 open roles_
+_Last updated: 2026-09-13 18:52 UTC — 535 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -382,7 +382,6 @@ _Last updated: 2026-09-13 16:29 UTC — 535 open roles_
 | General Motors | Data Engineering Software Developer Co-op | Markham, ON, Canada Oshawa, ON, Canada | Aug 31, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353?utm_source=Simplify&ref=Simplify) |
 | Mackenzie Investments | Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering | Ontario, Canada | Aug 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5998/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Mackenzie Investments | Quantitative Developer Intern, Fixed Income Platform Engineering | Toronto, ON | Aug 28, 2026 | Canadian Tech | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5998/job?mobile=true&needsRedirect=false) |
-| AMI | Computer Vision Scientist Intern - Geometry and 3D Vision | Montreal, QC, Canada Paris, France NYC | Aug 28, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Quantitative Risk Intern, GRM | Toronto, ON | Aug 27, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-2) |
 | Royal Bank of Canada | Quantitative Risk Intern - Grm | Toronto, ON, Canada | Aug 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-2?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Quantitative Risk Intern - Grm | Toronto, ON, Canada | Aug 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1?utm_source=Simplify&ref=Simplify) |
@@ -399,6 +398,7 @@ _Last updated: 2026-09-13 16:29 UTC — 535 open roles_
 | Mackenzie Investments | Platform Developer Intern - Platform Developer | Toronto, ON, Canada | Aug 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5992/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Ciena | Layout Design Intern - Fall 2026 | Ottawa, ON, Canada | Aug 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587?utm_source=Simplify&ref=Simplify) |
 | AMI | Computer Vision Scientist Intern, Geometry and 3D Vision | Montreal, QC | Aug 27, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/) |
+| AMI | Computer Vision Scientist Intern - Geometry and 3D Vision | Montreal, QC, Canada Paris, France NYC | Aug 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | Zip | Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | Aug 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | RTX | Customer Data Management and Analysis Intern | Longueuil, QC | Aug 26, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932) |
 | RTX | Customer Data Management and Analysis Intern | Longueuil, QC, Canada | Aug 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932?utm_source=Simplify&ref=Simplify) |

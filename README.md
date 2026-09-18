@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-09-18 13:56 UTC — 575 open roles_
+_Last updated: 2026-09-18 17:21 UTC — 571 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -9,7 +9,6 @@ _Last updated: 2026-09-18 13:56 UTC — 575 open roles_
 | Alayacare | Fullstack Developer Intern - Python | Montreal, QC, Canada | Sep 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://alayacare.com/open-positions?gh_jid=8811336002&utm_source=Simplify&ref=Simplify) |
 | 4AG Robotics | Robotics Software Co-op | Salmon Arm, BC, Canada | Sep 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24?utm_source=Simplify&ref=Simplify) |
 | 4AG Robotics | AI Co-op Student | Salmon Arm, BC, Canada | Sep 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7?utm_source=Simplify&ref=Simplify) |
-| Thales | Computer Science Intern Co-op | Ottawa, ON | Sep 17, 2026 | Canadian Tech | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) |
 | Rockwell Automation | Robotics Research Co-op - Physical AI - OTTO | Waterloo, ON, Canada | Sep 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1?utm_source=Simplify&ref=Simplify) |
 | Rockwell Automation | Robotics Research Co-op - Physical AI - OTTO | Waterloo, ON, Canada | Sep 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872?utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog Layout Co-op Intern | Toronto, ON, Canada | Sep 17, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789?utm_source=Simplify&ref=Simplify) |
@@ -161,7 +160,6 @@ _Last updated: 2026-09-18 13:56 UTC — 575 open roles_
 | Bank of Montreal | Workforce Analyst Intern/Co-op | Toronto, ON, Canada | Sep 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513-1?utm_source=Simplify&ref=Simplify) |
 | Zaber Technologies | Software Developer Co-op | Vancouver, BC, Canada | Sep 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/zaber/j/EAB5877DC3/apply?utm_source=Simplify&ref=Simplify) |
 | Zaber Technologies | Embedded Software Co-op | Vancouver, BC, Canada | Sep 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/zaber/j/1F627CC2BB/apply?utm_source=Simplify&ref=Simplify) |
-| Sun Life | API Developer | Toronto, ON | Sep 09, 2026 | Canadian Tech | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--API-Developer--Winter-2027-_JR00127091) |
 | SECURE | Specialty Chemicals Engineering & Technical Analyst | Calgary, AB | Sep 09, 2026 | Canadian Tech | [Apply](https://careers-canada-secure.icims.com/jobs/1926/job?mobile=true&needsRedirect=false) |
 | SECURE | Software Developer Intern | Calgary, AB | Sep 09, 2026 | Canadian Tech | [Apply](https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false) |
 | SECURE | Measurement Intern | Calgary, AB | Sep 09, 2026 | Canadian Tech | [Apply](https://careers-canada-secure.icims.com/jobs/1954/job?mobile=true&needsRedirect=false) |
@@ -189,7 +187,6 @@ _Last updated: 2026-09-18 13:56 UTC — 575 open roles_
 | Geotab | Software Developer Intern | Toronto, ON, Canada Oakville, ON, Canada Waterloo, ON, Canada | Sep 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5414448008?utm_source=Simplify&ref=Simplify) |
 | D2L | Software Developer Co-op | Kitchener, ON | Sep 09, 2026 | Canadian Tech | [Apply](https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229) |
 | D2L | Business Insights & Analytics Co-op | Kitchener, ON | Sep 09, 2026 | Canadian Tech | [Apply](https://www.d2l.com/careers/jobs/?job_id=8188363&gh_jid=8188363) |
-| CIBC | Data Scientist Analyst, GTB | Toronto, ON | Sep 09, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist--GTB--Winter-2027-Analyst--8-Months-_2618525) |
 | CAE | Junior Data Analyst Intern | Halifax, NS | Sep 09, 2026 | Canadian Tech | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Halifax/XMLNAME----C-DS-902-Junior-Data-Analytics-Intern_123391) |
 | CAE | Junior Data Analyst Intern | Halifax Regional Municipality, NS, Canada | Sep 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Halifax/XMLNAME----C-DS-902-Junior-Data-Analytics-Intern_123391?utm_source=Simplify&ref=Simplify) |
 | Bank of Montreal | Hardware Asset Management Analyst Co-op Intern - Multiple Teams | Toronto, ON, Canada | Sep 09, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3?utm_source=Simplify&ref=Simplify) |
@@ -570,7 +567,6 @@ _Last updated: 2026-09-18 13:56 UTC — 575 open roles_
 | Thomson Reuters | Machine Learning Software Engineer Co-op, RBC Borealis | Montreal, QC | Aug 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599) |
 | Thomson Reuters | Machine Learning Software Engineer Co-op | Toronto, ON, | Aug 17, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499) |
 | Thomson Reuters | Applied Research Intern, NLP/ML/GenAI | Toronto, ON | Aug 17, 2026 | Canadian Tech | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) |
-| RTX | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC | Aug 17, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) |
 | Analysis Group | Research Professional Intern, Generalist | Montreal, QC | Aug 14, 2026 | Canadian Tech | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) |
 | Autodesk | Software Developer Intern | Montreal, QC | Aug 11, 2026 | Canadian Tech | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
 | Epic Games | Machine Learning Intern, Special Projects, Epic Research Group | Montreal, QC | Aug 07, 2026 | Canadian Tech | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-09-19 06:46 UTC — 574 open roles_
+_Last updated: 2026-09-19 11:40 UTC — 573 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -201,7 +201,6 @@ _Last updated: 2026-09-19 06:46 UTC — 574 open roles_
 | Bank of Montreal | Hardware Asset Management Analyst Co-op Intern | Toronto, ON | Sep 09, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2) |
 | Zaber Technologies | Software Developer Co-op | Vancouver, BC | Sep 08, 2026 | Canadian Tech | [Apply](https://apply.workable.com/zaber/j/EAB5877DC3/) |
 | Zaber Technologies | Embedded Software Co-op | Vancouver, BC | Sep 08, 2026 | Canadian Tech | [Apply](https://apply.workable.com/zaber/j/1F627CC2BB/) |
-| TJX | Business Intelligence & Automation Analyst Co-op | Mississauga, ON, Canada | Sep 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Business-Intelligence---Automation-Analyst-Co-op_REQ145459?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Software Engineering Rotational Program | Toronto, ON | Sep 08, 2026 | Canadian Tech | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435) |
 | TD Bank | Software Engineer Intern Co-op | Toronto, ON, Canada Mississauga, ON, Canada London, ON, Canada | Sep 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Saving & Investing Shopping & Buying Journey Intern Co-op - Saving & Investing | Toronto, ON, Canada | Sep 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Saving---Investing--SIJ--Shopping---Buying-Journey-Intern-Co-op_R_1504408?utm_source=Simplify&ref=Simplify) |
@@ -348,7 +347,6 @@ _Last updated: 2026-09-19 06:46 UTC — 574 open roles_
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON | Sep 03, 2026 | Canadian Tech | [Apply](https://careers.amd.com/jobs/91207?icims=1) |
 | AltaML | Associate Software Engineer | Edmonton, AB | Sep 03, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1/) |
 | AltaML | Associate Software Developer | Calgary, AB / Edmonton, AB | Sep 03, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91/) |
-| Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://stripe.com/jobs/search?gh_jid=8130805&utm_source=Simplify&ref=Simplify) |
 | RTX | Data Analyst Intern, Global Sales | Longueuil, QC | Sep 02, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) |
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713?utm_source=Simplify&ref=Simplify) |
 | Riverside Natural Foods | Junior Data Analyst Intern/Co-op | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008?utm_source=Simplify&ref=Simplify) |
@@ -369,6 +367,7 @@ _Last updated: 2026-09-19 06:46 UTC — 574 open roles_
 | TD Bank | Direct Investing Product and Strategy – Client Engagement Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Product-and-Strategy---Client-Engagement-Intern-Co-op--Winter-2027-_R_1507384?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Direct Investing Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Winter-2027-_R_1507625?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Direct Investing Analytics & Insights Intern Co-op - Winter 2027 | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Analytics---Insights-Intern---Co-Op--Fall-2026-_R_1507372?utm_source=Simplify&ref=Simplify) |
+| Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://stripe.com/jobs/search?gh_jid=8130805&utm_source=Simplify&ref=Simplify) |
 | Stripe | Software Engineer Intern | Toronto, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | RTX | Numerical Methods Intern - Advanced Software Development | Longueuil, QC, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187?utm_source=Simplify&ref=Simplify) |
 | RTX | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035?utm_source=Simplify&ref=Simplify) |

@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-09-27 18:32 UTC — 502 open roles_
+_Last updated: 2026-09-27 21:42 UTC — 502 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -192,14 +192,11 @@ _Last updated: 2026-09-27 18:32 UTC — 502 open roles_
 | L3Harris Technologies | FPGA Designer Co-op | Hamilton, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN) |
 | Intelcom \| Dragonfly | Data Analyst Intern | Montreal, QC, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/HR-Data-Analysis-Intern_JR111758-1?utm_source=Simplify&ref=Simplify) |
 | Intelcom \| Dragonfly | Back-end Developer Intern - Mobile Application | Montreal, QC, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Back-end-Developer-Intern---Mobile-Application_JR111747?utm_source=Simplify&ref=Simplify) |
-| Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply?utm_source=Simplify&ref=Simplify) |
 | Equitable Bank | Data Scientist Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/) |
 | Equitable Bank | Credit Risk Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/) |
-| Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply?utm_source=Simplify&ref=Simplify) |
 | DoorDash | Software Engineer Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
 | Definity Financial | Technology Solutions Co-op Intern, Data Platform & Engineering | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324) |
 | Definity Financial | Technology Solutions Co-op Intern - Data Platform & Engineering | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324?utm_source=Simplify&ref=Simplify) |
-| Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada Waterloo, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345?utm_source=Simplify&ref=Simplify) |
 | CIBC | Risk Analytics Co-op 🎓 | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885?utm_source=Simplify&ref=Simplify) |
 | CIBC | Risk Analytics Co-op 🎓 | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885-1?utm_source=Simplify&ref=Simplify) |
 | CIBC | Risk Analytics Co-op | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885) |
@@ -227,7 +224,10 @@ _Last updated: 2026-09-27 18:32 UTC — 502 open roles_
 | Google | Student Researcher, PhD | Toronto, ON / Waterloo, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) |
 | Google | Student Researcher, BS/MS | Montreal, QC | Sep 14, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) |
 | Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/) |
+| Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply?utm_source=Simplify&ref=Simplify) |
+| Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply?utm_source=Simplify&ref=Simplify) |
 | Equitable Bank | Commercial Lending AI Engineer Intern | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/) |
+| Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada Waterloo, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Technology Business Administration Co-op Intern | Toronto, ON / Waterloo, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) |
 | Ciena | Software Engineering Intern, Optical Transport and IP Networking | Ottawa, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) |
 | Ciena | Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631?utm_source=Simplify&ref=Simplify) |
@@ -397,13 +397,10 @@ _Last updated: 2026-09-27 18:32 UTC — 502 open roles_
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Sep 02, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Grass Valley | Software Development Intern | Montreal, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development?utm_source=Simplify&ref=Simplify) |
-| Geotab | Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months | Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Product Management Intern, Installation Experience | Oakville, ON | Sep 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) |
 | Geotab | Product Management Intern | Oakville, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Product Coordinator Intern, Driver Compliance | Toronto, ON / Waterloo, ON / Oakville, ON | Sep 02, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) |
 | Geotab | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada Oakville, ON, Canada Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008?utm_source=Simplify&ref=Simplify) |
-| Geotab | Embedded Developer Intern - Multiple Teams | Oakville, ON, Canada Waterloo, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op - 16-Months | Calgary, AB, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Developer Co-op | Calgary, AB | Sep 02, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) |
 | Amgen | Business Analyst Co-op | Burnaby, BC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807?utm_source=Simplify&ref=Simplify) |
@@ -415,7 +412,10 @@ _Last updated: 2026-09-27 18:32 UTC — 502 open roles_
 | Intelcom \| Dragonfly | Front-End Developer Intern - Power Platform Integration | Montreal, QC, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1?utm_source=Simplify&ref=Simplify) |
 | Intelcom \ | Front-End Developer Intern, Power Platform Integration | Montreal, QC | Sep 01, 2026 | Canadian Tech | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1) |
 | Grass Valley | Software Development Intern | Montreal, QC | Sep 01, 2026 | Canadian Tech | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) |
+| Grass Valley | Software Development Intern | Montreal, QC, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development?utm_source=Simplify&ref=Simplify) |
+| Geotab | Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months | Waterloo, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Vehicle Systems Engineering Intern | Waterloo, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008) |
+| Geotab | Embedded Developer Intern - Multiple Teams | Oakville, ON, Canada Waterloo, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008?utm_source=Simplify&ref=Simplify) |
 | General Dynamics UK | Software Engineering Co-op | Ottawa, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) |
 | AMD | Software Engineer Intern/Co-op | Vancouver, BC | Sep 01, 2026 | Canadian Tech | [Apply](https://careers.amd.com/jobs/91367?icims=1) |
 | AMD | Software Engineer Intern/Co-op | Markham, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://careers.amd.com/jobs/91368?icims=1) |

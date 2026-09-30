@@ -1,11 +1,12 @@
 # Internships
 
-_Last updated: 2026-09-30 06:05 UTC — 437 open roles_
+_Last updated: 2026-09-30 12:49 UTC — 438 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Sony Interactive Entertainment | Technical Designer Intern | Montreal, QC, Canada | Sep 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004?utm_source=Simplify&ref=Simplify) |
 | L3Harris Technologies | Systems Engineering Co-op | Waterdown, Hamilton, ON, Canada | Sep 30, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
+| TD Bank | Data Analytics & Insights Intern Co-op | Montreal, QC, Canada Toronto, ON, Canada | Sep 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914?utm_source=Simplify&ref=Simplify) |
 | Intact | Software Developer 1 Intern/Co-op - Winter 2027 | St. John's, NL, Canada | Sep 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972?utm_source=Simplify&ref=Simplify) |
 | Foresters Financial | Software Engineer Co-op Student | Toronto, ON, Canada | Sep 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | Sep 29, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787?utm_source=Simplify&ref=Simplify) |
@@ -221,7 +222,6 @@ _Last updated: 2026-09-30 06:05 UTC — 437 open roles_
 | Bank of Montreal | Quantitative Developer (Alpha Research Team), GAM | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715) |
 | Nokia | Optical Test Intern Co-op | Ottawa, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Scientist Co-op/Intern | Ottawa, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965?utm_source=Simplify&ref=Simplify) |
-| Kinaxis | Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Armstrong Fluid Technology | Test Engineering Co-op | Toronto, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://armstrongfluidtechnology.bamboohr.com/careers/1001/?utm_source=Simplify&ref=Simplify) |
 | Visier Solutions | Test Developer Co-op | Vancouver, BC | Sep 11, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006) |
 | Visier Solutions | Software Developer Co-op | Vancouver, BC | Sep 11, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006) |
@@ -240,6 +240,7 @@ _Last updated: 2026-09-30 06:05 UTC — 437 open roles_
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Intern Developer, Clients, Front End Technologies | Ottawa, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false) |
+| Kinaxis | Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008?utm_source=Simplify&ref=Simplify) |
 | Dialogue | Full Stack Developer Intern | Montreal, QC | Sep 11, 2026 | Canadian Tech | [Apply](https://ats.rippling.com/dialogue-en/jobs/3c2341d5-604d-463c-8b79-5d1669d81e78) |
 | Definity Financial | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354) |
@@ -338,7 +339,6 @@ _Last updated: 2026-09-30 06:05 UTC — 437 open roles_
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON | Sep 03, 2026 | Canadian Tech | [Apply](https://careers.amd.com/jobs/91207?icims=1) |
 | AltaML | Associate Software Engineer | Edmonton, AB | Sep 03, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1/) |
 | AltaML | Associate Software Developer | Calgary, AB / Edmonton, AB | Sep 03, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91/) |
-| Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://stripe.com/jobs/search?gh_jid=8130805&utm_source=Simplify&ref=Simplify) |
 | RTX | Data Analyst Intern, Global Sales | Longueuil, QC | Sep 02, 2026 | Canadian Tech | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) |
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713?utm_source=Simplify&ref=Simplify) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC | Sep 02, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/) |
@@ -350,6 +350,7 @@ _Last updated: 2026-09-30 06:05 UTC — 437 open roles_
 | General Dynamics UK | Software Developer Co-op | Calgary, AB | Sep 02, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) |
 | Amgen | Business Analyst Co-op | Burnaby, BC, Canada | Sep 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807?utm_source=Simplify&ref=Simplify) |
 | Trane Technologies | BrainBox AI Intern | Montreal, QC | Sep 01, 2026 | Canadian Tech | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608/2027-BrainBox-AI-Intern) |
+| Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://stripe.com/jobs/search?gh_jid=8130805&utm_source=Simplify&ref=Simplify) |
 | Stripe | Software Engineer Intern | Toronto, ON | Sep 01, 2026 | Canadian Tech | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | Intelcom \| Dragonfly | Software Developer Intern - Address Intelligence Platform | Montreal, QC, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611?utm_source=Simplify&ref=Simplify) |
 | Intelcom \| Dragonfly | Front-End Developer Intern - Power Platform Integration | Montreal, QC, Canada | Sep 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1?utm_source=Simplify&ref=Simplify) |

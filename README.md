@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-10-03 08:38 UTC — 407 open roles_
+_Last updated: 2026-10-03 14:00 UTC — 407 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,6 @@ _Last updated: 2026-10-03 08:38 UTC — 407 open roles_
 | Moment Energy | Data Scientist Co-op (Winter 2027) | Surrey, BC | Sep 26, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) |
 | Moment Energy | Data Scientist Co-op | Surrey, BC, Canada | Sep 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009?utm_source=Simplify&ref=Simplify) |
 | Kinaxis | Developer Intern - Back End Technologies | Ottawa, ON, Canada | Sep 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| Intuit | Software Developer Co-op | Toronto, ON, Canada | Sep 26, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680?utm_source=Simplify&ref=Simplify) |
 | Nokia | Operations Analytics Co-op Intern (Winter 2027) | Ottawa, ON | Sep 25, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) |
 | Intuit | Software Developer Co-op (Winter 2027) | Toronto, ON | Sep 25, 2026 | Canadian Tech | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680) |
 | Ciena | Hardware Design and Verification Intern, PCBA (Winter 2027) | Ottawa, ON | Sep 25, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752) |
@@ -77,6 +76,7 @@ _Last updated: 2026-10-03 08:38 UTC — 407 open roles_
 | Marvell | Data Center Silicon Hardware Engineering Intern Co-op | Toronto, ON / Ottawa, ON | Sep 24, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) |
 | Marvell | Analog Design Intern, Master’s, 2027 Co-op | Toronto, ON | Sep 24, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) |
 | Marvell | Analog Design Intern, BS, 2027 Co-op | Toronto, ON | Sep 24, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788) |
+| Marvell | Analog Design Intern Co-op - BS | Toronto, ON, Canada | Sep 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788?utm_source=Simplify&ref=Simplify) |
 | Marvell | Analog and Mixed Signal Layout Engineer Intern, 2027 Co-Op | Toronto, ON | Sep 24, 2026 | Canadian Tech | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) |
 | Manulife Financial | Product Management & Risk Technology Co-op (Winter 2027) | Toronto, ON | Sep 24, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874) |
 | Manulife Financial | Grit Co-op | Toronto, ON, Canada | Sep 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---GRIT_JR26080515?utm_source=Simplify&ref=Simplify) |

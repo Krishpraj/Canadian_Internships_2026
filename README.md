@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-10-08 15:00 UTC — 392 open roles_
+_Last updated: 2026-10-08 20:30 UTC — 391 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,6 @@ _Last updated: 2026-10-08 15:00 UTC — 392 open roles_
 | Definity Financial | Operations Analyst Co-op Intern | Toronto, ON, Canada Waterloo, ON, Canada Ottawa, ON, Canada | Oct 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410?utm_source=Simplify&ref=Simplify) |
 | Cadence Design Systems | Digital ASIC Design / Verification Engineer Intern/Co-op | Toronto, ON, Canada | Oct 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320?utm_source=Simplify&ref=Simplify) |
 | Altera | High Level Synthesis Engineer Intern | Toronto, ON | Oct 02, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254) |
-| Altera | High Level Synthesis Engineer Intern | Toronto, ON, Canada | Oct 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | Full Stack Software Developer Intern (Winter 2027) | Toronto, ON | Oct 01, 2026 | Canadian Tech | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) |
 | The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | Oct 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | AI Machine Learning Developer Intern (Winter 2027) | Toronto, ON | Oct 01, 2026 | Canadian Tech | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) |
@@ -221,14 +220,11 @@ _Last updated: 2026-10-08 15:00 UTC — 392 open roles_
 | L3Harris Technologies | Full Stack Developer Co-op | Waterdown, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) |
 | L3Harris Technologies | FPGA Software Tool Developer Co-op | Waterdown, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN) |
 | L3Harris Technologies | FPGA Designer Co-op | Hamilton, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN) |
-| Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply?utm_source=Simplify&ref=Simplify) |
 | Equitable Bank | Data Scientist Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/) |
 | Equitable Bank | Credit Risk Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/) |
-| Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply?utm_source=Simplify&ref=Simplify) |
 | DoorDash | Software Engineer Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
 | Definity Financial | Technology Solutions Co-op Intern, Data Platform & Engineering | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324) |
 | Definity Financial | Technology Solutions Co-op Intern - Data Platform & Engineering | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324?utm_source=Simplify&ref=Simplify) |
-| Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada Waterloo, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345?utm_source=Simplify&ref=Simplify) |
 | Altera | Quartus Compiler Software Intern | Toronto, ON | Sep 15, 2026 | Canadian Tech | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108) |
 | Altera | Quartus Compiler Software Intern | Toronto, ON, Canada | Sep 15, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108?utm_source=Simplify&ref=Simplify) |
 | Robinhood | Software Developer Intern/Co-op, Backend | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://boards.greenhouse.io/robinhood/jobs/8194428) |
@@ -240,7 +236,10 @@ _Last updated: 2026-10-08 15:00 UTC — 392 open roles_
 | Google | Student Researcher, PhD | Toronto, ON / Waterloo, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) |
 | Google | Student Researcher, BS/MS | Montreal, QC | Sep 14, 2026 | Canadian Tech | [Apply](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) |
 | Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/) |
+| Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply?utm_source=Simplify&ref=Simplify) |
+| Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply?utm_source=Simplify&ref=Simplify) |
 | Equitable Bank | Commercial Lending AI Engineer Intern | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/) |
+| Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada Waterloo, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345?utm_source=Simplify&ref=Simplify) |
 | Definity Financial | Technology Business Administration Co-op Intern | Toronto, ON / Waterloo, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) |
 | Ciena | Software Engineering Intern, Optical Transport and IP Networking | Ottawa, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) |
 | Ciena | Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON, Canada | Sep 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631?utm_source=Simplify&ref=Simplify) |
@@ -249,7 +248,6 @@ _Last updated: 2026-10-08 15:00 UTC — 392 open roles_
 | Bank of Montreal | Quantitative Developer (Alpha Research Team), GAM | Toronto, ON | Sep 14, 2026 | Canadian Tech | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715) |
 | Nokia | Optical Test Intern Co-op | Ottawa, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Scientist Co-op/Intern | Ottawa, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965?utm_source=Simplify&ref=Simplify) |
-| Armstrong Fluid Technology | Test Engineering Co-op | Toronto, ON, Canada | Sep 12, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://armstrongfluidtechnology.bamboohr.com/careers/1001/?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Machine Learning Compiler & Performance Engineering Intern | Markham, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) |
 | Nokia | Optical Test Intern Co-op | Ottawa, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964) |
 | Nokia | Data Scientist Co-op/Intern | Ottawa, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) |
@@ -273,6 +271,7 @@ _Last updated: 2026-10-08 15:00 UTC — 392 open roles_
 | Cozey | Product Management Intern | Mount-Royal, QC | Sep 11, 2026 | Canadian Tech | [Apply](https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a) |
 | Cozey | Data Science Intern | Mount-Royal, QC | Sep 11, 2026 | Canadian Tech | [Apply](https://ats.rippling.com/cozey-internships/jobs/1e50d436-06c1-447c-b676-5e487b19433c) |
 | Armstrong Fluid Technology | Test Engineering Co-op | Toronto, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://armstrongfluidtechnology.bamboohr.com/careers/1001/) |
+| Armstrong Fluid Technology | Test Engineering Co-op | Toronto, ON, Canada | Sep 11, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://armstrongfluidtechnology.bamboohr.com/careers/1001/?utm_source=Simplify&ref=Simplify) |
 | Amazon | Machine Learning Systems Software Development Engineer Intern, Annapurna Labs | Toronto, ON | Sep 11, 2026 | Canadian Tech | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
 | Pomerleau | GIS Data Analyst Intern | Montreal, QC, Canada Québec City, QC, Canada | Sep 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695?utm_source=Simplify&ref=Simplify) |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Sep 10, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors&utm_source=Simplify&ref=Simplify) |

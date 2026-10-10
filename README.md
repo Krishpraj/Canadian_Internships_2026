@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-10-10 02:28 UTC — 386 open roles_
+_Last updated: 2026-10-10 08:45 UTC — 385 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -13,12 +13,12 @@ _Last updated: 2026-10-10 02:28 UTC — 386 open roles_
 | Manulife Financial | Software Engineering Co-op | Waterloo, ON, Canada | Oct 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1?utm_source=Simplify&ref=Simplify) |
 | Hitachi Energy | Software Analyst Intern | Toronto, ON, Canada | Oct 08, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679?utm_source=Simplify&ref=Simplify) |
 | The Semios Group | Software Developer Co-op | Vancouver, BC, Canada | Oct 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply?utm_source=Simplify&ref=Simplify) |
-| StackAdapt | Software Engineer Backend Intern | Remote in Canada | Oct 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009?utm_source=Simplify&ref=Simplify) |
-| StackAdapt | Machine Learning Engineer Intern | Remote in Canada | Oct 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009?utm_source=Simplify&ref=Simplify) |
-| MistyWest | Engineering Co-op | Vancouver, BC, Canada | Oct 07, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply?utm_source=Simplify&ref=Simplify) |
+| StackAdapt | Software Engineer Backend Intern | Remote in Canada | Oct 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009?utm_source=Simplify&ref=Simplify) |
+| StackAdapt | Machine Learning Engineer Intern | Remote in Canada | Oct 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Software Engineering Co-op (Winter 2027) | Surrey, BC | Oct 06, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | Oct 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009?utm_source=Simplify&ref=Simplify) |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | Oct 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434575009?utm_source=Simplify&ref=Simplify) |
+| MistyWest | Engineering Co-op | Vancouver, BC, Canada | Oct 06, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply?utm_source=Simplify&ref=Simplify) |
 | McKesson | Pharmaceutical Distribution Developer Intern (Winter 2027) | Montreal, QC | Oct 06, 2026 | Canadian Tech | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) |
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON | Oct 06, 2026 | Canadian Tech | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) |
 | General Motors | Vehicle Experience Software Developer Co-op (Winter 2027) | Markham, ON | Oct 06, 2026 | Canadian Tech | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872) |
@@ -69,7 +69,6 @@ _Last updated: 2026-10-10 02:28 UTC — 386 open roles_
 | Hitachi Energy | Hardware Test Engineering Intern (Summer 2027) | Toronto, ON | Oct 02, 2026 | Canadian Tech | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | Harvey | Software Engineer Intern (Winter 2027) | Toronto, ON | Oct 02, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/) |
 | Definity Financial | Operations Analyst Co-op Intern (Winter 2027) | Toronto, ON | Oct 02, 2026 | Canadian Tech | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) |
-| Cadence Design Systems | Digital ASIC Design / Verification Engineer Intern/Co-op | Toronto, ON, Canada | Oct 02, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | Full Stack Software Developer Intern (Winter 2027) | Toronto, ON | Oct 01, 2026 | Canadian Tech | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) |
 | The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | Oct 01, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012?utm_source=Simplify&ref=Simplify) |
 | The Home Depot | AI Machine Learning Developer Intern (Winter 2027) | Toronto, ON | Oct 01, 2026 | Canadian Tech | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) |
